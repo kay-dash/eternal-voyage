@@ -49,7 +49,7 @@ Transforms the user into a saber tiger hybrid, which is very fast and agile and 
 | --- | --- |
 | Movement speed | +30% of base |
 | Punch damage | +10 HP |
-| Armour | +15 |
+| Armor | +15 |
 | Toughness | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1.2 |
@@ -81,7 +81,7 @@ Transforms the user into a saber tiger, a very fast big cat that hunts by surpri
 | --- | --- |
 | Movement speed | +50% of base |
 | Punch damage | +13 HP |
-| Armour | +15 |
+| Armor | +15 |
 | Toughness | +3 |
 | Step height | +1 blocks |
 | Jump | +1.2 |

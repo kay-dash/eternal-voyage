@@ -48,7 +48,7 @@ The weapon held by the user wrings whoever it hits. Each hit dries them out a li
 
 ![](../../assets/playable/inomissing/abilities/shibo_wring.png){ .entry-move-icon loading=lazy } *Active*
 
-The user grabs the one in front of them and wrings the life juice out of them. It hurts through armour, dries them out so their max health goes down for a while and heals the user. Each wring fills the juice reserve and the good effects of the one wrung pass to the user. Water gives a dried body its health back The one wrung is held 3 seconds, then dropped. The one wrung is held 1 second, then thrown where the user looks, the drier the farther. They get hurt with whoever they hit. The one wrung is held 1 second, then crushed to the ground, stunned. Their juice splashes and slows the enemies around.
+The user grabs the one in front of them and wrings the life juice out of them. It hurts through armor, dries them out so their max health goes down for a while and heals the user. Each wring fills the juice reserve and the good effects of the one wrung pass to the user. Water gives a dried body its health back The one wrung is held 3 seconds, then dropped. The one wrung is held 1 second, then thrown where the user looks, the drier the farther. They get hurt with whoever they hit. The one wrung is held 1 second, then crushed to the ground, stunned. Their juice splashes and slows the enemies around.
 
 <div class="entry-stats" markdown="1">
 

@@ -48,9 +48,9 @@ These values are for the bosses encountered in the world. Their challenge fights
 
 ## Impel Down guards and wardens
 
-The table shows health after Doriki scaling and the standard jailer’s hit before target defences. Hooded guards start with **30% more Doriki** than a uniformed jailer on the same floor. Haki is the roll range for the floor. The last column shows which guards can use Armament techniques.
+The table shows health after Doriki scaling and the standard jailer’s hit before target defenses. Hooded guards start with **30% more Doriki** than a uniformed jailer on the same floor. Haki is the roll range for the floor. The last column shows which guards can use Armament techniques.
 
-| Floor | Jailer Doriki | Uniformed HP | Standard hit (HP) | Armour | Haki | Armament users (uniform / hood) |
+| Floor | Jailer Doriki | Uniformed HP | Standard hit (HP) | Armor | Haki | Armament users (uniform / hood) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0 | 2,000–5,000 | 50–125 | 2 | 0 | 0 | 0% / 0% |
 | 1 | 5,000–10,500 | 125–253.125 | 4 | 0 | 25–60 | 0% / 5% |
@@ -64,7 +64,7 @@ Head jailers take the top Doriki roll from their floor. Their HP is **3.5×** th
 
 ### Sphinx, Chief of the Guard and Warden
 
-| Floor | Boss | Configured Doriki | Effective HP | Base attack | Armour | Haki |
+| Floor | Boss | Configured Doriki | Effective HP | Base attack | Armor | Haki |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0 | Boss tier | 12,000 | — | 4 | 2 | 75 |
 | 1 | Boss tier | 25,000 | — | 7 | 8 | 150 |
@@ -78,7 +78,7 @@ Head jailers take the top Doriki roll from their floor. Their HP is **3.5×** th
 
 Rescaled prison enemies deal **2×** their configured damage before other combat modifiers. The following are floor tiers. Individual beasts can use their own attacks.
 
-| Floor | Configured Doriki | Effective HP from Doriki | Base attack | Armour | Haki |
+| Floor | Configured Doriki | Effective HP from Doriki | Base attack | Armor | Haki |
 | --- | --- | --- | --- | --- | --- |
 | 0 | 8,000 | 200 | 3 | 1 | 60 |
 | 1 | 17,000 | 293.75 | 5 | 5 | 125 |

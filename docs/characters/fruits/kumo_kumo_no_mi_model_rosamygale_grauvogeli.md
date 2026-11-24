@@ -49,7 +49,7 @@ Transforms the user into a spider hybrid with 6 black arms and a spider abdomen,
 | --- | --- |
 | Movement speed | +10% of base |
 | Punch damage | +9 HP |
-| Armour | +16 |
+| Armor | +16 |
 | Toughness | +4 |
 | Step height | +0.5 blocks |
 
@@ -80,7 +80,7 @@ Transforms the user into a giant spider, which is fast, low to the ground and ha
 | --- | --- |
 | Movement speed | +30% of base |
 | Punch damage | +9 HP |
-| Armour | +16 |
+| Armor | +16 |
 | Toughness | +3 |
 | Step height | +1 blocks |
 | Jump | +1 |

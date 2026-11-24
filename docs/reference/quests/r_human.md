@@ -173,7 +173,7 @@ Be of the Modified Human race.
 
 ## Germa 66
 
-Germa's soldiers carry their armour in a tin no bigger than a lunch box. Only a modified body can open it.
+Germa's soldiers carry their armor in a tin no bigger than a lunch box. Only a modified body can open it.
 
 Carry a Germa 66 Ration Box. Use it to put a Raid Suit on or take it off; sneak and use it to pick a suit.
 
@@ -281,7 +281,7 @@ Wear the Winch Green Raid Suit. Its techniques are yours while you wear it.
 
 ## Germa's Soldier
 
-The Vinsmoke children each wear one colour. A soldier who can wear any of them is worth the whole family.
+The Vinsmoke children each wear one color. A soldier who can wear any of them is worth the whole family.
 
 Reach 25,000 Doriki in a Raid Suit of your choice.
 
@@ -298,7 +298,7 @@ Reach 25,000 Doriki in a Raid Suit of your choice.
 
 <a id="q-1d007e607eec1521"></a>
 
-## Every Colour of Germa
+## Every Color of Germa
 
 **Optional quest.**
 

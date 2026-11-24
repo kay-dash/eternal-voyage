@@ -52,7 +52,7 @@ Installed build `2.0.0-1.20.1`. [Browse all mods](index.md).
 | Conqueror of Three Worlds: Ragnaraku | `hakirework:ragnaraku` | Kaido's blow, Conqueror of Three Worlds. A club coated in Conqueror's Haki is raised high, then brought down: the ground caves in and a ring of Conqueror's Haki tears outward. Needs a club and Conqueror's coating. |
 | Conqueror's Awakening | `hakirework:conquerors_awakening` | Conqueror's Haki let out in full: every blow is coated and hits harder, the user takes less, and much weaker foes near them black out. Burns Haki fast. |
 | Conqueror's Shockwave | `hakirework:conquerors_shockwave` | The user pushes Conqueror's Haki out in front like a wall of force: everyone is thrown back, the weaker black out for a moment. |
-| Core Hardening | `hakirework:iron_stomp` | Armament hardened to the core for 8 seconds: the user's blows go through armour and through the foe's Hardening, which comes off. |
+| Core Hardening | `hakirework:iron_stomp` | Armament hardened to the core for 8 seconds: the user's blows go through armor and through the foe's Hardening, which comes off. |
 | Crumb Step | `hakirework:crumb_step` | The user's body bursts into crumbs and forms again where they look, blinding everyone in the way. |
 | Deep Reserves | `hakirework:deep_reserves` | Willpower 2. Your will goes deeper than your Haki: 8% of the Haki you spend comes straight back. |
 | Empty Space | `hakirework:empty_space` | The Untouchable's ultimate: for four seconds nothing can touch the user. |
@@ -72,10 +72,10 @@ Installed build `2.0.0-1.20.1`. [Browse all mods](index.md).
 | Haki Arrows | `hakirework:kuja_arrows` |  |
 | Haki of Legends | `hakirework:haki_of_legends` | Ryuo and Conqueror's Haki together: everything around the user is shaken without being touched, and the weak black out. Needs Emission 50 and Coating 40. |
 | Haki Slash | `hakirework:haki_slash` | The user cuts the air with a Coated blade, sending a black slash flying at the foe. |
-| Haki Sniping | `hakirework:haki_sniping` | The user fires a single long Coated shot that flies far and goes through most of the target's armour. Needs a bow or a gun in hand. |
+| Haki Sniping | `hakirework:haki_sniping` | The user fires a single long Coated shot that flies far and goes through most of the target's armor. Needs a bow or a gun in hand. |
 | Haki That Doesn't Touch | `hakirework:coated_strike` | A blow coated in Conqueror's Haki that lands two blocks short of the fist and sends the foe a long way. |
-| Hanauta: Gavotte Bond en Avant | `hakirework:gavotte_bond_en_avant` | Humming Fencing. A lunge so fast it runs everyone in a line through, slipping past armour. |
-| Hanauta: Swallow Bond en Avant | `hakirework:swallow_bond_en_avant` | Humming Fencing. Gavotte Bond en Avant from the air: a leap over the one the user looks at and a thrust straight down through them, past armour. |
+| Hanauta: Gavotte Bond en Avant | `hakirework:gavotte_bond_en_avant` | Humming Fencing. A lunge so fast it runs everyone in a line through, slipping past armor. |
+| Hanauta: Swallow Bond en Avant | `hakirework:swallow_bond_en_avant` | Humming Fencing. Gavotte Bond en Avant from the air: a leap over the one the user looks at and a thrust straight down through them, past armor. |
 | Haoshoku Pressure | `hakirework:haoshoku_pressure` | The user holds their Conqueror's Haki over the field: weaker foes around stay slowed and weakened while it lasts. |
 | Haoshoku: Galaxy Divide | `hakirework:galaxy_divide` | Garp's blow that split Hachinosu's giant skull. A fist coated in Conqueror's Haki is drawn back while crimson lightning gathers, then driven straight ahead: a line of Conqueror's Haki splits everything in its way, past Logia bodies and guards. Needs an empty hand and Conqueror's coating. |
 | Haoshoku: Galaxy Impact | `hakirework:galaxy_impact` | Garp's blow. A fist coated in Conqueror's Haki is drawn back while black lightning gathers, then driven down: a dome bursts out like a galaxy and blows everyone away. Punch of a King swallows a house, Galaxy Impact a whole town. Needs an empty hand and Conqueror's coating. |
@@ -113,7 +113,7 @@ Installed build `2.0.0-1.20.1`. [Browse all mods](index.md).
 | Overdone | `hakirework:overdone` | Toast Sovereign only. The smoke alarm goes off and the user comes out black: the Burnt Sovereign, stronger, and every move switches again. |
 | Overdraw | `hakirework:overdraw` | For up to ten seconds the user takes more of the sun than a body can carry. Their own blows land half as hard again and jump to whoever's beside the target, and every one of them burns the user. |
 | Photon Jab | `hakirework:photon_jab` | A storm of jabs with the sun behind every fist, burning whoever's in reach. Stay close: it goes nowhere your arms don't. |
-| Piercing Dash | `hakirework:black_blade_dance` | The user dashes through the foe in one Coated stroke that reaches past armour and a Logia body; everyone on the way is cut. |
+| Piercing Dash | `hakirework:black_blade_dance` | The user dashes through the foe in one Coated stroke that reaches past armor and a Logia body; everyone on the way is cut. |
 | Pinning Shot | `hakirework:coated_volley` | One Coated shot that pins whoever it hits for 2 seconds and holds a Logia body solid. Needs a bow or a gun. |
 | Precog Parry | `hakirework:precog_parry` | The user readies for the blow they see coming: the next one is turned aside and its striker staggers. |
 | Precog Strike | `hakirework:precog_strike` | The user strikes where the foe is about to be: a blow that can't be sidestepped. |
@@ -125,10 +125,10 @@ Installed build `2.0.0-1.20.1`. [Browse all mods](index.md).
 | Refuse to Fall | `hakirework:refuse_to_fall` | Willpower 6. Once every 10 minutes, a blow that would kill you leaves you standing at 1 health, with your Haki bar spent. |
 | Royal Command | `hakirework:royal_command` | The user sends every beast they've tamed with Conqueror's Haki at the one they look at. |
 | Ryuo Breakwater | `hakirework:ryuo_breakwater` | The user lets Armament flow out ahead of them like a breakwater: a Devil Fruit's sweep over an area, Ice Age or a quake, parts around them, and the ground behind them stays untouched. Holds against a fruit user whose Armament isn't stronger. |
-| Ryuo Flow | `hakirework:ryuo_flow` | Armament at its peak, flowing into what the user strikes: blows hit much harder from the inside, slip past armour and Logia bodies and break the target's own Armament and Haki Guard. |
-| Ryuo Palm | `hakirework:ryuo_palm` | The user strikes with an open palm and lets Ryuo flow into the foe, hurting them from the inside past half of their armour. |
-| Ryuo Pulse | `hakirework:ryuo_pulse` | The user lets Armament flow out of their body and through everyone around them without touching them, striking from the inside past armour and Logia bodies and shaking free anything holding them. |
-| Ryuo Shot | `hakirework:ryuo_shot` | The user sends Armament out of their fist across the air into the first one in its path, striking from the inside past armour and Logia bodies. |
+| Ryuo Flow | `hakirework:ryuo_flow` | Armament at its peak, flowing into what the user strikes: blows hit much harder from the inside, slip past armor and Logia bodies and break the target's own Armament and Haki Guard. |
+| Ryuo Palm | `hakirework:ryuo_palm` | The user strikes with an open palm and lets Ryuo flow into the foe, hurting them from the inside past half of their armor. |
+| Ryuo Pulse | `hakirework:ryuo_pulse` | The user lets Armament flow out of their body and through everyone around them without touching them, striking from the inside past armor and Logia bodies and shaking free anything holding them. |
+| Ryuo Shot | `hakirework:ryuo_shot` | The user sends Armament out of their fist across the air into the first one in its path, striking from the inside past armor and Logia bodies. |
 | Ryuo Spear | `hakirework:ryuo_spear` | Galaxy Divide's little brother, no Conqueror's needed: the fist is drawn back a moment, then Ryuo bursts out down a line, striking everyone on it from the inside and throwing them along it. |
 | Seen Slash | `hakirework:seen_slash` | The user cuts where the foe is about to be: a Coated slash that can't be sidestepped. Needs Imbuing 40 and Foresight 40. |
 | Shatter | `hakirework:shatter` | The user strikes with Ryuo that breaks the foe's Hardening; for five seconds their Haki Guard won't hold. |
@@ -143,10 +143,10 @@ Installed build `2.0.0-1.20.1`. [Browse all mods](index.md).
 | Star Cage | `hakirework:star_cage` | Celestial Sovereign only. The one looked at is held for a minute: no moves, no steps and no blows. |
 | Stare Down | `hakirework:stare_down` | One look from the user, and a weaker foe can't bring themselves to attack for three seconds. |
 | Steady Breath | `hakirework:steady_breath` | Willpower 1. A steady will keeps the Haki coming: your Haki bar refills 10% faster. |
-| Strike First | `hakirework:glimpse_of_tomorrow` | For 4 seconds the user moves before the foe can: a blow thrown at them up close is cancelled by theirs, and their own blows land harder and can't be sidestepped. |
+| Strike First | `hakirework:glimpse_of_tomorrow` | For 4 seconds the user moves before the foe can: a blow thrown at them up close is canceled by theirs, and their own blows land harder and can't be sidestepped. |
 | Strike Without Touching | `hakirework:untouched_strike` | The blow lands a hair before the fist does, on a foe up to 8 blocks away, with Ryuo. No Haki Guard or shield stops it. |
 | Sun Tap | `hakirework:sun_tap` | They stand still and draw straight off the sun for three seconds. It mends them, twice as fast under an open daytime sky, and the daylight dims for it. As the Heliograft it burns whoever's near. |
-| Sunny Side Up | `hakirework:sunny_side_up` | Toast Sovereign only. A sun of molten butter swells over the user, drags everyone towards it, and comes down on where they looked. |
+| Sunny Side Up | `hakirework:sunny_side_up` | Toast Sovereign only. A sun of molten butter swells over the user, drags everyone toward it, and comes down on where they looked. |
 | Sunspot Hook | `hakirework:sunspot_hook` | One hook carrying a piece of the sun's surface, launching whoever it lands on and burning their eyes out for a moment. As the Heliograft it takes everyone in front. |
 | Supernova | `hakirework:supernova` | Celestial Sovereign only. All the light nearby falls into the user, and then it all comes back out. |
 | The Great Toaster | `hakirework:great_toaster` | A real toaster the size of a house drops out of the sky over where the user looks, pops burning giant toast down on it, then DINGs and fires two colossal slices. |

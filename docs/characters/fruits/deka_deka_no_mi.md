@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -100,7 +102,7 @@ Allows the user to grow to the size of a Titan.
 | --- | --- |
 | Movement speed | +125% of base |
 | Jump | +10 |
-| Armour | +20 |
+| Armor | +20 |
 | Punch damage | +25 HP |
 | Step height | +3 blocks |
 | Toughness | +6 |

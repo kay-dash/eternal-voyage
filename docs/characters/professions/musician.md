@@ -16,7 +16,7 @@ Craft scores at the Music Stand and play them with an instrument from an [Invent
 | Sea Shanty | Swim speed **+25%, +50%, +100%**. |
 | Battle March | Attack damage **+1, +2, +4**. |
 | Lucky Tune | Luck **+0.5, +1, +2**. |
-| Iron Chorus | Armour **+1.5, +3, +6** and toughness **+0.5, +1, +2**. |
+| Iron Chorus | Armor **+1.5, +3, +6** and toughness **+0.5, +1, +2**. |
 | Leaping Jig | Jump boost **+0.05, +0.1, +0.2**. Negates the first **1.5, 3, or 6 blocks** of a fall. |
 | Heartening Ballad | Absorption equal to **20%, 30%, or 40%** of maximum health. |
 | Craftsman's Song | Gain **5%, 10%, or 20% trade XP** by tier. Stacks with Appetite. |

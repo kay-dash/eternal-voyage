@@ -214,7 +214,7 @@ The user heats up their legs even more than Diable Jambe, coating them in blue f
 
 ![](../../assets/playable/blitzutility/abilities/beouf_burst.png){ .entry-move-icon loading=lazy } *Active*
 
-The user does a dash into a flying kick towards a target, if successful they kick the target again knocking them away. Requires Busoshoku Haki: Internal Destruction and Ifrit Jambe to be active.
+The user does a dash into a flying kick toward a target, if successful they kick the target again knocking them away. Requires Busoshoku Haki: Internal Destruction and Ifrit Jambe to be active.
 
 <div class="entry-stats" markdown="1">
 

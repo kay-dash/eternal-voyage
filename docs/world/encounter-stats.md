@@ -13,7 +13,7 @@ Each cell shows **HP / Doriki**. Brutes and snipers that use the same role row s
 | Captain | 150 / 6,000 | 400 / 10,000 | 600 / 18,000 | 800 / 35,000 |
 | Admiral | 300 / 8,000 | 700 / 16,000 | 1,000 / 25,000 | 1,400 / 48,000 |
 | Attack attribute multiplier | 1.00× | 1.50× | 2.00× | 3.00× |
-| Added armour toughness | +0 | +2 | +4 | +6 |
+| Added armor toughness | +0 | +2 | +4 | +6 |
 
 Eligible enemies can use advanced Haki from the second row onward. Cruise’s arena fighters use the row selected by their assigned Doriki, and certain garrisons have individual placement rules. See [arena tiers](../reference/datapack/arena_tiers.md) for every listed fighter, Haki value, and prize.
 
@@ -40,7 +40,7 @@ The [boss and gear values](../reference/settings/survival.md) include the other 
 
 Prison guards and beasts use the pack’s Doriki-to-health curve and deal **2×** configured damage before other combat modifiers. Uniformed jailers range from **50–125 HP** at the entrance to **375–415.625 HP** on Level 6. Hooded guards roll **30%** more Doriki.
 
-The **Warden** on Level 6 has **37,500 configured Doriki**, **3,375 effective HP**, **16 armour**, and **425 Haki**. The **Sphinx** on Level 2 has **120,000 configured Doriki**, **1,200 effective HP**, **14 armour**, and **300 Haki**. The [prison encounter tables](../reference/settings/encounters.md#impel-down-guards-and-wardens) list every floor, including the Chief of the Guard and the great beasts. See [Impel Down](../voyage/impel-down.md#impel-down) for travel and arrests.
+The **Warden** on Level 6 has **37,500 configured Doriki**, **3,375 effective HP**, **16 armor**, and **425 Haki**. The **Sphinx** on Level 2 has **120,000 configured Doriki**, **1,200 effective HP**, **14 armor**, and **300 Haki**. The [prison encounter tables](../reference/settings/encounters.md#impel-down-guards-and-wardens) list every floor, including the Chief of the Guard and the great beasts. See [Impel Down](../voyage/impel-down.md#impel-down) for travel and arrests.
 
 ## Challenge and Overworld bosses
 

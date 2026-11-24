@@ -50,7 +50,7 @@ Contracts rotate every day at 06:00 UTC. Two contracts from each unlocked tier a
 
 ## Fishmonger's Order
 
-The harbour market is short on fish again.
+The harbor market is short on fish again.
 
 Contracts rotate every day at 06:00 UTC. Two contracts from each unlocked tier are offered at a time; payouts grow with your Doriki.
 

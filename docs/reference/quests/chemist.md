@@ -42,7 +42,7 @@ Reach Chemist level 5.
 
 ## Journeyman Chemist
 
-Drum Island's doctors treat a whole kingdom of frostbite. Practise on its patients.
+Drum Island's doctors treat a whole kingdom of frostbite. Practice on its patients.
 
 Reach Chemist level 25, Compound a Healing Tonic, Compound an Antidote Powder and land on a winter island in Paradise.
 

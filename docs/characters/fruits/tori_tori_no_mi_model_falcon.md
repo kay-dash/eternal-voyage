@@ -50,7 +50,7 @@ Transforms the user into a falcon hybrid, which can fly and still use weapons.
 | Movement speed | +20% of base |
 | Maximum health | +20% |
 | Punch damage | +6 HP |
-| Armour | +5 |
+| Armor | +5 |
 | Step height | +0.5 blocks |
 | Jump | +1.5 |
 | Toughness | +2 |
@@ -83,7 +83,7 @@ Transforms the user into a big falcon, which flies fast and can carry another pl
 | Movement speed | +40% of base |
 | Maximum health | +10% |
 | Punch damage | +5 HP |
-| Armour | +2 |
+| Armor | +2 |
 | Step height | +1 blocks |
 | Jump | +1 |
 | Toughness | +1 |

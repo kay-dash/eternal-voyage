@@ -73,6 +73,8 @@ The user hardens for a few seconds, they take less damage and their blows push e
 | Stat | Value |
 | --- | --- |
 | Cooldown | 30 s (600 ticks) |
+| Damage taken | -30% |
+| Knockback of the blows | +50% |
 
 </div>
 
@@ -101,7 +103,7 @@ The user swings all the way round, every enemy close is hit and thrown away
 
 ![](../../assets/playable/racenomi/abilities/guard_breaker.png){ .entry-move-icon loading=lazy } *Active*
 
-The next blow of the user comes down from above, it goes through part of the armour and breaks a guard
+The next blow of the user comes down from above, it goes through part of the armor and breaks a guard
 
 <div class="entry-stats" markdown="1">
 
@@ -109,6 +111,7 @@ The next blow of the user comes down from above, it goes through part of the arm
 | --- | --- |
 | Base damage | 10 HP |
 | Cooldown | 12 s (240 ticks) |
+| Through Armor | +30% |
 
 </div>
 
@@ -145,6 +148,11 @@ The user hits hard with bare hands and harder with a blunt weapon. Drink makes t
 | Stat | Value |
 | --- | --- |
 | Drunk damage | 0.1 HP |
+| Bare-handed damage | +2 HP |
+| Toughness | +1 |
+| Damage with a blunt weapon | +20% |
+| Damage for each level of Drunk | +10% |
+| Resistance for each level of Drunk | +5% |
 
 </div>
 

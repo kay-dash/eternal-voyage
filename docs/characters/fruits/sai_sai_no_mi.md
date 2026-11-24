@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -129,70 +133,6 @@ Allows other players to ride on your back.
 </div>
 
 
-<!-- move awakenawakennomi:awaken_sai_heavy_point -->
-
-### Awaken Sai Heavy Point { #awakening-awaken-sai-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/sai/awaken_sai_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened rhino hybrid, which focuses on strength and charging.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +200% of base |
-| Armour | +20 |
-| Punch damage | +14 HP |
-| Jump | +3 |
-| Toughness | +5 |
-| Step height | +1 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_sai_walk_point -->
-
-### Awaken Sai Walk Point { #awakening-awaken-sai-walk-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/sai/awaken_sai_walk_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened rhino, which focuses on speed
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +165% of base |
-| Armour | +30 |
-| Punch damage | +7.5 HP |
-| Step height | +1 blocks |
-| Toughness | +6 |
-| Jump | +1.5 |
-
-</div>
-
-
 <!-- move awakenawakennomi:horn_drill -->
 
 ### Horn Drill { #awakening-horn-drill }
@@ -200,6 +140,14 @@ Transforms the user into an awakened rhino, which focuses on speed
 ![](../../assets/playable/awakenawakennomi/abilities/sai/horn_drill.png){ .entry-move-icon loading=lazy } *Active*
 
 The user spins and charges in a straight line, piercing through every enemy they pass.
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Hits per enemy | 1 |
+
+</div>
 
 
 <!-- move awakenawakennomi:juggernaut -->

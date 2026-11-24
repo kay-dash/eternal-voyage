@@ -49,7 +49,7 @@ Transforms the user into a bake-danuki hybrid, whose brush tail writes the leave
 | --- | --- |
 | Movement speed | +15% of base |
 | Punch damage | +12 HP |
-| Armour | +15 |
+| Armor | +15 |
 | Toughness | +4 |
 | Jump | +1 |
 
@@ -80,7 +80,7 @@ Transforms the user into a small bake-danuki, very quick, whose brush tail write
 | --- | --- |
 | Movement speed | +40% of base |
 | Punch damage | +10 HP |
-| Armour | +12 |
+| Armor | +12 |
 | Toughness | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1 |

@@ -8,7 +8,7 @@
 
 ## Warriors of Elbaph
 
-Giants live three hundred years and treat honour in battle as the only thing worth keeping.
+Giants live three hundred years and treat honor in battle as the only thing worth keeping.
 
 Be of the Giant race.
 

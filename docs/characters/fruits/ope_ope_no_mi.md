@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -182,7 +184,7 @@ Coats the arm in a tiny Room. When awakened Anesthesia works through this coatin
 
 | Stat | Value |
 | --- | --- |
-| Cooldown | 20 s (400 ticks) |
+| Cooldown | 60 s (1200 ticks) |
 | Aborted cooldown | 3 s (60 ticks) |
 
 </div>
@@ -232,4 +234,12 @@ The user plants the coated hand and a huge spike of Room comes out of the ground
 
 ![](../../assets/playable/awakenawakennomi/abilities/ope/anesthesia.png){ .entry-move-icon loading=lazy } *Passive*
 
-While K-Room is active every hit the user lands puts the target under Anesthesia. The user and their allies ignore the invulnerability frames of anyone under Anesthesia so every hit does full damage.
+While K-Room is active every hit the user lands puts the target under Anesthesia, and a charged blow cuts with the Room once every 2 seconds per target. The user and their allies ignore the invulnerability frames of anyone under Anesthesia so every hit does full damage.
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Minimum interval between hits to one target | 2 s |
+
+</div>

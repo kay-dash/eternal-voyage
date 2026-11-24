@@ -35,17 +35,19 @@ Techniques also require Doriki. A technique at mastery 60 targets **80% of the b
 
 See the [Haki tree techniques](haki-tree.md) for every branch and node. **Kamusari** sits at **30 Coating** with Rayleigh, **Galaxy Impact** at **40** and **Galaxy Divide** at **48** with Garp, and **Ragnaraku** at **50** with Kaido. **Observation Killer** opens at **30 Domination**. Player Galaxy Impact lifts you into the air before you aim and dive toward the impact point. Aim within **48 blocks**.
 
+Haki Realm attacks such as Ryuo Spear and Galaxy Impact gain reach with body size. See [measured ranges and exceptions](combat-stats.md#haki-techniques-and-body-size).
+
 ### Haki in combat
 
 - **Guard.** Sneak while hardened or holding an imbued sword to block frontal hits. The configured block scales from **20% up to 70%** with Armament XP and costs Haki. The separate Armament Guard tree technique has a short window for stopping the next hit.
 - **Observation.** Aura gives a configured sidestep chance from **5% to 25%** as Observation grows. Blindness or Darkness grants a **3×** XP bonus to applicable Observation training. Burning, poison, withering, nausea, or losing 30% of your health within two seconds can cloud Observation and prevent sidesteps or Future Sight.
-- **Stacked defence.** Haki Realm’s cap on combined post-armour player buffs is **80% reduction**. The companion has a corresponding player-defence cap. The [move damage table](../reference/settings/move-damage.md) gives the configured per-move adjustments.
+- **Stacked defense.** Haki Realm’s cap on combined post-armor player buffs is **80% reduction**. The companion has a corresponding player-defense cap. The [move damage table](../reference/settings/move-damage.md) gives the configured per-move adjustments.
 
 ### Haki clashes
 
 When two Haki-coated hits meet within **0.5 seconds**, the stronger side gains an edge. A normal clash shifts damage by up to **50%** and awards **0.05 Armament XP** to each side before growth modifiers.
 
-When Conqueror’s coatings meet or active Conqueror’s bursts overlap, both fighters can lock into a contest of wills. Conqueror’s level, Armament, and remaining health affect pressure. Press attack to push the contest in your favour. A decisive loss can knock you out.
+When Conqueror’s coatings meet or active Conqueror’s bursts overlap, both fighters can lock into a contest of wills. Conqueror’s level, Armament, and remaining health affect pressure. Press attack to push the contest in your favor. A decisive loss can knock you out.
 
 | Contest rule | Pack value |
 | --- | --- |

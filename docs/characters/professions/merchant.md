@@ -4,7 +4,7 @@
 
 [All professions](index.md)
 
-Take goods to a Cruise buyer and use the **Sell** window. Look for the Fishmonger, Hunting Merchant, Travelling Cook, Prospector or Materials Trader, depending on the cargo. Compare their contracts before selling ingredients you might need for a delivery. Contracts award **1 XP per 10 Belly**, at least one. Sales to travelling merchants pay XP per item based on its value. Auction lots award XP upon sale, using up to the amount a merchant would pay for the goods.
+Take goods to a Cruise buyer and use the **Sell** window. Look for the Fishmonger, Hunting Merchant, Traveling Cook, Prospector or Materials Trader, depending on the cargo. Compare their contracts before selling ingredients you might need for a delivery. Contracts award **1 XP per 10 Belly**, at least one. Sales to traveling merchants pay XP per item based on its value. Auction lots award XP upon sale, using up to the amount a merchant would pay for the goods.
 
 ## Trade in town
 

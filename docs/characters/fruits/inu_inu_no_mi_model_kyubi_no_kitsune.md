@@ -49,7 +49,7 @@ Transforms the user into a fox-woman hybrid with nine tails, which focuses on ag
 | --- | --- |
 | Movement speed | +20% of base |
 | Punch damage | +12 HP |
-| Armour | +14 |
+| Armor | +14 |
 | Toughness | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
@@ -81,7 +81,7 @@ Transforms the user into a great nine-tailed fox, which focuses on speed and lon
 | --- | --- |
 | Movement speed | +55% of base |
 | Punch damage | +14 HP |
-| Armour | +15 |
+| Armor | +15 |
 | Toughness | +3 |
 | Step height | +1 blocks |
 | Jump | +1.6 |

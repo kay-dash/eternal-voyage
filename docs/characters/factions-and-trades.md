@@ -39,7 +39,7 @@ Open the **Professions** tab in the character book. Choose a trade to see its un
 | [Miner](professions/miner.md) | Prospect, mine metals, and follow rare-resource milestones. |
 | [Musician](professions/musician.md) | Play instruments to develop songs and support abilities. |
 | [Navigator](professions/navigator.md) | Make navigation tools and charts, check the weather, and develop open-water abilities. |
-| [Tailor](professions/tailor.md) | Sew equipment and flags. At level 10 craft heat or cold linings, and at 50 craft [All-Weather Lining](../world/weather.md#armour-linings). |
+| [Tailor](professions/tailor.md) | Sew equipment and flags. At level 10 craft heat or cold linings, and at 50 craft [All-Weather Lining](../world/weather.md#armor-linings). |
 
 ### Experience and talents
 

@@ -65,7 +65,7 @@ The user forgets nothing and learns faster, 25% more experience and 25% more Dor
 
 ![](../../assets/playable/inomissing/abilities/nomi_analysis.png){ .entry-move-icon loading=lazy } *Active*
 
-The user looks at a creature and understands it at once, its health, armour, Devil Fruit, grafted traits and weaknesses. A SMILE held in hand is identified at the same time. A new kind of creature and a new Devil Fruit teach them.
+The user looks at a creature and understands it at once, its health, armor, Devil Fruit, grafted traits and weaknesses. A SMILE held in hand is identified at the same time. A new kind of creature and a new Devil Fruit teach them.
 
 <div class="entry-stats" markdown="1">
 
@@ -103,7 +103,7 @@ The user pricks a creature within reach, without hurting it, and takes its blood
 
 ![](../../assets/playable/inomissing/abilities/nomi_smile_making.png){ .entry-move-icon loading=lazy } *Active*
 
-From 100 knowledge, the user turns a Lineage Factor Sample and an apple into a SMILE of its Zoan. A SMILE is either a perfect copy of the Zoan in another colour or a failure that locks its eater in a strange body. A perfect copy comes out 50% of the time for a wooden box Zoan, 35% for an iron box one and 15% for a golden box one.
+From 100 knowledge, the user turns a Lineage Factor Sample and an apple into a SMILE of its Zoan. A SMILE is either a perfect copy of the Zoan in another color or a failure that locks its eater in a strange body. A perfect copy comes out 50% of the time for a wooden box Zoan, 35% for an iron box one and 15% for a golden box one.
 
 <div class="entry-stats" markdown="1">
 

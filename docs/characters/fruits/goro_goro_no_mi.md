@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -245,12 +247,12 @@ Calls a real thunderstorm that lasts as long as the zone stays up. Lightning ins
 
 | Stat | Value |
 | --- | --- |
-| Zone cooldown | 90 s (1800 ticks) |
-| Min strike damage | 20 HP |
-| Max strike damage | 65 HP |
-| Display min damage | 20 HP |
-| Display max damage | 65 HP |
-| Cooldown | 90 s (1800 ticks) |
+| Zone cooldown | 120 s (2400 ticks) |
+| Min strike damage | 10 HP |
+| Max strike damage | 30 HP |
+| Display min damage | 10 HP |
+| Display max damage | 30 HP |
+| Cooldown | 120 s (2400 ticks) |
 
 </div>
 

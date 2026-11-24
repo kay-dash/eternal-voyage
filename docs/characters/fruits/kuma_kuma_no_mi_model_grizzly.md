@@ -49,7 +49,7 @@ Transforms the user into a grizzly hybrid with huge clawed arms, which focuses o
 | --- | --- |
 | Movement speed | +5% of base |
 | Punch damage | +7 HP |
-| Armour | +6 |
+| Armor | +6 |
 | Step height | +0.5 blocks |
 | Toughness | +2 |
 
@@ -81,7 +81,7 @@ Transforms the user into a grizzly, which focuses on strength and charging.
 | Movement speed | +10% of base |
 | Maximum health | +50% |
 | Punch damage | +10 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Step height | +1 blocks |
 | Toughness | +3 |
 

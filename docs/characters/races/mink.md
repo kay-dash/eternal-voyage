@@ -38,7 +38,7 @@ Train Electro for charged strikes and Sulong for full-moon fights. Each variant 
 
 ![](../../assets/playable/racenomi/abilities/eleclaw.png){ .entry-move-icon loading=lazy } *Active*
 
-The user leaps onto the enemy in sight and strikes it with a fist charged with Electro, paralysing it. Needs Electro. Stronger in Sulong
+The user leaps onto the enemy in sight and strikes it with a fist charged with Electro, paralyzing it. Needs Electro. Stronger in Sulong
 
 <div class="entry-stats" markdown="1">
 
@@ -60,7 +60,7 @@ The user leaps onto the enemy in sight and strikes it with a fist charged with E
 
 ![](../../assets/playable/racenomi/abilities/electrical_luna.png){ .entry-move-icon loading=lazy } *Active*
 
-The user charges a ball of lightning between both hands and slams it into the ground, a wide blast that shocks and paralyses every enemy around. Needs Electro. Stronger in Sulong
+The user charges a ball of lightning between both hands and slams it into the ground, a wide blast that shocks and paralyzes every enemy around. Needs Electro. Stronger in Sulong
 
 <div class="entry-stats" markdown="1">
 
@@ -104,7 +104,7 @@ The user leaps straight up and, coming down slowly, rains bolts of lightning on 
 
 ![](../../assets/playable/racenomi/abilities/electrical_tempesta.png){ .entry-move-icon loading=lazy } *Active*
 
-The user lets a discharge out of their whole body that shocks, paralyses and throws back every enemy around. Needs Electro. Stronger in Sulong
+The user lets a discharge out of their whole body that shocks, paralyzes and throws back every enemy around. Needs Electro. Stronger in Sulong
 
 <div class="entry-stats" markdown="1">
 
@@ -126,7 +126,7 @@ The user lets a discharge out of their whole body that shocks, paralyses and thr
 
 ![](../../assets/playable/racenomi/abilities/electro.png){ .entry-move-icon loading=lazy } *Active*
 
-The user runs electricity through their fists and whatever they hold, blows hurt more and may paralyse. Other Electro techniques spend its charges (none in Sulong)
+The user runs electricity through their fists and whatever they hold, blows hurt more and may paralyze. Other Electro techniques spend its charges (none in Sulong)
 
 <div class="entry-stats" markdown="1">
 
@@ -144,7 +144,7 @@ The user runs electricity through their fists and whatever they hold, blows hurt
 
 ![](../../assets/playable/racenomi/abilities/mink_assault.png){ .entry-move-icon loading=lazy } *Active*
 
-The user rushes ahead fists first and strikes through everything in the way, paralysing it. Needs Electro. Stronger in Sulong
+The user rushes ahead fists first and strikes through everything in the way, paralyzing it. Needs Electro. Stronger in Sulong
 
 <div class="entry-stats" markdown="1">
 
@@ -167,6 +167,14 @@ The user rushes ahead fists first and strikes through everything in the way, par
 ![](../../assets/playable/racenomi/abilities/moon_raid.png){ .entry-move-icon loading=lazy }
 
 In Sulong, the user dashes and claws the first enemy they meet. A mink of their crew in Sulong nearby strikes it at the same time
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Partner range | 8 blocks |
+
+</div>
 
 
 <!-- move racenomi:sulong -->
@@ -211,6 +219,8 @@ The user strikes faster, and harder with each ally of their crew close by
 | Stat | Value |
 | --- | --- |
 | Pack damage | 0.1 HP |
+| Attack speed | +10% |
+| Damage per crew ally near (up to 3) | +10% |
 
 </div>
 
@@ -255,7 +265,7 @@ The user hits the hardest of the minks
 
 | Stat | Value |
 | --- | --- |
-| Base damage | 3 HP |
+| Bare-handed damage | +3 HP |
 
 </div>
 
@@ -266,7 +276,7 @@ The user hits the hardest of the minks
 
 ![](../../assets/playable/racenomi/abilities/electro_roar.png){ .entry-move-icon loading=lazy } *Active*
 
-The user roars with Electro and the enemies in a cone in front of them are shocked, paralysed and thrown back. Needs Electro. Stronger in Sulong
+The user roars with Electro and the enemies in a cone in front of them are shocked, paralyzed and thrown back. Needs Electro. Stronger in Sulong
 
 <div class="entry-stats" markdown="1">
 
@@ -295,6 +305,16 @@ Choose Bunny for speed, jumps and safe falls of up to 12 blocks. Its moves close
 ![](../../assets/playable/racenomi/abilities/bunny_mink_legs.png){ .entry-move-icon loading=lazy } *Passive*
 
 The user jumps higher and runs faster, and lands unhurt from up to 12 blocks
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Additional jump height | +1 blocks |
+| Movement speed | +20% |
+| Additional fall resistance | +6.75 |
+
+</div>
 
 
 <!-- move racenomi:moon_rabbit -->
@@ -325,7 +345,7 @@ The user runs at full speed, claws out, scratching and shocking everything in th
 
 ![](../../assets/playable/racenomi/abilities/comet_rabbit.png){ .entry-move-icon loading=lazy } *Active*
 
-The user leaps high and comes down on the enemy in sight with a double kick, the shock hurting and paralysing all around. Needs Electro. Stronger in Sulong
+The user leaps high and comes down on the enemy in sight with a double kick, the shock hurting and paralyzing all around. Needs Electro. Stronger in Sulong
 
 <div class="entry-stats" markdown="1">
 
@@ -354,6 +374,14 @@ Choose Cat for night vision and faster attacks. Aka Byobu picks out the first ta
 ![](../../assets/playable/racenomi/abilities/cat_mink_eyes.png){ .entry-move-icon loading=lazy } *Passive*
 
 The user sees in the dark and strikes faster
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Attack speed | +10% |
+
+</div>
 
 
 <!-- move racenomi:aka_byobu -->
@@ -396,8 +424,8 @@ The user hits harder, and a bare-handed blow now and then leaves a bleeding woun
 
 | Stat | Value |
 | --- | --- |
-| Base damage | 2 HP |
 | Bleed | 3 s (60 ticks) |
+| Bare-handed damage | +2 HP |
 
 </div>
 
@@ -440,6 +468,16 @@ Choose Polar Bear for cold protection, faster swimming, toughness and a grab. It
 
 The user is the biggest of the minks, sturdier, swims better, and the cold never freezes them
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Maximum health | +4 HP |
+| Armor toughness | +2 |
+| Swim speed | +30% |
+
+</div>
+
 
 <!-- move racenomi:bear_hug -->
 
@@ -481,7 +519,9 @@ The user hits harder, stands firmer, and a blow struck at a run throws the targe
 
 | Stat | Value |
 | --- | --- |
-| Base damage | 2 HP |
+| Bare-handed damage | +2 HP |
+| Knockback resistance | +30% |
+| Knockback of a sprinting blow | +100% |
 
 </div>
 
@@ -492,7 +532,7 @@ The user hits harder, stands firmer, and a blow struck at a run throws the targe
 
 ![](../../assets/playable/racenomi/abilities/mo_golova.png){ .entry-move-icon loading=lazy } *Active*
 
-The user lunges head down and headbutts the first enemy they meet with Electro, paralysing it. Needs Electro. Stronger in Sulong
+The user lunges head down and headbutts the first enemy they meet with Electro, paralyzing it. Needs Electro. Stronger in Sulong
 
 <div class="entry-stats" markdown="1">
 

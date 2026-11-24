@@ -8,7 +8,7 @@
 
 </div>
 
-Body temperature, climate hazards and armour materials for hot and cold voyages.
+Body temperature, climate hazards and armor materials for hot and cold voyages.
 
 Installed build `9.2.0.171`. [Browse all mods](index.md).
 

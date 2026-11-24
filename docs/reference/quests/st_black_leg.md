@@ -97,14 +97,14 @@ Unlock Sky Walk and Party Table Kick Course.
 
 Spin fast enough and the leg catches fire. Sanji found that out at Enies Lobby.
 
-Unlock Diable Jambe, Land on a harbour town in East Blue and reach 20,000 Doriki.
+Unlock Diable Jambe, Land on a harbor town in East Blue and reach 20,000 Doriki.
 
 **Prerequisites (all of)** — [Sky Walk](st_black_leg.md#q-25c14dcde0cdf838)
 
 **Tasks**
 
 - Unlock Diable Jambe
-- Land on a harbour town in East Blue
+- Land on a harbor town in East Blue
 - Reach 20,000 Doriki
 
 **Rewards**

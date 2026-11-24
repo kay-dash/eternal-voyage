@@ -8,7 +8,7 @@ Set up the Workshop to make tools and supplies for other trades. Start with trap
 
 ## Workshop gear and upgrades
 
-Use the **Upgrade Bench** to install compatible parts on rods, nets, traps or Cruise boats. A **Sieve** gathers Crystallised Salt from a water source in ocean or beach biomes. It supplies the [Cook](cook.md) and [Chemist](chemist.md). Build the [Lumberjack’s](lumberjack.md) Woodsman’s Axe or Felling Saw when the crew starts working special timbers.
+Use the **Upgrade Bench** to install compatible parts on rods, nets, traps or Cruise boats. A **Sieve** gathers Crystallized Salt from a water source in ocean or beach biomes. It supplies the [Cook](cook.md) and [Chemist](chemist.md). Build the [Lumberjack’s](lumberjack.md) Woodsman’s Axe or Felling Saw when the crew starts working special timbers.
 
 The **Jet Dial** launches the user toward their aim. The **Burst Dial** fits a Cruise boat and burns Cola. The **Tone Dial** sounds when something approaches. The recipes below use Eternal Voyage’s requirements for these three dials.
 

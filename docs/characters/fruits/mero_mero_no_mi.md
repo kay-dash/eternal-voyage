@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -119,7 +121,15 @@ Kicks the enemy and turns them into stone.
 
 ![](../../assets/playable/awakenawakennomi/abilities/mero/loves_punishment.png){ .entry-move-icon loading=lazy } *Passive*
 
-Enemies that get too close fall in love and slowly turn to stone.
+Enemies that get too close fall in love and slowly turn to stone, then are left alone for 10 seconds.
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Minimum interval between petrifications | 10 s |
+
+</div>
 
 
 <!-- move awakenawakennomi:enthralling_gaze -->
@@ -153,6 +163,6 @@ Throws a big heart that goes through everything in its way and comes back to the
 | Stat | Value |
 | --- | --- |
 | Base damage | 70 HP |
-| Cooldown | 20 s (400 ticks) |
+| Cooldown | 45 s (900 ticks) |
 
 </div>

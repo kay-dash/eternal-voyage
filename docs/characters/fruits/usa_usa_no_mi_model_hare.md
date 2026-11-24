@@ -80,7 +80,7 @@ Transforms the user into a hare hybrid with long ears and hind legs, slower than
 | Movement speed | +60% of base |
 | Jump | +2.4 |
 | Step height | +0.8 blocks |
-| Armour | +2 |
+| Armor | +2 |
 | Punch damage | +4 HP |
 
 </div>

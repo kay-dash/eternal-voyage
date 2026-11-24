@@ -10,10 +10,11 @@
 
 In-world snail communications.
 
-Installed build `1.20.1-2.1.0`. [Browse all mods](index.md).
+Installed build `1.20.1-2.2.0`. [Browse all mods](index.md).
 
 ## Pack guides
 
+- [Seas and navigation · Calling your crew](../../voyage/navigation.md#calling-your-crew)
 - [World Economy News](../../reference/mod-roles.md)
 
 ## Creatures and entities

@@ -287,6 +287,6 @@ The user takes back their real age and is a child again, small and quick, and cr
 | Stat | Value |
 | --- | --- |
 | Jump | +1.5 |
-| Armour | +4 |
+| Armor | +4 |
 
 </div>

@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -208,7 +210,9 @@ Summons a giant clone of the user that fights alongside them and gets stronger o
 | Stat | Value |
 | --- | --- |
 | Min cooldown | 50 s (1000 ticks) |
-| Max cooldown | 250 s (5000 ticks) |
+| Max cooldown | 150 s (3000 ticks) |
+| Clone duration | 60 s |
+| Clone damage | 20 HP |
 
 </div>
 

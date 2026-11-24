@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -83,13 +85,14 @@ Converts received damage into karma.
 
 ![](../../assets/playable/awakenawakennomi/abilities/karu/inga_samsara.png){ .entry-move-icon loading=lazy } *Active*
 
-Creates a zone that links everyone's fate to the user, if the user bleeds everyone bleeds.
+Creates a zone that links everyone's fate to the user, if the user bleeds everyone bleeds, up to 200 HP each.
 
 <div class="entry-stats" markdown="1">
 
 | Stat | Value |
 | --- | --- |
 | Cooldown | 120 s (2400 ticks) |
+| Maximum reflected damage per enemy | 200 HP |
 
 </div>
 
@@ -106,7 +109,7 @@ Fires the user's Karma as a huge fist Damage and size go up with the Karma store
 
 | Stat | Value |
 | --- | --- |
-| Cooldown | 15 s (300 ticks) |
+| Cooldown | 60 s (1200 ticks) |
 | Aborted cooldown | 1 s (20 ticks) |
 
 </div>

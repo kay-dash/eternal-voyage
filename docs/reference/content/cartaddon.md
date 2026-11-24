@@ -12,7 +12,7 @@ Additional combat abilities for Mine Mine no Mi.
 
 Installed build `0.9.0-1.20.1`. [Browse all mods](index.md).
 
-See the [fighting style catalogue](../../characters/styles/index.md) for moves and training.
+See the [fighting style catalog](../../characters/styles/index.md) for moves and training.
 
 ## Pack guides
 

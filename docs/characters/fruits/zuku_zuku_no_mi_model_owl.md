@@ -49,7 +49,7 @@ Transforms the user into an owl, which is bad on foot but light as a feather whe
 | --- | --- |
 | Movement speed | +25% of base |
 | Punch damage | +3 HP |
-| Armour | +2 |
+| Armor | +2 |
 | Jump | +1.1 |
 
 </div>
@@ -79,7 +79,7 @@ Transforms the user into an owl hybrid with talons, a beak and wings for arms.
 | --- | --- |
 | Movement speed | +20% of base |
 | Punch damage | +5 HP |
-| Armour | +3 |
+| Armor | +3 |
 | Toughness | +1.5 |
 | Jump | +0.9 |
 

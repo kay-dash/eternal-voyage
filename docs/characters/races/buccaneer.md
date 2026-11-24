@@ -115,6 +115,7 @@ The user stands as a wall of flesh for a few seconds. Blows from the front at al
 | Stat | Value |
 | --- | --- |
 | Cooldown | 20 s (400 ticks) |
+| Damage taken from the front | -50% |
 
 </div>
 
@@ -161,6 +162,8 @@ The user hits hard with bare hands and their body takes a lot. A blow that would
 | --- | --- |
 | Will cooldown | 300 s (6000 ticks) |
 | Cooldown | 300 s (6000 ticks) |
+| Bare-handed damage | +2 HP |
+| Toughness | +2 |
 
 </div>
 
@@ -185,6 +188,8 @@ The user hits hard with bare hands and their body takes a lot. A blow that would
 | --- | --- |
 | Will cooldown | 300 s (6000 ticks) |
 | Cooldown | 300 s (6000 ticks) |
+| Bare-handed damage | +2 HP |
+| Toughness | +2 |
 
 </div>
 
@@ -209,6 +214,8 @@ The user hits hard with bare hands and their body takes a lot. A blow that would
 | --- | --- |
 | Will cooldown | 300 s (6000 ticks) |
 | Cooldown | 300 s (6000 ticks) |
+| Bare-handed damage | +2 HP |
+| Toughness | +2 |
 
 </div>
 

@@ -49,7 +49,7 @@ Transforms the user into a triceratops hybrid, with 3 horns, a thick hide and a 
 | --- | --- |
 | Movement speed | -5% of base |
 | Punch damage | +9 HP |
-| Armour | +18 |
+| Armor | +18 |
 | Toughness | +6 |
 | Step height | +0.5 blocks |
 
@@ -80,7 +80,7 @@ Transforms the user into a triceratops, a huge and slow beast on 4 legs with the
 | --- | --- |
 | Movement speed | -15% of base |
 | Punch damage | +4 HP |
-| Armour | +25 |
+| Armor | +25 |
 | Toughness | +10 |
 | Step height | +1 blocks |
 

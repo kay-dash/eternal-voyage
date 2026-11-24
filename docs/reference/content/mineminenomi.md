@@ -12,7 +12,7 @@ Character creation, crews, Devil Fruits and the core combat system.
 
 Installed build `0.11.6`. [Browse all mods](index.md).
 
-See the [fighting style catalogue](../../characters/styles/index.md) for moves and training.
+See the [fighting style catalog](../../characters/styles/index.md) for moves and training.
 
 See the [race guide](../../characters/races/index.md) for abilities and variants.
 
@@ -90,7 +90,7 @@ See the [race guide](../../characters/races/index.md) for abilities and variants
 | Haoshoku Haki | `mineminenomi:haoshoku_haki` | A burst of the unique Conqueror's haki, that knocks out enemies that are weaker than the user. |
 | Haoshoku Haki: Infusion | `mineminenomi:haoshoku_haki_infusion` | Allows the user to infuse their haoshoku haki into whatever weapon they're holding. |
 | Honk | `mineminenomi:honk` | honk honk |
-| Hook Grab | `mineminenomi:hook_grab` | Shoot's the equipped Hook catching the enemy and dragging them towards the user. |
+| Hook Grab | `mineminenomi:hook_grab` | Shoot's the equipped Hook catching the enemy and dragging them toward the user. |
 | Ichirin Zashi | `mineminenomi:ichirin_zashi` | The user leaps into the air and drops down on ground hitting the target on their descent |
 | Kaishin | `mineminenomi:kaishin` |  |
 | Kaji Oyaji | `mineminenomi:kaji_oyaji` | Breathes fire. |

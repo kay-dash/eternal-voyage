@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -106,70 +110,6 @@ Allows other players to ride on your back.
 | --- | --- |
 | Doriki | 40,000 |
 | Active time with the fruit | About 24 hours (1,728,000 ticks) |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_giraffe_heavy_point -->
-
-### Awaken Giraffe Heavy Point { #awakening-awaken-giraffe-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ushi/giraffe/awaken_giraffe_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened giraffe hybrid, which focuses on strength and reach.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +100% of base |
-| Punch damage | +8 HP |
-| Jump | +5 |
-| Armour | +15 |
-| Toughness | +7.5 |
-| Step height | +1 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_giraffe_walk_point -->
-
-### Awaken Giraffe Walk Point { #awakening-awaken-giraffe-walk-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ushi/giraffe/awaken_giraffe_walk_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened giraffe, which focuses on speed and reach.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +120% of base |
-| Jump | +0.75 |
-| Punch damage | +2.5 HP |
-| Step height | +1 blocks |
-| Armour | +14 |
-| Toughness | +4 |
 
 </div>
 

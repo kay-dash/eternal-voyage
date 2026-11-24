@@ -50,7 +50,7 @@ Transforms the user into a hydra hybrid, which focuses on speed and reach.
 | Movement speed | +30% of base |
 | Maximum health | +20% |
 | Punch damage | +7 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +3 |
 | Jump | +1 |
 | Step height | +0.5 blocks |
@@ -83,7 +83,7 @@ Transforms the user into a hydra, which focuses on defense and holding its groun
 | Movement speed | -15% of base |
 | Maximum health | +60% |
 | Punch damage | +8 HP |
-| Armour | +18 |
+| Armor | +18 |
 | Toughness | +8 |
 | Step height | +1 blocks |
 
@@ -234,7 +234,7 @@ The hydra jumps where the user is looking and lands with its whole weight, crush
 
 | Stat | Value |
 | --- | --- |
-| Centre damage | 18 HP |
+| Center damage | 18 HP |
 | Edge damage | 9 HP |
 | Cooldown | 20 s (400 ticks) |
 | Conditional cooldown | 0.5 s (10 ticks) |

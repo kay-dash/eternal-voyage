@@ -49,7 +49,7 @@ Transforms the user into a dalmatian hybrid, a tall spotted dog man that runs fa
 | --- | --- |
 | Movement speed | +15% of base |
 | Punch damage | +7 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +2 |
 
 </div>
@@ -79,7 +79,7 @@ Transforms the user into a big dalmatian, a fast running dog with black spots.
 | --- | --- |
 | Movement speed | +55% of base |
 | Punch damage | +5 HP |
-| Armour | +5 |
+| Armor | +5 |
 | Step height | +1 blocks |
 | Jump | +1 |
 
@@ -205,7 +205,7 @@ The user throws themself on the target like a mad dog and bites and claws it aga
 
 ![](../../assets/playable/inomissing/abilities/kiba_shigan.png){ .entry-move-icon loading=lazy } *Active*
 
-While in the hybrid form, the user darts at the enemy and bites it as fast as a Shigan, the fangs go through the armour and the wound bleeds
+While in the hybrid form, the user darts at the enemy and bites it as fast as a Shigan, the fangs go through the armor and the wound bleeds
 
 <div class="entry-stats" markdown="1">
 

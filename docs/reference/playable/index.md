@@ -2,8 +2,8 @@
 
 # Playable content
 
-- [Devil Fruit catalogue](../../characters/fruits/index.md)
+- [Devil Fruit catalog](../../characters/fruits/index.md)
 - [Race guide](../../characters/races/index.md)
-- [Fighting style catalogue](../../characters/styles/index.md)
+- [Fighting style catalog](../../characters/styles/index.md)
 - [Schools and martial arts](../../characters/schools.md)
 - [Haki Realm · Schools](../content/hakirework/schools/index.md) · 12 entries

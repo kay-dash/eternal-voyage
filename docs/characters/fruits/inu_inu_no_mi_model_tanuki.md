@@ -49,7 +49,7 @@ Transforms the user into a tanuki hybrid, a round and sturdy brawler with a big 
 | --- | --- |
 | Movement speed | +5% of base |
 | Punch damage | +5 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +3 |
 
 </div>
@@ -79,7 +79,7 @@ Transforms the user into a tanuki, a small and quick animal that fits through a 
 | --- | --- |
 | Movement speed | +40% of base |
 | Punch damage | +3 HP |
-| Armour | +4 |
+| Armor | +4 |
 | Toughness | +1 |
 
 </div>

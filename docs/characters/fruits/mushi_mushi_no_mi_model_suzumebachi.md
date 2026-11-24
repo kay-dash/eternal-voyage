@@ -50,7 +50,7 @@ Transforms the user into a giant hornet hybrid with four arms that attack fast, 
 | Movement speed | +40% of base |
 | Maximum health | +20% |
 | Punch damage | +6 HP |
-| Armour | +5 |
+| Armor | +5 |
 | Toughness | +2 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
@@ -83,7 +83,7 @@ Transforms the user into a giant hornet, which is light, fast in the air and has
 | Movement speed | +30% of base |
 | Maximum health | +10% |
 | Punch damage | +5 HP |
-| Armour | +3 |
+| Armor | +3 |
 | Toughness | +1 |
 | Step height | +1 blocks |
 | Jump | +0.5 |
@@ -187,7 +187,7 @@ The user sprays venom at the eyes of the enemies in front of them. They are hurt
 
 ![](../../assets/playable/inomissing/abilities/numbing_sting.png){ .entry-move-icon loading=lazy } *Active*
 
-The user stabs the enemy in front of them with their stinger. The venom paralyses it for 3 seconds.
+The user stabs the enemy in front of them with their stinger. The venom paralyzes it for 3 seconds.
 
 <div class="entry-stats" markdown="1">
 

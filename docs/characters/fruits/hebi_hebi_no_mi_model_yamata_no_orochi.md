@@ -48,7 +48,7 @@ Transforms the user into a serpent hybrid, with 7 serpent heads on long necks gr
 | Stat | Value |
 | --- | --- |
 | Punch damage | +10 HP |
-| Armour | +14 |
+| Armor | +14 |
 | Toughness | +4 |
 
 </div>
@@ -78,7 +78,7 @@ Transforms the user into the Yamata no Orochi, a huge serpent with 8 heads on lo
 | --- | --- |
 | Movement speed | -20% of base |
 | Punch damage | +12 HP |
-| Armour | +18 |
+| Armor | +18 |
 | Toughness | +6 |
 | Step height | +1.5 blocks |
 

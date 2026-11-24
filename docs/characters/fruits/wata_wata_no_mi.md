@@ -48,7 +48,7 @@ Covers the chest, shoulders and arms in cotton, reducing damage from hits and fa
 
 | Stat | Value |
 | --- | --- |
-| Armour | +4 |
+| Armor | +4 |
 | Toughness | +1 |
 | Movement speed | -12% of base |
 

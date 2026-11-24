@@ -162,7 +162,7 @@ Pours a ring of salt on the ground that pushes the undead out and salts enemies 
 
 ![](../../assets/playable/inofruits/abilities/dassui.png){ .entry-move-icon loading=lazy } *Active*
 
-Draws the water out of every enemy around the user, hurting, slowing and salting them and pulling them slightly towards the user.
+Draws the water out of every enemy around the user, hurting, slowing and salting them and pulling them slightly toward the user.
 
 <div class="entry-stats" markdown="1">
 

@@ -103,7 +103,7 @@ The user puts a red collar on their own neck and orders themselves to their full
 
 | Stat | Value |
 | --- | --- |
-| Armour | +6 |
+| Armor | +6 |
 
 </div>
 

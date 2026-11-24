@@ -25,6 +25,8 @@ MOD_SECTIONS = {
         "inoimpel": ("Impel Down", "The Calm Belt prison, from Gates of Justice to the Eternal Hell.", ("voyage/impel-down.md#impel-down", "reference/settings/encounters.md#impel-down-guards-and-wardens")),
         "valkyrienskies": ("Valkyrien Skies 2", "Physics for ships built from blocks, including ship travel through the Knock-Up Stream.", ("voyage/shipbuilding.md", "voyage/special-destinations.md#skypiea")),
         "vs_eureka": ("Eureka! Ships!", "Build and steer block-built ships with Valkyrien Skies.", ("voyage/shipbuilding.md", "voyage/special-destinations.md#skypiea")),
+        "smallships": ("Small Ships", "Launch crafted sailing ships with cargo, sails, and ship cannons.", ("voyage/shipbuilding.md#small-ships",)),
+        "mmnm_small_ships": ("Mine Mine no Mi Small Ships", "Crew ownership and Jolly Roger sails for Small Ships.", ("voyage/shipbuilding.md#small-ships",)),
         "ship_in_a_bottle": ("Ship In A Bottle", "Pack an assembled ship for transport and launch it again at open water.", ("voyage/shipbuilding.md#bottle-your-ship",)),
         "srs": ("Ship Retrieval Service", "Name your ship and use equipped harbours to call it to a dock.", ("voyage/shipbuilding.md#naming-and-retrieving-ships",)),
         "valkib": ("Valkyrien Icebreakers", "Fit an Ice Breaker to the bow for travel through surface ice.", ("voyage/shipbuilding.md#outfit-and-test-your-ship",)),
@@ -40,9 +42,10 @@ MOD_SECTIONS = {
         "toughasnails": ("Tough As Nails", "Body temperature, climate hazards and armour materials for hot and cold voyages.", ("world/weather.md#island-climate-and-body-temperature", "world/survival.md")),
         "corpse": ("Corpse", "Death storage and recovery of dropped equipment.", ("world/survival.md#downed-players-and-death",)),
         "playerrevive": ("PlayerRevive", "Multiplayer bleed-out and teammate revival.", ("world/survival.md#downed-players-and-death",)),
-        "transpondersnails": ("Transponder Snails", "In-world snail communications.", ("reference/mod-roles.md",)),
+        "transpondersnails": ("Transponder Snails", "In-world snail communications.", ("voyage/navigation.md#calling-your-crew", "reference/mod-roles.md")),
         "antique_atlas": ("Antique Atlas", "Map landfalls, terrain, routes and waypoints while you explore.", ("voyage/navigation.md#log-pose-and-atlas",)),
         "aa4_atlas": ("AA4 Atlas", "Atlas display support for voyagers using Antique Atlas.", ("voyage/navigation.md#log-pose-and-atlas",)),
+        "dead_reckoning": ("Dead Reckoning", "Show compass bearings and Atlas markers while you sail.", ("voyage/navigation.md#dead-reckoning",)),
         "surveyor": ("Surveyor Map Framework", "Discovery and map sharing for crews.", ("voyage/navigation.md#log-pose-and-atlas",)),
     },
     "Quest book and support": {
@@ -89,6 +92,7 @@ RELATED_MODS = {
 
 # These cards use a representative packaged texture where the JAR declares no logo.
 ICON_TEXTURES = {
+    "mmnm_small_ships": ("smallships", "assets/smallships/textures/item/ship/oak_cog.png"),
     "proximitychat": ("transpondersnails", "assets/transpondersnails/textures/block/transponder_snail.png"),
     "respawningstructures": ("dungeons_arise", "wda_logo.png"),
     "srs": ("srs", "assets/srs/textures/item/ship_namer.png"),

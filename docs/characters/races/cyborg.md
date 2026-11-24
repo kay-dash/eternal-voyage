@@ -170,6 +170,14 @@ The user throws a quick flurry of metal jabs at every enemy right before him, th
 
 While the Striking Arms are fitted the user spins them like propellers in the water and swims much faster
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Swim speed | +100% |
+
+</div>
+
 
 <!-- move racenomi:franky_cannon -->
 

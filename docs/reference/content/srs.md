@@ -8,7 +8,7 @@
 
 </div>
 
-Name your ship and use equipped harbours to call it to a dock.
+Name your ship and use equipped harbors to call it to a dock.
 
 Installed build `1.0.0`. [Browse all mods](index.md).
 

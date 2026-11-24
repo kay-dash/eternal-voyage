@@ -24,6 +24,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 
 ## Awakening
 
@@ -55,8 +59,8 @@ Transforms the user into an awakened human, which focuses on speed and strength.
 | --- | --- |
 | Movement speed | +300% of base |
 | Punch damage | +10 HP |
-| Armour | +15 |
-| Armour toughness | +10 |
+| Armor | +15 |
+| Armor toughness | +10 |
 | Jump | +8 |
 | Maximum health | +25% |
 | Step height | +1 blocks |

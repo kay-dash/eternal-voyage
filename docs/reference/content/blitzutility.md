@@ -12,7 +12,7 @@ Nitoryu, Okama Kenpo, weapon arts and additional Devil Fruits.
 
 Installed build `0.0.6-1.20.1`. [Browse all mods](index.md).
 
-See the [fighting style catalogue](../../characters/styles/index.md) for moves and training.
+See the [fighting style catalog](../../characters/styles/index.md) for moves and training.
 
 ## Pack guides
 

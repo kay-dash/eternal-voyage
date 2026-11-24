@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -166,72 +170,6 @@ Allows other players to ride on your back.
 </div>
 
 
-<!-- move awakenawakennomi:awaken_zou_heavy_point -->
-
-### Awaken Zou Heavy Point { #awakening-awaken-zou-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/zou/elephant/awaken_zou_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened elephant hybrid, which focuses on strength.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +80% of base |
-| Armour | +12 |
-| Punch damage | +18 HP |
-| Maximum health | +15% |
-| Toughness | +6 |
-| Jump | +4 |
-| Step height | +1 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_zou_guard_point -->
-
-### Awaken Zou Guard Point { #awakening-awaken-zou-guard-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/zou/elephant/awaken_zou_guard_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened elephant, which focuses on defense.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +20% of base |
-| Maximum health | +25% |
-| Armour | +14 |
-| Punch damage | +12.5 HP |
-| Step height | +1 blocks |
-| Toughness | +8 |
-| Jump | +1.5 |
-
-</div>
-
-
 <!-- move awakenawakennomi:ivory_catastrophe -->
 
 ### Ivory Catastrophe { #awakening-ivory-catastrophe }
@@ -239,6 +177,14 @@ Transforms the user into an awakened elephant, which focuses on defense.
 ![](../../assets/playable/awakenawakennomi/abilities/zou/elephant/ivory_catastrophe.png){ .entry-move-icon loading=lazy } *Active*
 
 Charges forward spinning with huge tusks, impaling everything in the way.
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Hits per enemy | 1 |
+
+</div>
 
 
 <!-- move awakenawakennomi:trunk_geyser -->

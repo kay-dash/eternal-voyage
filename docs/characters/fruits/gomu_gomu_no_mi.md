@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -104,7 +106,7 @@ Hits the enemy with both hands to launch them away.
 
 ![](../../assets/playable/mineminenomi/abilities/gomu_gomu_no_rocket.png){ .entry-move-icon loading=lazy } *Active*
 
-Stretches towards a block, then launches the user on an arch depending on where they fist landed.
+Stretches toward a block, then launches the user on an arch depending on where they fist landed.
 
 <div class="entry-stats" markdown="1">
 
@@ -280,8 +282,8 @@ The user's heart plays the Drums of Liberation and their body moves freely like 
 | Stat | Value |
 | --- | --- |
 | Punch damage | +20 HP |
-| Armour | +12 |
-| Armour toughness | +8 |
+| Armor | +12 |
+| Armor toughness | +8 |
 | Toughness | +3 |
 | Movement speed | +100% of base |
 | Jump | +6 |
@@ -351,7 +353,7 @@ The user's whole body grows giant, giving them a longer reach and stronger hits 
 | Stat | Value |
 | --- | --- |
 | Punch damage | +10 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +2 |
 | Entity reach | +6 blocks |
 | Block reach | +6 blocks |

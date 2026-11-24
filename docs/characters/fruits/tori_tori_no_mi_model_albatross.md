@@ -50,7 +50,7 @@ Transforms the user into an albatross hybrid, which can fly for a very long time
 | Movement speed | +15% of base |
 | Maximum health | +15% |
 | Punch damage | +3 HP |
-| Armour | +4 |
+| Armor | +4 |
 | Step height | +0.5 blocks |
 | Jump | +1.3 |
 | Toughness | +2 |
@@ -83,7 +83,7 @@ Transforms the user into a great albatross, which flies for a very long time, fa
 | Movement speed | +15% of base |
 | Maximum health | +10% |
 | Punch damage | +2 HP |
-| Armour | +2 |
+| Armor | +2 |
 | Step height | +1 blocks |
 | Jump | +1 |
 | Toughness | +1 |

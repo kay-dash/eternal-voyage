@@ -50,7 +50,7 @@ Transforms the user into a whale, which focuses on defense, barely moving on lan
 | Movement speed | -90% of base |
 | Step height | +1.4 blocks |
 | Maximum health | +100% |
-| Armour | +12 |
+| Armor | +12 |
 | Toughness | +4 |
 | Punch damage | +4 HP |
 
@@ -81,7 +81,7 @@ Transforms the user into a whale hybrid that can still walk at normal speed.
 | --- | --- |
 | Movement speed | -10% of base |
 | Maximum health | +50% |
-| Armour | +9 |
+| Armor | +9 |
 | Toughness | +3.5 |
 | Punch damage | +5 HP |
 

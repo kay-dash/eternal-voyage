@@ -138,11 +138,11 @@ Soft clay climbs the enemy the user looks at and holds its whole body. It can't 
 
 <!-- move inomissing:gunyo_clay_armour -->
 
-## Clay Armour
+## Clay Armor
 
 ![](../../assets/playable/inomissing/abilities/gunyo_clay_armour.png){ .entry-move-icon loading=lazy } *Active · Transformation*
 
-The user hardens clay into a heavy armour all over their body until they take it off.
+The user hardens clay into a heavy armor all over their body until they take it off.
 
 <div class="entry-stats" markdown="1">
 
@@ -159,8 +159,8 @@ The user hardens clay into a heavy armour all over their body until they take it
 
 | Stat | Value |
 | --- | --- |
-| Armour | +12 |
-| Armour toughness | +4 |
+| Armor | +12 |
+| Armor toughness | +4 |
 | Punch damage | +4 HP |
 
 </div>

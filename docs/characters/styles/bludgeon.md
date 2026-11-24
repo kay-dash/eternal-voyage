@@ -48,7 +48,7 @@ The user slams down their mace continuously
 
 ![](../../assets/playable/cartaddon/abilities/destroyer_of_death_thunder_bagua.png){ .entry-move-icon loading=lazy } *Active*
 
-The user rushes towards their target, dealing massive damage. Applies dizzy, and knocks the opponent downwards. (Fruitless)
+The user rushes toward their target, dealing massive damage. Applies dizzy, and knocks the opponent downwards. (Fruitless)
 
 <div class="entry-stats" markdown="1">
 

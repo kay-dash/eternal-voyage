@@ -423,7 +423,7 @@ Use [Combat stats and Doriki scaling](../../characters/combat-stats.md) for the 
 | Big Bark | `inomissing:big_bark` | 2.1× | 1.55× |
 | Big Father | `inomissing:shiro_big_father` | 2.55× | 1.775× |
 | Big Volley | `inomissing:shiro_big_volley` | 2.55× | 1.775× |
-| Biscuit Armour | `inomissing:bisu_armour` | 1.95× | 1.475× |
+| Biscuit Armor | `inomissing:bisu_armour` | 1.95× | 1.475× |
 | Biscuit Hei | `inomissing:bisu_hei` | 1.95× | 1.475× |
 | Biscuit Rations | `inomissing:bisu_biscuit_rations` | 1.95× | 1.475× |
 | Biscuit Wall | `inomissing:bisu_wall` | 1.95× | 1.475× |
@@ -460,7 +460,7 @@ Use [Combat stats and Doriki scaling](../../characters/combat-stats.md) for the 
 | Child Self | `inomissing:child_self` | 2.3× | 1.65× |
 | Choyaku | `inomissing:choyaku` | 4.75× | 2.875× |
 | Claw Rake | `inomissing:claw_rake` | 1.35× | 1.175× |
-| Clay Armour | `inomissing:gunyo_clay_armour` | 3× | 2× |
+| Clay Armor | `inomissing:gunyo_clay_armour` | 3× | 2× |
 | Clay Bridge | `inomissing:gunyo_clay_bridge` | 3× | 2× |
 | Clay Wall | `inomissing:gunyo_clay_wall` | 3× | 2× |
 | Clay Weapon | `inomissing:gunyo_clay_weapon` | 3× | 2× |
@@ -577,7 +577,7 @@ Use [Combat stats and Doriki scaling](../../characters/combat-stats.md) for the 
 | Gokuro | `inomissing:gokuro` | 2.35× | 1.675× |
 | Gold Dust | `inomissing:gold_dust` | 2.05× | 1.525× |
 | Gold Hoard | `inomissing:gold_hoard` | 2.05× | 1.525× |
-| Golden Armour | `inomissing:golden_armour` | 2.05× | 1.525× |
+| Golden Armor | `inomissing:golden_armour` | 2.05× | 1.525× |
 | Golden Senses | `inomissing:golden_senses` | 2.05× | 1.525× |
 | Golden Statue | `inomissing:golden_statue` | 2.05× | 1.525× |
 | Golden Tesoro | `inomissing:golden_tesoro` | 2.05× | 1.525× |

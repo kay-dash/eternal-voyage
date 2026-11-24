@@ -10,7 +10,7 @@
 
 Body-size effects, lineage capacity, the shared fruit box pools and profession progression.
 
-Installed build `6.8.1`. [Browse all mods](index.md).
+Installed build `6.9.0`. [Browse all mods](index.md).
 
 ## Pack guides
 
@@ -28,6 +28,7 @@ Installed build `6.8.1`. [Browse all mods](index.md).
 
 | In-game name | ID | In-game description |
 | --- | --- | --- |
+| (Awakened) | `akumalib:awakened_stats` |  |
 | Another ability that shares this cooldown is in use | `akumalib:shared_technique_in_use` |  |
 | Awakening | `akumalib:awakening` |  |
 | Flurry | `akumalib:flurry` | Three quick blows with the baton at the enemies right in front. |

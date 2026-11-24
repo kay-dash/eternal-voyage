@@ -50,7 +50,7 @@ Transforms the user into a half-snake, their upper body on a long king cobra tai
 | Movement speed | +10% of base |
 | Maximum health | +20% |
 | Punch damage | +7 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +2 |
 
 </div>
@@ -81,7 +81,7 @@ Transforms the user into a huge king cobra, ten blocks long, its hood raised.
 | Movement speed | +35% of base |
 | Maximum health | +25% |
 | Punch damage | +8 HP |
-| Armour | +9 |
+| Armor | +9 |
 | Toughness | +2 |
 | Step height | +1 blocks |
 

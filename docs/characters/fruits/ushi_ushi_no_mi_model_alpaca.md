@@ -49,7 +49,7 @@ Transforms the user into an alpaca hybrid, sturdy in thick wool and hard to push
 | --- | --- |
 | Movement speed | +10% of base |
 | Punch damage | +7 HP |
-| Armour | +9 |
+| Armor | +9 |
 | Toughness | +2 |
 
 </div>
@@ -79,7 +79,7 @@ Transforms the user into a white alpaca, a quick and sure-footed runner.
 | --- | --- |
 | Movement speed | +40% of base |
 | Punch damage | +5 HP |
-| Armour | +7 |
+| Armor | +7 |
 | Step height | +1 blocks |
 | Jump | +1 |
 

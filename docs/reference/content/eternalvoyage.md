@@ -10,7 +10,7 @@
 
 Regional encounters, Clima-Tact storms, starter island invitations, and ship recovery.
 
-Installed build `1.15.0`. [Browse all mods](index.md).
+Installed build `1.16.0`. [Browse all mods](index.md).
 
 ## Pack guides
 
@@ -40,8 +40,8 @@ Installed build `1.15.0`. [Browse all mods](index.md).
 | --- | --- | --- |
 | All-Weather Lining | `eternalvoyage:all_weather_lining` | Thermal in the cold, light in the heat: a master Tailor's work. |
 | Coated Bubble | `eternalvoyage:coated_bubble` | A resin-coated bubble from Sabaody's coating yard. Bubbly Coral for 7.5 minutes; Kairoseki pops it. |
-| Fur Lining | `eternalvoyage:fur_lining` | Thermal wear: stitched into armour, it keeps you warm in the cold. |
-| Linen Lining | `eternalvoyage:linen_lining` | Light wear: stitched into armour, it keeps you cool in the heat. |
+| Fur Lining | `eternalvoyage:fur_lining` | Thermal wear: stitched into armor, it keeps you warm in the cold. |
+| Linen Lining | `eternalvoyage:linen_lining` | Light wear: stitched into armor, it keeps you cool in the heat. |
 | Press Card | `eternalvoyage:press_card` | World Economy News: whoever carries this is press. The Camera Den Den Mushi works for you. |
 | Ryugu Bubble | `eternalvoyage:ryugu_bubble` | A gift of Ryugu Palace. Bubbly Coral for 15 minutes; Kairoseki pops it. |
 

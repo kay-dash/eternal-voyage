@@ -48,7 +48,7 @@ The user wears their skeleton on the outside, which makes the other bone abiliti
 
 | Stat | Value |
 | --- | --- |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +2 |
 | Punch damage | +4 HP |
 | Movement speed | -10% of base |

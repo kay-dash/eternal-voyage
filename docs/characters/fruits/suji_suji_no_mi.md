@@ -49,7 +49,7 @@ Muscle fibers grow over the chest and arms, hitting extremely hard but very slow
 | --- | --- |
 | Punch damage | +12 HP |
 | Movement speed | -15% of base |
-| Armour | +4 |
+| Armor | +4 |
 | Toughness | +1.5 |
 
 </div>
@@ -79,7 +79,7 @@ Muscle fibers grow over the legs, making the user run faster and jump higher wit
 | --- | --- |
 | Movement speed | +90% of base |
 | Jump | +3 |
-| Armour | +1 |
+| Armor | +1 |
 
 </div>
 
@@ -109,7 +109,7 @@ Muscle fibers grow over the whole body, hitting harder and moving faster but les
 | Punch damage | +7 HP |
 | Movement speed | +45% of base |
 | Jump | +1.6 |
-| Armour | +3 |
+| Armor | +3 |
 | Toughness | +1 |
 
 </div>

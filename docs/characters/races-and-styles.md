@@ -14,6 +14,6 @@ Your race changes how you move, fight, and survive. Choose the body and moveset 
 
 ## Race, Lineage Factors and bloodlines
 
-Your **race and variant** determine your body and racial moveset. A **Lineage Factor** gives you the effect listed on the graft, such as underwater strength or heat protection. Check the race page for associated factors and their limits. **Bloodlines** such as Will of D. and the Kozuki Clan are inherited traits with their own rules. See the [bloodline catalogue](bloodlines/index.md#bloodline-catalogue) for the complete list.
+Your **race and variant** determine your body and racial moveset. A **Lineage Factor** gives you the effect listed on the graft, such as underwater strength or heat protection. Check the race page for associated factors and their limits. **Bloodlines** such as Will of D. and the Kozuki Clan are inherited traits with their own rules. See the [bloodline catalog](bloodlines/index.md#bloodline-catalog) for the complete list.
 
-Choose a [fighting style](fighting-styles.md) that complements your race. A Fish-Man can fight underwater while the rest of the crew stays aboard, and a Cyborg should include Cola in their loadout. Size can affect reach and damage, so consider how much room you have on a ship or in a dungeon. See [combat stats](combat-stats.md#defence-size-and-logia).
+Choose a [fighting style](fighting-styles.md) that complements your race. A Fish-Man can fight underwater while the rest of the crew stays aboard, and a Cyborg should include Cola in their loadout. Size can affect reach and damage, so consider how much room you have on a ship or in a dungeon. See [combat stats](combat-stats.md#defense-size-and-logia).

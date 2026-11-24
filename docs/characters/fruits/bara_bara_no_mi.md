@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -33,7 +35,7 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 ![](../../assets/playable/mineminenomi/abilities/bara_bara_ho.png){ .entry-move-icon loading=lazy } *Active*
 
-Launches the user's fist towards the enemy, if the user holds a weapon in hand this will increase the fist's damage as well.
+Launches the user's fist toward the enemy, if the user holds a weapon in hand this will increase the fist's damage as well.
 
 <div class="entry-stats" markdown="1">
 
@@ -180,7 +182,7 @@ The user sends their hands flying at up to 8 enemies nearby, each fist goes afte
 
 | Stat | Value |
 | --- | --- |
-| Base damage | 40 HP |
+| Base damage | 60 HP |
 | Cooldown | 60 s (1200 ticks) |
 | Miss cooldown | 2 s (40 ticks) |
 

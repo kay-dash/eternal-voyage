@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -87,7 +89,7 @@ Launches a barrage of paw-shaped shockwaves at the opponent
 
 ![](../../assets/playable/mineminenomi/abilities/ursus_shock.png){ .entry-move-icon loading=lazy } *Active*
 
-The user compresses air and sends it towards the opponent to create a huge shockwave
+The user compresses air and sends it toward the opponent to create a huge shockwave
 
 <div class="entry-stats" markdown="1">
 

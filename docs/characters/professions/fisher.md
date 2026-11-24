@@ -43,7 +43,7 @@ Hold a fishing rod for these techniques.
 
 <!-- Pack profession tables -->
 
-## Catch catalogue
+## Catch catalog
 
 Chances are base entry values. The place, depth and your level determine which catches can roll. Special conditions such as weather, dimension and fishing in lava still apply.
 

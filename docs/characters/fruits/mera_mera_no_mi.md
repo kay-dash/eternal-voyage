@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -33,7 +35,7 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 ![](../../assets/playable/mineminenomi/abilities/hiken.png){ .entry-move-icon loading=lazy } *Active*
 
-Turns the user's fist into flames and launches it towards the target
+Turns the user's fist into flames and launches it toward the target
 
 <div class="entry-stats" markdown="1">
 
@@ -71,7 +73,7 @@ Turns the user's fingertips into flames and shoots bullets made of fire from the
 
 ![](../../assets/playable/mineminenomi/abilities/dai_enkai_entei.png){ .entry-move-icon loading=lazy } *Active*
 
-Amasses the user's flames into a gigantic fireball that the user hurls at the opponent Creates a giant fire vortex around the user, trapping enemies within it and creating three fire dragons that will be shot towards the enemy at the end.
+Amasses the user's flames into a gigantic fireball that the user hurls at the opponent Creates a giant fire vortex around the user, trapping enemies within it and creating three fire dragons that will be shot toward the enemy at the end.
 
 <div class="entry-stats" markdown="1">
 

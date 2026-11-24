@@ -228,7 +228,7 @@ Unlock Yarinami and Pack of Sharks.
 
 ## Under the Red Line
 
-Fish-Man Island lies ten thousand metres below the Red Line. Its bubble is big enough even for you.
+Fish-Man Island lies ten thousand meters below the Red Line. Its bubble is big enough even for you.
 
 Visit Fish-Man Island and defeat twenty-five pirates there.
 

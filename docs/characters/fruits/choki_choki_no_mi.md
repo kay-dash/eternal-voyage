@@ -162,7 +162,7 @@ While the scissors are active, the user cuts open the protections of the enemy i
 
 ![](../../assets/playable/inomissing/abilities/kami_hashi.png){ .entry-move-icon loading=lazy } *Active*
 
-While the scissors are active, the user cuts a strip of the ground and unrolls it like paper towards where they are looking. It makes a bridge or a ramp that goes back down after 10 seconds.
+While the scissors are active, the user cuts a strip of the ground and unrolls it like paper toward where they are looking. It makes a bridge or a ramp that goes back down after 10 seconds.
 
 <div class="entry-stats" markdown="1">
 

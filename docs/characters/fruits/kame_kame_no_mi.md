@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -88,60 +92,6 @@ Allows other players to ride on your back.
 | --- | --- |
 | Doriki | 40,000 |
 | Active time with the fruit | About 24 hours (1,728,000 ticks) |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_kame_walk_point -->
-
-### Awaken Kame Walk Point { #awakening-awaken-kame-walk-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/kame/awaken_kame_walk_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened turtle, which focuses on speed.
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +50% of base |
-| Armour | +30 |
-| Jump | +2 |
-| Toughness | +20 |
-| Punch damage | +6 HP |
-| Step height | +1 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_kame_guard_point -->
-
-### Awaken Kame Guard Point { #awakening-awaken-kame-guard-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/kame/awaken_kame_guard_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened turtle, which focuses on defense. Sneaking hides the user in their shell where almost nothing gets through
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Maximum health | +20% |
-| Armour | +40 |
-| Jump | +1 |
-| Toughness | +20 |
 
 </div>
 

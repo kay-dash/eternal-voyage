@@ -49,7 +49,7 @@ Transforms the user into the hybrid of the wolf god, which focuses on strength a
 | --- | --- |
 | Movement speed | +25% of base |
 | Punch damage | +13 HP |
-| Armour | +16 |
+| Armor | +16 |
 | Toughness | +5 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
@@ -81,7 +81,7 @@ Transforms the user into the great white wolf god, which focuses on speed, weigh
 | --- | --- |
 | Movement speed | +60% of base |
 | Punch damage | +16 HP |
-| Armour | +18 |
+| Armor | +18 |
 | Toughness | +6 |
 | Step height | +1 blocks |
 | Jump | +1.6 |

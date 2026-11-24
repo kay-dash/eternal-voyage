@@ -144,6 +144,18 @@ The user runs round the nearest enemy so fast they hit them a few times and leav
 
 The user is tiny but their blows push as hard as a man's and they reach blocks further than their size. They are a little quicker than a man, in the air too, jump up to three blocks higher the longer the jump is held and fall from higher unhurt
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Block reach | 3 blocks |
+| Speed | +15% |
+| Jump height | 4.25 blocks |
+| Fall without harm | 6 blocks |
+| Fall damage | -75% |
+
+</div>
+
 
 <!-- move racenomi:underfoot_dash -->
 

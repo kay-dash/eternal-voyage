@@ -6,7 +6,7 @@ Once you can land on a new island and find your way back to the ship, make each 
 
 - **Collect rewards.** Finish Log Pose jobs and claim your quest book rewards. Doriki raises your maximum health and opens skills. Combat quests can also award training points. Check your race or style tree to see which kind a move needs.
 - **Fight enemies near your level.** Start with bandits and small groups. Work up to ship crews, ruins bosses, and arena challenges. If your crew is losing people before you land a hit, step back to safer islands and put the next Doriki and Belly rewards into stronger gear.
-- **Choose your next technique.** Use the [fighting style catalogue](../characters/styles/index.md) to compare requirements and stats. Pick moves that fit your crew’s usual fights, whether you need a ranged opener, a way out of a crowd, or something that protects others.
+- **Choose your next technique.** Use the [fighting style catalog](../characters/styles/index.md) to compare requirements and stats. Pick moves that fit your crew’s usual fights, whether you need a ranged opener, a way out of a crowd, or something that protects others.
 
 After Higuma, open **Villains of the Blues**. The **Strongest of Your Blue** quest accepts **any four** of its listed bosses. Take on enemies such as Morgan, Kuro, Krieg or Arlong through **Challenges** and claim the matching quests. Get to **2,500 Doriki** if you want the Reverse Mountain story quest to be ready when you cross.
 
@@ -14,11 +14,11 @@ After Higuma, open **Villains of the Blues**. The **Strongest of Your Blue** que
 
 ## Level your two professions
 
-Do work the trade recognises. A Farmer can grow the ship’s food, a Cook can turn it into meals, and a Carpenter can make boat fittings from wood gathered by the crew. Open **Cruise’s Log Book** to see progress and spend points in your trade’s talents. The quest book’s trade chapters give you targets to work toward when you want to find a new recipe or activity.
+Do work the trade recognizes. A Farmer can grow the ship’s food, a Cook can turn it into meals, and a Carpenter can make boat fittings from wood gathered by the crew. Open **Cruise’s Log Book** to see progress and spend points in your trade’s talents. The quest book’s trade chapters give you targets to work toward when you want to find a new recipe or activity.
 
 Reach **level 1** in your first trade to open the second slot. Put at least one of your two trades to use on the kinds of trips you make often. A crew can divide up jobs while each player keeps their own trade progress.
 
-[Profession catalogue](../characters/professions/index.md) · [Trade talents](../characters/trade-talents.md).
+[Profession catalog](../characters/professions/index.md) · [Trade talents](../characters/trade-talents.md).
 
 ## Advance your faction
 
@@ -34,6 +34,6 @@ Before switching sides, check the [faction rules](../characters/factions-and-tra
 
 ## Give the crew a home port
 
-At a friendly town, trade and pick up errands, or help defend it for prosperity. If your crew wants its own claim, look for an unheld island with a hall and bring a flag for the assault. The [town and conquest guide](../world/conflict.md) walks through both.
+At a friendly town, trade and pick up errands, or help defend it for prosperity. If your crew wants its own claim, look for an unheld island with a hall and defeat its defenders. Your flag goes up as soon as the island is taken. The [town and conquest guide](../world/conflict.md) walks through both.
 
 When your crew is ready, [cross Reverse Mountain into Paradise](paradise.md).

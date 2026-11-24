@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -110,7 +112,8 @@ The user gives up their hunger to bring a Cake Golem to life, the more food spen
 | Stat | Value |
 | --- | --- |
 | Min cooldown | 50 s (1000 ticks) |
-| Max cooldown | 250 s (5000 ticks) |
+| Max cooldown | 150 s (3000 ticks) |
+| Golem duration | 60 s |
 
 </div>
 

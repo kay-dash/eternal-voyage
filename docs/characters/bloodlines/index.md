@@ -4,7 +4,9 @@
 
 A bloodline is rolled once per player when they first join and can belong to any race. It appears in the **Trait** line of your character stats. You can be born without one.
 
-## Bloodline catalogue
+<a id="bloodline-catalogue"></a>
+
+## Bloodline catalog
 
 Each percentage applies to the named birth roll. An already assigned Akuma bloodline carries through to your character stats.
 

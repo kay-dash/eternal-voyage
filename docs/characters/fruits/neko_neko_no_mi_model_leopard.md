@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -129,75 +133,13 @@ Grants the user night vision.
 </div>
 
 
-<!-- move awakenawakennomi:awaken_leopard_heavy_point -->
-
-### Awaken Leopard Heavy Point { #awakening-awaken-leopard-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/neko/leopard/awaken_leopard_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened leopard hybrid, which focuses on strength and speed.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Armour | +10 |
-| Punch damage | +20 HP |
-| Jump | +5 |
-| Toughness | +4 |
-| Step height | +1 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_leopard_walk_point -->
-
-### Awaken Leopard Walk Point { #awakening-awaken-leopard-walk-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/neko/leopard/awaken_leopard_walk_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened leopard, which focuses on speed.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +210% of base |
-| Punch damage | +15 HP |
-| Jump | +3.5 |
-| Step height | +1 blocks |
-| Toughness | +2 |
-
-</div>
-
-
 <!-- move awakenawakennomi:shugan -->
 
 ### Shugan { #awakening-shugan }
 
 ![](../../assets/playable/awakenawakennomi/abilities/neko/leopard/shugan.png){ .entry-move-icon loading=lazy } *Active*
 
-The user pulls back a hand with all 5 claws out, jumps at the enemy in front and stabs the whole hand through them. Armour does not stop it. Requires the awakened Heavy Point. Shares its cooldown with Shigan.
+The user pulls back a hand with all 5 claws out, jumps at the enemy in front and stabs the whole hand through them. Armor does not stop it. Requires the awakened Heavy Point. Shares its cooldown with Shigan.
 
 <div class="entry-stats" markdown="1">
 
@@ -216,7 +158,7 @@ The user pulls back a hand with all 5 claws out, jumps at the enemy in front and
 
 ![](../../assets/playable/awakenawakennomi/abilities/neko/leopard/shugan_madara.png){ .entry-move-icon loading=lazy } *Active*
 
-The user stabs with both clawed hands one after the other, 10 stabs in 1.5 seconds, at every enemy in reach in front. Armour does not stop them and the last stab knocks the enemies back. Requires the awakened Heavy Point. Shares its cooldown with Shigan.
+The user stabs with both clawed hands one after the other, 10 stabs in 1.5 seconds, at every enemy in reach in front. Armor does not stop them and the last stab knocks the enemies back. Requires the awakened Heavy Point. Shares its cooldown with Shigan.
 
 <div class="entry-stats" markdown="1">
 
@@ -307,7 +249,7 @@ The user hardens their body for a moment. Every hit that lands in that time is b
 
 ![](../../assets/playable/awakenawakennomi/abilities/neko/leopard/sai_dai_rin_rokuogan.png){ .entry-move-icon loading=lazy } *Active*
 
-The user puts both fists on the enemy in front of them, charges up all their strength and releases it as a shockwave through the enemy's body. Armour does not stop it. The enemy has to be in reach when it is released. Requires the awakened Heavy Point. Shares its cooldown with Rokuogan.
+The user puts both fists on the enemy in front of them, charges up all their strength and releases it as a shockwave through the enemy's body. Armor does not stop it. The enemy has to be in reach when it is released. Requires the awakened Heavy Point. Shares its cooldown with Rokuogan.
 
 <div class="entry-stats" markdown="1">
 

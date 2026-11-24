@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -88,7 +90,7 @@ Creates a protecting wall of mucus, protecting the user from incoming physical a
 
 ![](../../assets/playable/mineminenomi/abilities/beta_beta_chain.png){ .entry-move-icon loading=lazy } *Active*
 
-The user shoots a mucus chain which will propel the user towards where it hits.
+The user shoots a mucus chain which will propel the user toward where it hits.
 
 <div class="entry-stats" markdown="1">
 

@@ -11,9 +11,9 @@ The companion scales Mine Mine no Mi grunts, brutes, captains, and admirals by s
 | Captain | 150 / 6,000 | 400 / 10,000 | 600 / 18,000 | 800 / 35,000 |
 | Admiral | 300 / 8,000 | 700 / 16,000 | 1,000 / 25,000 | 1,400 / 48,000 |
 
-Configured attack multipliers rise across those rows from **1× to 1.5×, 2×, and 3×**. See [Encounter stats](encounter-stats.md) for armour toughness, generic enemies, Cataclysm bosses, Mowzie’s mobs and Impel Down. Different ships and dungeons have their own crews. The **Victory Frigate** uses Marines, the **Unicorn Galleon** has government crews, and **Bandit Towers** have bandits.
+Configured attack multipliers rise across those rows from **1× to 1.5×, 2×, and 3×**. See [Encounter stats](encounter-stats.md) for armor toughness, generic enemies, Cataclysm bosses, Mowzie’s mobs and Impel Down. Different ships and dungeons have their own crews. The **Victory Frigate** uses Marines, the **Unicorn Galleon** has government crews, and **Bandit Towers** have bandits.
 
-Weak faction patrols have more frequent attempts at night, in configured groups of three to six. The natural spawn mix targets **49% Mine Mine no Mi**, **21% aquatic family**, and **30% vanilla** within a 96-block sample. These ratios govern managed natural spawns. Commands, spawn eggs, breeding and named or persistent mobs are outside that balance. Mary Geoise’s Red Line has a separate setting favouring Celestial Dragons.
+Weak faction patrols have more frequent attempts at night, in configured groups of three to six. The natural spawn mix targets **49% Mine Mine no Mi**, **21% aquatic family**, and **30% vanilla** within a 96-block sample. These ratios govern managed natural spawns. Commands, spawn eggs, breeding and named or persistent mobs are outside that balance. Mary Geoise’s Red Line has a separate setting favoring Celestial Dragons.
 
 ## Sea Kings
 

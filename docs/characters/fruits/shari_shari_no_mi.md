@@ -31,7 +31,7 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 ![](../../assets/playable/inomissing/abilities/shari_wheel_arms.png){ .entry-move-icon loading=lazy } *Active*
 
-The user's arms spin like grinding wheels for a while. Each punch with a bare hand keeps grinding and hits a few more times, and the armour of a player wears out twice as fast Iron armour or better holds against the wheels, the extra hits barely scratch it
+The user's arms spin like grinding wheels for a while. Each punch with a bare hand keeps grinding and hits a few more times, and the armor of a player wears out twice as fast Iron armor or better holds against the wheels, the extra hits barely scratch it
 
 <div class="entry-stats" markdown="1">
 

@@ -15,7 +15,7 @@ Installed build `0.0.6-1.20.1`. [Browse all mods](index.md).
 ## Pack guides
 
 - [Devil Fruit box contents](../../characters/fruit-boxes.md)
-- [Bloodlines · Bloodline catalogue](../../characters/bloodlines/index.md#bloodline-catalogue)
+- [Bloodlines · Bloodline catalog](../../characters/bloodlines/index.md#bloodline-catalog)
 - [Inherited Will](../../reference/quests/r_traits.md)
 
 ## Related mods

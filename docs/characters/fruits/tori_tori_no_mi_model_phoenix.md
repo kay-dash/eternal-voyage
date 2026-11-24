@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -201,80 +205,22 @@ Protects the user and heals them back up when damage is taken, has an initial re
 </div>
 
 
-<!-- move awakenawakennomi:awaken_phoenix_assault_point -->
-
-### Awaken Phoenix Assault Point { #awakening-awaken-phoenix-assault-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/tori/phoenix/awaken_phoenix_assault_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened phoenix hybrid, which focuses on attacking
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +100% of base |
-| Punch damage | +18 HP |
-| Armour | +20 |
-| Toughness | +8 |
-| Step height | +1 blocks |
-| Jump | +2 |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_phoenix_fly_point -->
-
-### Awaken Phoenix Fly Point { #awakening-awaken-phoenix-fly-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/tori/phoenix/awaken_phoenix_fly_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened phoenix, which focuses on flying
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Toughness | +2 |
-| Armour | +6 |
-
-</div>
-
-
 <!-- move awakenawakennomi:ao_no_rakka -->
 
 ### Ao no Rakka { #awakening-ao-no-rakka }
 
 ![](../../assets/playable/awakenawakennomi/abilities/tori/phoenix/ao_no_rakka.png){ .entry-move-icon loading=lazy } *Active*
 
-The user dives wrapped in blue flames hitting all enemies in the way, healing with each hit.
+The user dives wrapped in blue flames hitting all enemies in the way, healing from the first three hits.
 
 <div class="entry-stats" markdown="1">
 
 | Stat | Value |
 | --- | --- |
-| Cooldown | 30 s (600 ticks) |
-| Base damage | 90 HP |
+| Cooldown | 45 s (900 ticks) |
+| Base damage | 60 HP |
+| Hits per enemy | 1 |
+| Healing per enemy, first three hit | 20 HP |
 
 </div>
 

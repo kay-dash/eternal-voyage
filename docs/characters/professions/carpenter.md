@@ -15,7 +15,7 @@ Build Cruise boats at the Shipyard. The [Lumberjack](lumberjack.md) supplies spe
 | Burning Tree | 36–40 | A fireproof hull that handles storms. |
 | Adam | 50 | Maximum hull durability and protection in storms. |
 
-Pick a normal boat or longboat for passengers, a cargo variant for storage, or a fishing variant for better catch odds. At the **Upgrade Bench**, fit armour plating for two extra blows, a ram, a sail for speed, or a **Burst Dial** for a Cola-powered boost. A Carpenter can mend a damaged Cruise boat afloat with planks, earning **2 XP per timber restored**. Keep repair supplies aboard.
+Pick a normal boat or longboat for passengers, a cargo variant for storage, or a fishing variant for better catch odds. At the **Upgrade Bench**, fit armor plating for two extra blows, a ram, a sail for speed, or a **Burst Dial** for a Cola-powered boost. A Carpenter can mend a damaged Cruise boat afloat with planks, earning **2 XP per timber restored**. Keep repair supplies aboard.
 
 ## Outfit a port
 

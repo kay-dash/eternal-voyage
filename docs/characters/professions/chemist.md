@@ -51,7 +51,7 @@ Craft the workstation at a crafting table.
 | Stamina Tonic | 10 | 1 | 30 | 2 × Wilted Carrot, Coconut |
 | Thunder Powder | 12 | 2 | 34 | Lightning Beetle |
 | Antidote Powder | 14 | 1 | 38 | Doctor Hornet, 3 × Bitter Grass |
-| Salt Ball | 14 | 2 | 38 | Crystallised Salt, Cobweb |
+| Salt Ball | 14 | 2 | 38 | Crystallized Salt, Cobweb |
 | Flame Powder | 18 | 2 | 46 | Fire Hercules |
 | Ice Powder | 20 | 2 | 50 | Ice Sunfish |
 | Potion of Second Thoughts | 20 | 1 | 50 | Mystery Mushroom, Bitter Grass, Medicinal Herb, Glass Bottle |
@@ -60,7 +60,7 @@ Craft the workstation at a crafting table.
 | Sleep Ball | 28 | 2 | 66 | 2 × Sleep Honey, 2 × Clay Ball |
 | Potion of Forgetting | 30 | 1 | 70 | Golden Matsutake, Mystery Mushroom, Bitter Grass, Medicinal Herb, Glass Bottle |
 | Restorative Drug | 30 | 1 | 70 | Salamandrake, 3 × Lotus Seed, Giant Devil Hand Moth |
-| Instant Freeze Ball | 32 | 2 | 74 | 6 × Ice Powder, Crystallised Salt, 2 × Clay Ball |
+| Instant Freeze Ball | 32 | 2 | 74 | 6 × Ice Powder, Crystallized Salt, 2 × Clay Ball |
 | Revival Elixir | 36 | 1 | 82 | Hydramandrake, Rainbow Phoenix, Crossbone Butterfly, Spirit Firefly |
 | Rumble Ball | 42 | 1 | 94 | Golden Egg, Golden Fruit, Golden Hercules |
 | Medicine | 46 | 1 | 102 | 2 × Thunder Powder, 2 × Flame Powder, 2 × Gunpowder, 2 × Ice Powder |

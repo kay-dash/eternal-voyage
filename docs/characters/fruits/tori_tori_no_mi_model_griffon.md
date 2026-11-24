@@ -50,7 +50,7 @@ Transforms the user into a griffon, which flies, can carry an ally on its back a
 | Movement speed | +40% of base |
 | Maximum health | +40% |
 | Punch damage | +8 HP |
-| Armour | +10 |
+| Armor | +10 |
 | Toughness | +4 |
 | Jump | +1.2 |
 | Step height | +1 blocks |
@@ -83,7 +83,7 @@ Transforms the user into a griffon hybrid, which flies and focuses on strength a
 | Movement speed | +20% of base |
 | Maximum health | +30% |
 | Punch damage | +12 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +4 |
 | Step height | +0.5 blocks |
 

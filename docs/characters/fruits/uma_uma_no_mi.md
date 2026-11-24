@@ -49,7 +49,7 @@ Transforms the user into a horse hybrid, a strong horse man with hooves and a ma
 | --- | --- |
 | Movement speed | +15% of base |
 | Punch damage | +9 HP |
-| Armour | +12 |
+| Armor | +12 |
 | Toughness | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
@@ -81,7 +81,7 @@ Transforms the user into a big horse that runs fast and can carry another player
 | --- | --- |
 | Movement speed | +40% of base |
 | Punch damage | +7 HP |
-| Armour | +12 |
+| Armor | +12 |
 | Toughness | +3 |
 | Step height | +0.4 blocks |
 | Jump | +1.5 |

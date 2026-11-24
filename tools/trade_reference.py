@@ -5,6 +5,8 @@ import json
 from pathlib import Path
 from zipfile import ZipFile
 
+from player_language import american_english
+
 
 TRADES = {
     "blacksmith": ("Forge", "forging", "Weapons, ammunition, and forged gear."),
@@ -242,7 +244,8 @@ def profession_reference(pack, docs, banned, table, label, write):
         p = docs / f"characters/professions/{trade}.md"
         marker = "<!-- Pack profession tables -->"
         source, _, _ = p.read_text(encoding="utf-8").partition(marker)
-        p.write_text(source.rstrip() + "\n\n" + marker + "\n" + "\n".join(lines).rstrip() + "\n", encoding="utf-8")
+        p.write_text(american_english(source.rstrip() + "\n\n" + marker + "\n" + "\n".join(lines).rstrip() + "\n"),
+                     encoding="utf-8")
     catalogue.extend(table(("Profession", "What you do"), catalogue_rows))
     write("characters/professions/index.md", catalogue)
     write("characters/trade-talents.md", talent_index)

@@ -118,7 +118,7 @@ Launches a crescent moon-shaped slash, which destroys everything in its path
 
 *Active*
 
-A more powerful version of the Nanajuni Pound Ho. Holding their two swords horizontally above the shoulder, the user then performs a circular swing that launches two air compressed projectiles spiraling towards the target.
+A more powerful version of the Nanajuni Pound Ho. Holding their two swords horizontally above the shoulder, the user then performs a circular swing that launches two air compressed projectiles spiraling toward the target.
 
 <div class="entry-stats" markdown="1">
 
@@ -137,7 +137,7 @@ A more powerful version of the Nanajuni Pound Ho. Holding their two swords horiz
 
 *Active*
 
-Same principle as the Sanjuroku Pound Ho. Holding their two swords horizontally above the shoulder, the user then performs a circular swing that launches two air compressed projectiles spiraling towards the target instead of one, making it twice as powerful.
+Same principle as the Sanjuroku Pound Ho. Holding their two swords horizontally above the shoulder, the user then performs a circular swing that launches two air compressed projectiles spiraling toward the target instead of one, making it twice as powerful.
 
 <div class="entry-stats" markdown="1">
 
@@ -156,7 +156,7 @@ Same principle as the Sanjuroku Pound Ho. Holding their two swords horizontally 
 
 *Active*
 
-Same principle as the thirty-six version of the same attack. Holding their two swords horizontally above the shoulder and the other in their mouth in the same direction, and then performs a circular swing that launches three air compressed projectiles spiraling towards the target instead of one or two, tripling the power of the technique.
+Same principle as the thirty-six version of the same attack. Holding their two swords horizontally above the shoulder and the other in their mouth in the same direction, and then performs a circular swing that launches three air compressed projectiles spiraling toward the target instead of one or two, tripling the power of the technique.
 
 <div class="entry-stats" markdown="1">
 
@@ -193,7 +193,7 @@ By spinning, the user creates a small tornado, which slashes and weakens nearby 
 
 *Active*
 
-A much stronger and powerful version of Hyakuhachi Pound Ho, where the user does the same exact movements as before, holding one of their swords horizontally above the shoulder of their sword arm, and then performs a circular swing that launches the air compressed projectile spiraling towards the target.
+A much stronger and powerful version of Hyakuhachi Pound Ho, where the user does the same exact movements as before, holding one of their swords horizontally above the shoulder of their sword arm, and then performs a circular swing that launches the air compressed projectile spiraling toward the target.
 
 <div class="entry-stats" markdown="1">
 

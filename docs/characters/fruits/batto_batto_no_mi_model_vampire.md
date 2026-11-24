@@ -50,7 +50,7 @@ Transforms the user into a winged vampire with fangs and claws, which can fly an
 | Movement speed | +15% of base |
 | Maximum health | +40% |
 | Punch damage | +9 HP |
-| Armour | +6 |
+| Armor | +6 |
 | Step height | +0.5 blocks |
 | Jump | +1.3 |
 | Toughness | +3 |
@@ -83,7 +83,7 @@ Transforms the user into a giant bat, fast in the air
 | Movement speed | +30% of base |
 | Maximum health | +30% |
 | Punch damage | +7 HP |
-| Armour | +4 |
+| Armor | +4 |
 | Step height | +1 blocks |
 | Jump | +1 |
 | Toughness | +2 |

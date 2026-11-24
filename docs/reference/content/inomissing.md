@@ -173,7 +173,7 @@ Installed build `8.1.0`. [Browse all mods](index.md).
 | No collared one in sight | `inomissing:peto_needs_collared` |  |
 | No enemy in reach to coil round. | `inomissing:makitsuki_no_prey` |  |
 | No enemy in reach to wrap round. | `inomissing:anaconda_no_prey` |  |
-| No enemy in sight wears metal armour. | `inomissing:gutsu_no_metal_worn` |  |
+| No enemy in sight wears metal armor. | `inomissing:gutsu_no_metal_worn` |  |
 | No enemy standing in lava or soft ground | `inomissing:modo_needs_sunk` |  |
 | No explosive in the inventory | `inomissing:koro_no_bomb` |  |
 | No ground to fall on there | `inomissing:beri_rain_no_ground` |  |
@@ -345,7 +345,7 @@ Installed build `8.1.0`. [Browse all mods](index.md).
 | There is no room for it there. | `inomissing:needs_room_ahead` |  |
 | There is no room here for that form. | `inomissing:no_room_for_form` |  |
 | There is no room here for that look. | `inomissing:no_room_for_look` |  |
-| There is no room in the bag for the armour worn. | `inomissing:no_room_to_dress` |  |
+| There is no room in the bag for the armor worn. | `inomissing:no_room_to_dress` |  |
 | There is no shot in flight in front of you. | `inomissing:no_shot_to_postpone` |  |
 | There is no stone next to the target. | `inomissing:needs_stone_near_target` |  |
 | There is no toy of yours in sight. | `inomissing:needs_any_toy` |  |

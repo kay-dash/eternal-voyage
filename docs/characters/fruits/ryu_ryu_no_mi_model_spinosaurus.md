@@ -49,7 +49,7 @@ Transforms the user into a spinosaurus hybrid, which is agile and has big claws 
 | --- | --- |
 | Movement speed | +15% of base |
 | Punch damage | +10 HP |
-| Armour | +16 |
+| Armor | +16 |
 | Toughness | +4 |
 | Step height | +0.5 blocks |
 | Jump | +0.5 |
@@ -81,7 +81,7 @@ Transforms the user into a spinosaurus, a huge and strong dinosaur with a sail o
 | --- | --- |
 | Movement speed | +12% of base |
 | Punch damage | +15 HP |
-| Armour | +18 |
+| Armor | +18 |
 | Toughness | +4 |
 | Step height | +1 blocks |
 | Jump | +0.5 |

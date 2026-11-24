@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -70,7 +72,7 @@ The user creates a spherical barrier where they're pointing.
 
 ![](../../assets/playable/mineminenomi/abilities/barrier_crash.png){ .entry-move-icon loading=lazy } *Active*
 
-Launches a barrier towards the opponent, smashing it against them.
+Launches a barrier toward the opponent, smashing it against them.
 
 <div class="entry-stats" markdown="1">
 

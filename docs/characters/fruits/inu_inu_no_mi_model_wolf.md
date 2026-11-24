@@ -49,7 +49,7 @@ Transforms the user into a wolf, which focuses on speed and long jumps.
 | --- | --- |
 | Movement speed | +60% of base |
 | Punch damage | +6 HP |
-| Armour | +6 |
+| Armor | +6 |
 | Step height | +1 blocks |
 | Jump | +1.8 |
 
@@ -81,7 +81,7 @@ Transforms the user into a wolf-man hybrid with claws, which focuses on strength
 | Movement speed | +15% of base |
 | Maximum health | +25% |
 | Punch damage | +8 HP |
-| Armour | +9 |
+| Armor | +9 |
 | Step height | +0.5 blocks |
 | Jump | +0.8 |
 
@@ -226,7 +226,7 @@ While in the hybrid form, the user springs up off the air and plunges onto the t
 
 ![](../../assets/playable/inomissing/abilities/rankyaku_koro.png){ .entry-move-icon loading=lazy } *Active*
 
-While in the hybrid form, the user kicks a blade of air that skips across the ground towards the target. While in the hybrid form, the user kicks four wolves of air that burst on what they hit.
+While in the hybrid form, the user kicks a blade of air that skips across the ground toward the target. While in the hybrid form, the user kicks four wolves of air that burst on what they hit.
 
 <div class="entry-stats" markdown="1">
 

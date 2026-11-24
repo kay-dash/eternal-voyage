@@ -1,6 +1,6 @@
 # Mod inventory
 
-The supplied snapshot contains **50 JARs** for Eternal Voyage. This inventory records the builds in that snapshot.
+The supplied snapshot contains **53 JARs** for Eternal Voyage. This inventory records the builds in that snapshot.
 
 The [Mods directory](content/index.md) gives each mod its own overview, gameplay guides and content reference.
 
@@ -9,13 +9,13 @@ The [Mods directory](content/index.md) gives each mod its own overview, gameplay
 | Mod | Build |
 | --- | --- |
 | Akuma no Mi | `0.0.6-1.20.1` |
-| AkumaLib | `6.8.1` |
-| Awaken Awaken no Mi | `3.0.3` |
+| AkumaLib | `6.9.0` |
+| Awaken Awaken no Mi | `4.0.0` |
 | Black Blades & Fists | `1.9.0-beta-1.20.1` |
 | Blitz Utility | `0.0.6-1.20.1` |
 | Cart Addon | `0.9.0-1.20.1` |
 | Devil Fruit Lives | `1.2.0-1.20.1` |
-| Eternal Voyage Companion | `1.15.0` |
+| Eternal Voyage Companion | `1.16.0` |
 | Haki Realm (Eternal Voyage build) | `2.0.0-1.20.1` |
 | Infusion no Mi | `0.0.5-1.20.1` |
 | Cruise Cruise no Mi | `0.8.0` |
@@ -27,7 +27,7 @@ The [Mods directory](content/index.md) gives each mod its own overview, gameplay
 | Awaken Path | `2.3.1` |
 | One Piece World | `2.0.0-phase6c.4` |
 | Race Race no Mi | `0.5.0` |
-| Transponder Snails | `1.20.1-2.1.0` |
+| Transponder Snails | `1.20.1-2.2.0` |
 
 ## World, ships and survival
 
@@ -44,6 +44,8 @@ The [Mods directory](content/index.md) gives each mod its own overview, gameplay
 | Upgrade Aquatic | `6.0.3` |
 | Valkyrien Skies 2 | `2.4.11` |
 | Eureka! Ships! | `1.6.4` |
+| Small Ships | `2.0.2` |
+| Mine Mine no Mi Small Ships | `0.1.0-1.20.1` |
 | Ship In A Bottle | `1.20.1-2.0.0` |
 | Ship Retrieval Service | `1.0.0` |
 | Valkyrien Icebreakers | `1.1.0` |
@@ -67,7 +69,8 @@ The [Mods directory](content/index.md) gives each mod its own overview, gameplay
 | Rhino | `2001.2.3-build.10` |
 | Proximity Chat | `1.1.6` |
 | VLib | `1.20.1-0.1.1` |
-| Surveyor Map Framework | `1.1.2+1.20` |
+| Surveyor Map Framework | `1.2.4+1.20` |
+| Dead Reckoning | `1.6.3+1.20.1` |
 
 ## Dependencies declared by the JARs
 
@@ -86,10 +89,6 @@ Some required mod IDs declared in the supplied Forge metadata have no matching t
 | Ship In A Bottle | `architectury`, `fabric_api` |
 | VLib | `architectury` |
 | Upgrade Aquatic | `blueprint` |
-| Ship In A Bottle | `1.20.1-2.0.0` |
-| Ship Retrieval Service | `1.0.0` |
-| Valkyrien Icebreakers | `1.1.0` |
-| Respawning Structures | `1.20.1-4.4` |
 | Weather2 | `coroutil` |
 
 ## Configuration-only integrations

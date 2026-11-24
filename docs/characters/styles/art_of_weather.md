@@ -200,7 +200,7 @@ Creates a cloud that can further be used by other Tempos
 
 ![](../../assets/playable/hakirework/abilities/swing_arm.png){ .entry-move-icon loading=lazy }
 
-Art of Weather. The Clima-Tact charged with electricity and swung through everyone in front: they're struck and paralysed. Needs a Clima-Tact.
+Art of Weather. The Clima-Tact charged with electricity and swung through everyone in front: they're struck and paralyzed. Needs a Clima-Tact.
 
 <div class="entry-stats" markdown="1">
 
@@ -217,7 +217,7 @@ Art of Weather. The Clima-Tact charged with electricity and swung through everyo
 
 ![](../../assets/playable/hakirework/abilities/zeus_breeze_tempo.png){ .entry-move-icon loading=lazy }
 
-Art of Weather. Storm clouds gather over the Clima-Tact, then one huge thunderbolt falls where the user looks, paralysing everyone near. Needs a Clima-Tact.
+Art of Weather. Storm clouds gather over the Clima-Tact, then one huge thunderbolt falls where the user looks, paralyzing everyone near. Needs a Clima-Tact.
 
 <div class="entry-stats" markdown="1">
 

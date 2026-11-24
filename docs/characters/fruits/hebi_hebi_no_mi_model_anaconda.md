@@ -50,7 +50,7 @@ Transforms the user into a half-snake, their upper body on a long and heavy anac
 | Movement speed | +5% of base |
 | Maximum health | +30% |
 | Punch damage | +8 HP |
-| Armour | +10 |
+| Armor | +10 |
 | Toughness | +3 |
 
 </div>
@@ -81,7 +81,7 @@ Transforms the user into a huge anaconda, fourteen blocks long and very heavy.
 | Movement speed | +25% of base |
 | Maximum health | +40% |
 | Punch damage | +9 HP |
-| Armour | +11 |
+| Armor | +11 |
 | Toughness | +3 |
 | Step height | +1 blocks |
 

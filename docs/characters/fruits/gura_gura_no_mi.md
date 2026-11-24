@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -166,9 +168,9 @@ Tears the ground apart over a huge area, throwing it into the air and knocking o
 
 | Stat | Value |
 | --- | --- |
-| Cooldown | 240 s (4800 ticks) |
+| Cooldown | 150 s (3000 ticks) |
 | Max damage | 200 HP |
-| Min damage | 60 HP |
+| Min damage | 160 HP |
 
 </div>
 

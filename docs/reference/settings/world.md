@@ -15,7 +15,6 @@ Source file `config/ompworld/conflict.toml`.
 | `marine-squad-rank` | `""` |
 | `assault-seconds` | `300` |
 | `assault-waves` | `3` |
-| `flag-window-seconds` | `120` |
 | `assault-retry-days` | `3` |
 | `raid-soonest-days` | `20` |
 | `raid-latest-days` | `30` |

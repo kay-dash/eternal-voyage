@@ -222,7 +222,7 @@ Installed build `0.0.5-1.20.1`. [Browse all mods](index.md).
 | Kamitsuki | `infusion:kamitsuki_summon` | The summoned wolf jumps at the target and bites it, making it bleed. Only the wolf itself can use this. |
 | Kamitsuki | `infusion:kamitsuki_weapon` | The user jumps at the target and bites it, making it bleed. The whole wolf bites harder. |
 | Kamiyose | `infusion:kamiyose_weapon` | The user uses their jaws. |
-| Kiba Shigan | `infusion:kiba_shigan_weapon` | While in the hybrid form, the user darts at the enemy and bites it as fast as a Shigan, the fangs go through the armour and the wound bleeds. |
+| Kiba Shigan | `infusion:kiba_shigan_weapon` | While in the hybrid form, the user darts at the enemy and bites it as fast as a Shigan, the fangs go through the armor and the wound bleeds. |
 | Kokutei Cross | `infusion:kokutei_cross_weapon` | Your next strike with the infused weapon crosses through the opponent like bison hooves, launching them forward. |
 | Kyoken | `infusion:kyoken_weapon` | The user throws themself on the target like a mad dog and bites and claws it again and again, faster and faster, without letting it go. |
 | Kyukaku | `infusion:kyukaku_weapon` | Smell all nearby creatures, making them glow for 10 seconds even through walls. |
@@ -230,12 +230,12 @@ Installed build `0.0.5-1.20.1`. [Browse all mods](index.md).
 | Kyukoka | `infusion:kyukoka_weapon` | While in the air, the user dives straight down at very high speed, damaging all enemies around the impact and sending them flying. The higher the dive, the bigger the damage. |
 | Lashout | `infusion:cart_lashout_summon` | The summoned Yamata no Orochi stomps and slams its heads around, hurting everything nearby. Only the Orochi itself can use this. |
 | Leaf of Many Forms | `infusion:cart_leaf_of_many_forms_weapon` | Turn the infused weapon you are holding into a leaf sword, axe, hoe, pickaxe or shovel. The weapon is kept safe inside the leaf, use the ability again to turn it back. Switching the form while holding a leaf changes it straight into the new tool, and dropping the leaf drops the weapon. |
-| Life Steal Bite | `infusion:life_steal_bite_weapon` | Grab a target and drain its life through a bite, sapping its colour and strength while restoring your own health. |
+| Life Steal Bite | `infusion:life_steal_bite_weapon` | Grab a target and drain its life through a bite, sapping its color and strength while restoring your own health. |
 | Lightning Reign | `infusion:lightning_reign_summon` | The summoned Nidhoggr calls down massive lightning pillars onto nearby enemies, amplified during thunderstorms. It never targets its owner or their allies. Only Nidhoggr itself can use this. |
 | Long Neck | `infusion:long_neck_weapon` | One serpent head shoots far ahead and bites the enemy you are looking at. |
 | Long Thrust | `infusion:long_thrust_weapon` | Thrust the infused weapon straight ahead with both hands, hitting all the enemies in a long line and pushing them back. A better weapon deals more damage. |
 | Magnumceratops | `infusion:magnumceratops_weapon` | While flying with the frill, dive head first where you are looking, damaging all enemies around the impact and sending them flying. The higher the dive, the higher the damage. |
-| Mahoroba | `infusion:mahoroba_weapon` | Dash towards your opponent, slamming into them, carrying them along and inflicting frostbite. |
+| Mahoroba | `infusion:mahoroba_weapon` | Dash toward your opponent, slamming into them, carrying them along and inflicting frostbite. |
 | Makitsuki | `infusion:makitsuki_weapon` | The user winds their long body round the enemy in front of them and squeezes it. It can't move, jump or strike and takes damage. A blow on the user lets it go. Use the ability again to let it go. |
 | Mandible Bite | `infusion:mandible_bite_weapon` | Bite the enemy in front of you with hornet mandibles, dealing heavy damage. |
 | Marianette | `infusion:marianette_weapon` | Shoot threads at the enemy you are looking at, binding its limbs so it cannot move. Use the ability again to let it go. |
@@ -253,7 +253,7 @@ Installed build `0.0.5-1.20.1`. [Browse all mods](index.md).
 | Niflheim | `infusion:niflheim_weapon` | Your next hit with the infused weapon is a devastating freezing strike that locks the target in Flash Freeze. |
 | Nightmare Rifts | `infusion:nightmare_rifts_summon` | The summoned Kirin opens a Nightmare Rift that keeps up to 6 nightmares from another realm at your side. They fight whatever attacks you or the Kirin and whatever you attack, follow your Command ability, and vanish when the Kirin is gone. Only the Kirin itself can use this. |
 | Nine Tails | `infusion:kyubi_nine_tails_weapon` | Nine fox tails strike in front of you one after the other, hitting every enemy there nine times. |
-| Numbing Sting | `infusion:numbing_sting_weapon` | Stab the enemy in front of you with a stinger whose venom paralyses it for a few seconds. |
+| Numbing Sting | `infusion:numbing_sting_weapon` | Stab the enemy in front of you with a stinger whose venom paralyzes it for a few seconds. |
 | O Rankyaku | `infusion:o_rankyaku_weapon` | While in the hybrid form, the user flicks their tail so fast it throws a thin air blade. |
 | Orochi Guard Point | `infusion:orochi_guard_point_weapon` | Calls forth the Yamata no Orochi from the infused weapon. Two people can ride it, and it fights beside you using the Haki you have unlocked, Eight Lives, Devour, Jaw Grab and Thrash. |
 | Orochi Heavy Point | `infusion:orochi_heavy_point_weapon` | Serpent heads coil around the weapon, dealing +2 damage and +2 reach while held. Each swing has a 1 in 5 chance for the heads to keep striking, up to 8 hits in total, and its hits have a 1 in 20 chance to inflict Doku poison and weakness for 3 seconds. |
@@ -321,7 +321,7 @@ Installed build `0.0.5-1.20.1`. [Browse all mods](index.md).
 | Tankyudon | `infusion:tankyudon_summon` | The summoned pteranodon flies into enemies at great speed, hurting and knocking them back. Only the pteranodon itself can use this. |
 | Tanuki Bite | `infusion:tanuki_bite_weapon` | Quickly bite the enemy in front of you. |
 | Tatsumaki | `infusion:tatsumaki_weapon` | Whips up a raging vortex of violent tornadoes that lift and crush nearby enemies. |
-| Tatsumaki | `infusion:missing_seiryu_tatsumaki_summon` | The summoned Seiryu raises tornadoes that drag enemies towards its jaws. Only Seiryu itself can use this. |
+| Tatsumaki | `infusion:missing_seiryu_tatsumaki_summon` | The summoned Seiryu raises tornadoes that drag enemies toward its jaws. Only Seiryu itself can use this. |
 | Tekkai | `infusion:tekkai_weapon` | Hardens your body to protect yourself while holding the infused weapon. Heavy mode can't move but protects more, Walk mode can move but protects less. |
 | Tekkai Kenpo: Don Poro | `infusion:tekkai_kenpo_weapon` | While in the hybrid form, the user punches the enemy in front of them in the stomach with an iron fist, leaving them winded. |
 | Tekkai Kenpo: Roga no Kamae | `infusion:roga_no_kamae_weapon` | Harden your body like iron, taking less damage and no knockback but moving slower. |
@@ -387,7 +387,7 @@ Installed build `0.0.5-1.20.1`. [Browse all mods](index.md).
 | Weapon Point | `infusion:tama_weapon_point_weapon` | The weapon takes on a rooster's fighting spirit, dealing +3 damage while held. |
 | Web Trap | `infusion:web_trap_summon` | The summoned spider lays a hidden web on the ground where it stands. The first enemy to step on it is held in place and wrapped in sticky web. Only the spider itself can use this. |
 | Web Trap | `infusion:web_trap_weapon` | The user lays a hidden web on the ground where they stand, the first one to step on it is held in place and wrapped in sticky web. The trap disappears after a while. |
-| Will O Wisp | `infusion:cart_will_o_wisp_weapon` | Launch wisps of blue fire where you look. They seek out the enemy and move towards it. |
+| Will O Wisp | `infusion:cart_will_o_wisp_weapon` | Launch wisps of blue fire where you look. They seek out the enemy and move toward it. |
 | Wing Flurry | `infusion:tama_wing_flurry_summon` | The summoned rooster beats its wings and throws back all enemies in front of it. Only the rooster itself can use this. |
 | Wing Gust | `infusion:wing_gust_weapon` | Beat great eagle wings, throwing all enemies in front of you far back. Projectiles are sent back too. |
 | Wing Gust | `infusion:pegasus_wing_gust_weapon` | Open pegasus wings wide and beat them forward, pushing every enemy in front of you far away. |

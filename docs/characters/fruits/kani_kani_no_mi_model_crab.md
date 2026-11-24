@@ -49,7 +49,7 @@ Transforms the user into a crab, which focuses on defense, can breathe underwate
 | --- | --- |
 | Movement speed | -25% of base |
 | Step height | +0.4 blocks |
-| Armour | +5 |
+| Armor | +5 |
 | Toughness | +2 |
 | Punch damage | +3 HP |
 
@@ -79,7 +79,7 @@ Grows a shell over the chest and a pincer on each arm, making the user hard to p
 | Stat | Value |
 | --- | --- |
 | Movement speed | -45% of base |
-| Armour | +9 |
+| Armor | +9 |
 | Toughness | +3 |
 | Punch damage | +6 HP |
 

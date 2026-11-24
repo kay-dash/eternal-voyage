@@ -101,7 +101,7 @@ Keep drinking at the highest state of drunkenness and hold Wano through island c
 
 ## Break the Guard
 
-Bring a horned warrior's weight down on a defence.
+Bring a horned warrior's weight down on a defense.
 
 Unlock Guard Breaker.
 

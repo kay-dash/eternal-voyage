@@ -77,6 +77,8 @@ The user roars and enemies half their size or less around them are slowed and we
 | Stat | Value |
 | --- | --- |
 | Cooldown | 22.2 s (444 ticks) |
+| Slow and weak seconds | 4 s |
+| Strength seconds | 10 s |
 
 </div>
 
@@ -150,7 +152,7 @@ The user takes a crouching player at least twice smaller on their shoulder with 
 
 ![](../../assets/playable/racenomi/abilities/elbaf_pride.png){ .entry-move-icon }
 
-A Giant with a standard size of 4× and Pride of Elbaf. You have more room to manoeuvre in buildings than an Ancient Giant.
+A Giant with a standard size of 4× and Pride of Elbaf. You have more room to maneuver in buildings than an Ancient Giant.
 
 
 <!-- move racenomi:elbaf_pride -->
@@ -160,6 +162,14 @@ A Giant with a standard size of 4× and Pride of Elbaf. You have more room to ma
 ![](../../assets/playable/racenomi/abilities/elbaf_pride.png){ .entry-move-icon loading=lazy } *Passive*
 
 The user does not give way, weakness and despair do not take hold of them, and below 30% health they hit 25% harder
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Damage under 30% health | +25% |
+
+</div>
 
 ### Ancient Giant { #ancient-giant }
 
@@ -175,6 +185,14 @@ A Giant with a standard size of 6×, Ancient Blood and Continent Puller. Your la
 ![](../../assets/playable/racenomi/abilities/ancient_blood.png){ .entry-move-icon loading=lazy } *Passive*
 
 The user has the blood of the first conquerors of the New World: they are tough and blows do not push them back
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Toughness | +3 |
+
+</div>
 
 
 <!-- move racenomi:continent_puller -->

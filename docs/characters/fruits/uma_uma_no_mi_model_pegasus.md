@@ -49,7 +49,7 @@ Transforms the user into a Pegasus hybrid, which flies and fights with hooves an
 | --- | --- |
 | Movement speed | +15% of base |
 | Punch damage | +11 HP |
-| Armour | +14 |
+| Armor | +14 |
 | Toughness | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
@@ -81,7 +81,7 @@ Transforms the user into a Pegasus, a winged war horse that flies and carries tw
 | --- | --- |
 | Movement speed | +35% of base |
 | Punch damage | +10 HP |
-| Armour | +16 |
+| Armor | +16 |
 | Toughness | +4 |
 | Step height | +1 blocks |
 | Jump | +1.2 |

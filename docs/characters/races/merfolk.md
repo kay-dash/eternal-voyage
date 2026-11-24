@@ -35,6 +35,14 @@ Merfolk swim quickly and have legs on land. They can learn Fishman Karate alongs
 
 The user has a fish tail in the water: they swim faster than anyone in the sea and breathe and see under water. Not with a Devil Fruit
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Swim Speed | +350% |
+
+</div>
+
 
 <!-- move racenomi:princely_fist -->
 
@@ -51,6 +59,7 @@ The user lands a heavy punch on the enemy in front of them, who is stunned and c
 | Base damage | 12 HP |
 | Cooldown | 11 s (220 ticks) |
 | Conditional cooldown | 0.5 s (10 ticks) |
+| Stun seconds | 1 s |
 
 </div>
 
@@ -69,6 +78,7 @@ The user guides their allies around them through the sea, they swim as fast as d
 | --- | --- |
 | Cooldown | 25 s (500 ticks) |
 | Conditional cooldown | 0.5 s (10 ticks) |
+| Escort seconds | 30 s |
 
 </div>
 
@@ -86,6 +96,7 @@ The user sings for a while, enemies around them are slowed and weakened as long 
 | Stat | Value |
 | --- | --- |
 | Cooldown | 30 s (600 ticks) |
+| Song seconds | 5 s |
 
 </div>
 
@@ -159,6 +170,7 @@ The user sends a rush of water in front of them that carries enemies away and sl
 | --- | --- |
 | Cooldown | 8 s (160 ticks) |
 | Base damage | 6 HP |
+| Slow seconds | 3 s |
 
 </div>
 
@@ -222,7 +234,7 @@ Spits water with enough force to push away any enemy in front of the user.
 
 ![](../../assets/playable/mineminenomi/abilities/mizu_shuryudan.png){ .entry-move-icon loading=lazy } *Active*
 
-Launches multiple bubbles in the direction the user is looking, these bubbles will linger around until an enemy comes close to them at which point they'll start targeting the enemy and move towards them.
+Launches multiple bubbles in the direction the user is looking, these bubbles will linger around until an enemy comes close to them at which point they'll start targeting the enemy and move toward them.
 
 <div class="entry-stats" markdown="1">
 
@@ -388,6 +400,14 @@ Choose Great Body for more toughness and a 1.25× body. Mermaid’s Swift Tail i
 ![](../../assets/playable/racenomi/abilities/great_merfolk_body.png){ .entry-move-icon loading=lazy } *Passive*
 
 The user is bigger than other merfolk, as big as a fishman, and sturdier
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Toughness | +2 |
+
+</div>
 
 
 ## Lineage Factors

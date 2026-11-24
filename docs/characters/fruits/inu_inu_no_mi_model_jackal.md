@@ -50,7 +50,7 @@ Transforms the user into a jackal hybrid, a tall black dog man with long legs an
 | Movement speed | +20% of base |
 | Maximum health | +20% |
 | Punch damage | +8 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
 
@@ -81,7 +81,7 @@ Transforms the user into a big black jackal that runs very fast.
 | --- | --- |
 | Movement speed | +65% of base |
 | Punch damage | +6 HP |
-| Armour | +5 |
+| Armor | +5 |
 | Step height | +1 blocks |
 | Jump | +2 |
 

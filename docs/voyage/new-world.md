@@ -11,7 +11,7 @@ The undersea route takes you from late Paradise to **Fish-Man Island and the Ryu
 
 ## Let the current take you down
 
-Bring the ship to the centre of the passage and sail into the **undersea current**. The ship must be coated and must fit the channel. Stay aboard as the current carries you to Fish-Man Island’s dock. If the ship is refused, check the message for hull size or coating. Dock with room to turn the ship around and have everyone step ashore to register the visit.
+Bring the ship to the center of the passage and sail into the **undersea current**. The ship must be coated and must fit the channel. Stay aboard as the current carries you to Fish-Man Island’s dock. If the ship is refused, check the message for hull size or coating. Dock with room to turn the ship around and have everyone step ashore to register the visit.
 
 ## Open the route at Ryugu Palace
 
@@ -23,7 +23,7 @@ If your FTB quest is still locked, finish **Two Years Later** in the Summit War 
 
 ## Ride the hot stream to the surface
 
-Return to the harbour. Head for the **hot stream in Fish-Man Island’s bay** and steer into its centre to ride it **up to the New World**. The return current at the other end of the dock runs **back to Paradise**. Watch for the current’s message so the crew knows which way the ship is headed. Stay aboard until you’re back on the surface.
+Return to the harbor. Head for the **hot stream in Fish-Man Island’s bay** and steer into its center to ride it **up to the New World**. The return current at the other end of the dock runs **back to Paradise**. Watch for the current’s message so the crew knows which way the ship is headed. Stay aboard until you’re back on the surface.
 
 ## Make your first New World landfall
 

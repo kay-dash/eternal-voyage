@@ -50,6 +50,14 @@ DAWN_MODES = {
                [("COOLDOWN_TICKS", 280)]),
 }
 VERIFIED_STATS = {
+    "racenomi:lunarian_blood": [
+        ("Bare-handed damage at all times", "+1 HP"),
+        ("Damage taken with the flame lit", "50% of eligible damage"),
+        ("Movement speed with the flame out", "+40%"),
+        ("Attack speed with the flame out", "+25%"),
+        ("Additional bare-handed damage with the flame out", "+2 HP"),
+        ("Jump height with the flame out", "+0.5 block"),
+    ],
     "inofruits:blood_spear": [("Blood cost", "2"), ("Direct hit at standard size", "6 HP + 3% of maximum HP")],
     "racenomi:ray_body": [("Armour toughness", "+1"), ("Bare-handed damage", "+2 HP"), ("Bare-handed attack speed", "+25% of base")],
     "racenomi:garfish_body": [("Swim speed", "+100% of base")],
@@ -64,6 +72,19 @@ VERIFIED_STATS = {
     "awakenawakennomi:gear_fifth": [("Maximum duration", "180 s"), ("Damage taken from eligible hits", "50%"),
                                    ("Air running per takeoff", "3 s")],
     "awakenawakennomi:gomu_gomu_no_gigant": [("Maximum duration", "30 s")],
+}
+AWAKENING_STATS = {
+    "ao_no_rakka": [("Hits per enemy", "1"), ("Healing per enemy, first three hit", "20 HP")],
+    "ancient_spine_saw": [("Hits per enemy", "1")],
+    "horn_drill": [("Hits per enemy", "1")],
+    "ivory_catastrophe": [("Hits per enemy", "1")],
+    "reverse_slow_smash": [("Hits per enemy", "1"), ("Damage by stored attacks", "20 / 40 / 70 / 120 HP")],
+    "diosa_fleur": [("Clone duration", "60 s"), ("Clone damage", "20 HP")],
+    "living_feast": [("Golem duration", "60 s")],
+    "anesthesia": [("Minimum interval between hits to one target", "2 s")],
+    "loves_punishment": [("Minimum interval between petrifications", "10 s")],
+    "drought_siphon": [("Enemies that provide healing", "First 3 hit")],
+    "inga_samsara": [("Maximum reflected damage per enemy", "200 HP")],
 }
 FORM_STATS = {
     "awakenawakennomi:gomu_gomu_no_gigant": [
@@ -117,10 +138,16 @@ class Entry:
         return f"reference/content/{self.owner}/{self.section}/{self.id.split(':')[1]}.md"
 
 
+def mod_metadata(jar):
+    if "META-INF/mods.toml" in jar.namelist():
+        return tomllib.loads(jar.read("META-INF/mods.toml").decode("utf-8-sig"))["mods"][0]
+    metadata = json.loads(jar.read("fabric.mod.json"))
+    return {"modId": metadata["id"], "version": metadata["version"], "logoFile": metadata.get("icon")}
+
+
 def load_mod(path):
     with ZipFile(path) as jar:
-        metadata = tomllib.loads(jar.read("META-INF/mods.toml").decode("utf-8-sig"))
-        modid = metadata["mods"][0]["modId"]
+        modid = mod_metadata(jar)["modId"]
         lang = {}
         for name in jar.namelist():
             if name.startswith("assets/") and name.endswith("/lang/en_us.json"):
@@ -189,6 +216,52 @@ def describe(key, locale):
     return " ".join(value for k, value in locale.items()
                     if k == key + ".description" or k.startswith(key + ".description.")
                     or k in (key + ".desc", key + ".tip"))
+
+
+def racial_tooltip_stats(ops):
+    """Read fixed numerical racial stats exposed by the in-game tooltip."""
+    labels = {
+        "STAT_SWIM_SPEED": "Swim speed",
+        "STAT_ATTACK_SPEED": "Attack speed",
+        "STAT_DAMAGE": "Bare-handed damage",
+        "STAT_TOUGHNESS": "Armor toughness",
+        "STAT_HEALTH": "Maximum health",
+        "STAT_KNOCKBACK": "Knockback resistance",
+        "STAT_JUMP": "Additional jump height",
+        "STAT_SPEED": "Movement speed",
+        "STAT_FALL": "Additional fall resistance",
+    }
+    for i, op in enumerate(ops[1:-1], 1):
+        field = re.search(r"// Field (\w+):", ops[i + 1])
+        if "RaceRegistry.stat:" in op and field and (name := string(ops[i - 1])):
+            labels[field[1]] = name
+    rows = []
+    for i, op in enumerate(ops[3:], 3):
+        if "RaceRegistry.statLine:" not in op:
+            continue
+        field = re.search(r"// Field (\w+):", ops[i - 3])
+        value = stat_number(ops[i - 2])
+        if not field or value is None or not (name := labels.get(field[1])):
+            continue
+        prefix = (string(ops[i - 1]) or "").removesuffix("%")
+        name = name.replace("Bare hand", "Bare-handed")
+        normalized = name.lower()
+        if normalized.startswith("health healed"):
+            unit = " HP"
+        elif "seconds" in normalized:
+            unit = " s"
+        elif any(word in normalized for word in ("reach", "range", "jump", "fall without harm")):
+            unit = " blocks"
+        elif any(word in normalized for word in ("speed", "taken", "knockback", "gained", "resistance")) and "fall resistance" not in normalized:
+            unit = "%"
+        elif normalized in {"fall damage", "through armour"} or normalized.startswith(("damage per", "damage under", "damage for", "damage with", "first blow damage")):
+            unit = "%"
+        elif ("health" in normalized or "damage" in normalized) and "toughness" not in normalized:
+            unit = " HP"
+        else:
+            unit = ""
+        rows.append((name, f"{prefix}{value:.5g}{unit}"))
+    return rows
 
 
 def move_from_class(modid, code, locale, known=None):
@@ -333,7 +406,7 @@ def read_sources(javap):
     sources = {}
     for path in (PACK / "mods").glob("*.jar"):
         with ZipFile(path) as jar:
-            key = tomllib.loads(jar.read("META-INF/mods.toml").decode("utf-8-sig"))["mods"][0]["modId"]
+            key = mod_metadata(jar)["modId"]
         if key in ids:
             sources[key] = load_mod(path)
     with ThreadPoolExecutor(max_workers=3) as executor:
@@ -414,7 +487,7 @@ RACE_NOTES = {
     "cyborg": "Fit body parts and accessories and use Cola to power your moves. The quest chapter tracks head, arm, chest, leg and shoulder upgrades, and the techniques available depend on what you have fitted.",
     "human_hidden_modified": "Play twenty hours as a Hidden Modified Human and reach 5,000 Doriki to wake the modification.",
     "modified_human": "Equip a Raid Suit with the Germa 66 Ration Box. Sneak and use it to pick the suit colour. Suit-specific moves require the corresponding suit.",
-    "lunarian": "Switch your flame on for defence and flame techniques, or extinguish it for speed and offensive mobility. Lunarians are protected from the hot temperature extreme.",
+    "lunarian": "Light your flame to take 50% less eligible damage, or extinguish it for faster movement and attacks. Flame Switch controls the stance. Your flame starts out after login or respawn and goes out in water. Fire and lava do no damage in either stance. A Lunarian starts at 1.5× body size and can crouch to fit through a normal doorway.",
     "buccaneer": "Broad, Stout and Great are cosmetic choices with the same body size, passive and moves. Sneak to hunch through ordinary doorways.",
     "mermaid": "Choose Swift Tail for faster swimming. At 1× body size, you trade Great Merfolk’s extra toughness for speed.",
     "great_merfolk": "Choose Great Body for more toughness and a 1.25× body. Mermaid’s Swift Tail is the faster option in water.",
@@ -522,6 +595,14 @@ def collect_moves(sources, all_code, locked):
             if move is None or move.id in locked or move.id in REPLACED_MOVES:
                 continue
             stats_from_projectile(move, code, codes)
+            if mod == "racenomi" and move.id not in VERIFIED_STATS:
+                rows = racial_tooltip_stats(INSTRUCTION.findall(code))
+                if rows:
+                    move.extra_stats.extend(rows)
+                    if move.kind == "Passive" and any("damage" in name.lower() for name, _ in rows):
+                        move.stats = [(key, val) for key, val in move.stats if key not in {"DAMAGE", "FIXED_HIT_DAMAGE"}]
+            if mod == "awakenawakennomi":
+                move.extra_stats.extend(AWAKENING_STATS.get(move.id.split(":")[1], ()))
             if mod == "racenomi" and (mink_stats := MINK_TECHNIQUE_STATS.get(move.id.split(":")[1])):
                 damage, cooldown, charges = mink_stats
                 slug = move.id.split(":")[1]
@@ -831,7 +912,7 @@ def render_move(page, lines, move, tuning, installed, fruit_peak=None, heading="
         lines.extend(["**Stats while transformed**", "", *stat_table(move.form_stats)])
 
 
-def render_entry(entry, entries, moves, tuning, pools, icons, installed, sources, write):
+def render_entry(entry, entries, moves, tuning, pools, icons, installed, sources, awakened_damage, write):
     page = entry.path
     owner_page = f"reference/content/{entry.owner}.md"
     section_index = f"reference/content/{entry.owner}/{entry.section}/index.md"
@@ -847,6 +928,8 @@ def render_entry(entry, entries, moves, tuning, pools, icons, installed, sources
         lines.extend([clean(entry.description), ""])
     if entry.section == "fruits":
         lines.append(f"<!-- fruit {entry.id} -->")
+        if entry.id == "mineminenomi:yami_yami_no_mi":
+            lines.extend(["", "Black Hole can hold up to **30,000 absorbed blocks** for Liberation.", ""])
     curve = None
     if entry.section in ("fruits", "awakenings"):
         curve = [2.25, 2, 1.75, 1.75][min(max(entry.tier, 1), 4) - 1]
@@ -884,6 +967,12 @@ def render_entry(entry, entries, moves, tuning, pools, icons, installed, sources
     for child in children:
         if child.section == "awakenings":
             lines.extend(["[Jump to awakening](#awakening)", ""])
+    if entry.section == "fruits" and any(child.section == "awakenings" for child in children):
+        lines.extend([f"After awakening, this fruit’s original damaging moves deal **{awakened_damage:g}× damage**. "
+                      "The awakening techniques below have their own values.", ""])
+        if "zoan" in entry.kind.lower():
+            guide = link(page, "characters/devil-fruits.md#what-changes-after-awakening", "awakened Zoan form stats")
+            lines.extend([f"Keep using your normal combat forms after awakening. See the {guide} for the upgrade.", ""])
     variants = [child for child in children if child.section == "races"]
     if variants:
         lines.extend(["**Variants**", "", *[f"- [{child.title}](#{variant_anchor(child)})" for child in variants], ""])
@@ -1053,10 +1142,13 @@ def playable_reference(javap, pools, removed, locked, write):
 
     icons = {entry.path: entry_icon(entry, sources, moves, install) for entry in entries}
     tuning = config["moveDamage"]
+    server = PACK / "serverconfig"
+    lib_config = tomllib.loads((server / "akumalib-server.toml").read_text(encoding="utf-8-sig"))
+    awakened_damage = lib_config.get("awakenedFruits", {}).get("awakenedDamage", 1.5)
     grouped = defaultdict(list)
     canonical = [entry for entry in entries if not entry.parent]
     for entry in canonical:
-        render_entry(entry, by_path, moves, tuning, pools, icons, install, sources, write)
+        render_entry(entry, by_path, moves, tuning, pools, icons, install, sources, awakened_damage, write)
         if entry.section not in {"fruits", "races", "styles"}:
             grouped[(entry.owner, entry.section)].append(entry)
 

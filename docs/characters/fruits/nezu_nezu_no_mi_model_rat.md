@@ -49,7 +49,7 @@ Transforms the user into a rat, which is small enough to fit anywhere and too li
 | --- | --- |
 | Movement speed | +45% of base |
 | Punch damage | +2 HP |
-| Armour | +1 |
+| Armor | +1 |
 | Step height | +0.5 blocks |
 | Jump | +1.2 |
 
@@ -80,7 +80,7 @@ Transforms the user into a rat hybrid with whiskers and a tail, a third smaller 
 | --- | --- |
 | Movement speed | +30% of base |
 | Punch damage | +5 HP |
-| Armour | +3 |
+| Armor | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
 | Toughness | +1 |

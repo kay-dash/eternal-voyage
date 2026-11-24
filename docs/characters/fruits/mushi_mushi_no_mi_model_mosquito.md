@@ -78,7 +78,7 @@ Transforms the user into a mosquito hybrid with big eyes, a proboscis and wings
 | --- | --- |
 | Movement speed | +0% of base |
 | Punch damage | +4 HP |
-| Armour | +1 |
+| Armor | +1 |
 | Jump | +1.2 |
 
 </div>

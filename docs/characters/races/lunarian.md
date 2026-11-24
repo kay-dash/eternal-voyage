@@ -6,7 +6,7 @@
 
 [Races](index.md) · [Race Race no Mi](../../reference/content/racenomi.md)
 
-Switch your flame on for defence and flame techniques, or extinguish it for speed and offensive mobility. Lunarians are protected from the hot temperature extreme.
+Light your flame to take 50% less eligible damage, or extinguish it for faster movement and attacks. Flame Switch controls the stance. Your flame starts out after login or respawn and goes out in water. Fire and lava do no damage in either stance. A Lunarian starts at 1.5× body size and can crouch to fit through a normal doorway.
 
 <div class="entry-stats" markdown="1">
 
@@ -136,6 +136,19 @@ The user hits the nearest enemy with a burning blow, their flame must be lit
 ![](../../assets/playable/racenomi/abilities/lunarian_blood.png){ .entry-move-icon loading=lazy } *Passive*
 
 Fire does not burn the user. With the flame on their back lit they take much less damage and can use their abilities, with it out they run, hit and jump faster and harder. Under water it goes out
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Bare-handed damage at all times | +1 HP |
+| Damage taken with the flame lit | 50% of eligible damage |
+| Movement speed with the flame out | +40% |
+| Attack speed with the flame out | +25% |
+| Additional bare-handed damage with the flame out | +2 HP |
+| Jump height with the flame out | +0.5 block |
+
+</div>
 
 
 <!-- move racenomi:lunarian_flight -->

@@ -44,7 +44,7 @@ Reach Blacksmith level 5.
 
 Loguetown's sword shop has armed rookies since Roger's day. Forge a katana worthy of its racks.
 
-Reach Blacksmith level 25, Forge a Katana and land on a harbour town in your home Blue.
+Reach Blacksmith level 25, Forge a Katana and land on a harbor town in your home Blue.
 
 **Prerequisites (all of)** — [Apprentice Blacksmith](blacksmith.md#q-1518058803b56eec)
 
@@ -52,7 +52,7 @@ Reach Blacksmith level 25, Forge a Katana and land on a harbour town in your hom
 
 - Reach Blacksmith level 25
 - Forge a Katana
-- Land on a harbour town in your home Blue
+- Land on a harbor town in your home Blue
 
 **Rewards**
 
@@ -83,7 +83,7 @@ Reach Blacksmith level 50 and complete the tasks below.
 
 ## Master Blacksmith
 
-Wano honours one swordsmith above all others. Earn that title.
+Wano honors one swordsmith above all others. Earn that title.
 
 Reach Blacksmith level 100 and earn the title.
 

@@ -41,8 +41,8 @@ Transforms the user into a dragon hybrid with scales, claws and a long tail. Jum
 | --- | --- |
 | Movement speed | +22% of base |
 | Punch damage | +13 HP |
-| Armour | +21 |
-| Armour toughness | +8 |
+| Armor | +21 |
+| Armor toughness | +8 |
 | Toughness | +7 |
 | Jump | +0.5 |
 
@@ -64,8 +64,8 @@ Transforms the user into the azure dragon, a huge flying serpent 45 blocks long 
 | Stat | Value |
 | --- | --- |
 | Punch damage | +18 HP |
-| Armour | +26 |
-| Armour toughness | +12 |
+| Armor | +26 |
+| Armor toughness | +12 |
 | Toughness | +16 |
 
 </div>
@@ -208,7 +208,7 @@ While in the dragon form, the user swings their tail round in front of them and 
 
 ![](../../assets/playable/inomissing/abilities/seiryu_tatsumaki.png){ .entry-move-icon loading=lazy } *Active*
 
-While in the dragon form, the user raises tornadoes Tatsumaki is 3 tornadoes in front of the user that pull the enemies towards the jaws, which bite them Tatsumaki Kaifu is a great tornado where the user looks that pulls the enemies round and throws wind blades at the ones around
+While in the dragon form, the user raises tornadoes Tatsumaki is 3 tornadoes in front of the user that pull the enemies toward the jaws, which bite them Tatsumaki Kaifu is a great tornado where the user looks that pulls the enemies round and throws wind blades at the ones around
 
 <div class="entry-stats" markdown="1">
 

@@ -15,4 +15,4 @@ Look up the rules for playing Eternal Voyage, including combat scaling, loot, an
 | Sea storms | Storms get stronger farther into the voyage. Check the Barometer and prepare your ship. | [Survival at sea](../world/survival.md#weather-and-temperature) |
 | Sea Kings | Hunt Sea Kings in the Calm Belt or fish for them at the required Fisher level and depth. | [Loot and encounters](../world/loot.md) |
 | Encounters and treasure | Crews, toughness and damage vary by sea. Arena opponents and loot also depend on tier. | [Encounter stats](../world/encounter-stats.md) and [Loot](../world/loot.md) |
-| Conquest | Towns use village flags. Other claimable islands use halls, assaults, defences and crew wars. | [Towns, crews and conflict](../world/conflict.md) |
+| Conquest | Towns use village flags. Other claimable islands use halls, assaults, defenses and crew wars. | [Towns, crews and conflict](../world/conflict.md) |

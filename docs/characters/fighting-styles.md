@@ -2,7 +2,7 @@
 
 Choose a fighting style in the character creator. Style trainers and relevant FTB quests award Training Points. The supplied base Training Point limit is **150**, and the configured retention after a reset is **80%**. Race points and style points follow the trees and reward types shown in the game. A quest that asks you to unlock a move checks the unlock itself.
 
-Open the [fighting style catalogue](styles/index.md) to choose a style, or select a style or weapon art below for its moves, unlocks, and stats. Check the [quest chapter reference](../reference/quests/index.md) for the objectives you can complete as you train.
+Open the [fighting style catalog](styles/index.md) to choose a style, or select a style or weapon art below for its moves, unlocks, and stats. Check the [quest chapter reference](../reference/quests/index.md) for the objectives you can complete as you train.
 
 ## Base styles and add-on styles
 

@@ -182,7 +182,7 @@ The user throws a page marked with the symbol of brightness at the enemy in fron
 
 ![](../../assets/playable/inomissing/abilities/sefer_atziluth.png){ .entry-move-icon loading=lazy } *Active*
 
-The user throws pages marked with the symbol of emanation at the enemies in front of them, poisoning each one. The user throws pages marked with the symbol of action at the enemies in front of them, paralysing each one for a few seconds. Using it puts the other Sefer on a 10 seconds cooldown.
+The user throws pages marked with the symbol of emanation at the enemies in front of them, poisoning each one. The user throws pages marked with the symbol of action at the enemies in front of them, paralyzing each one for a few seconds. Using it puts the other Sefer on a 10 seconds cooldown.
 
 <div class="entry-stats" markdown="1">
 

@@ -26,7 +26,7 @@ Reach 47,500 Doriki to open the weekly endgame contracts.
 
 ## Hot Zone War
 
-Every week one island becomes the centre of the world. Everybody goes there, and everybody fights. Use /voyage hotzone to see which island it is this week.
+Every week one island becomes the center of the world. Everybody goes there, and everybody fights. Use /voyage hotzone to see which island it is this week.
 
 Defeat thirty fighters or players on this week's hot zone island.
 

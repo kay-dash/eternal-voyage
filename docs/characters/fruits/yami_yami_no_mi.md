@@ -7,6 +7,9 @@
 [Fruits](index.md) · [Mine Mine no Mi](../../reference/content/mineminenomi.md)
 
 <!-- fruit mineminenomi:yami_yami_no_mi -->
+
+Black Hole can hold up to **30,000 absorbed blocks** for Liberation.
+
 <div class="entry-stats" markdown="1">
 
 | Stat | Value |
@@ -22,6 +25,8 @@
 See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
+
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
 
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
@@ -88,7 +93,7 @@ The user sucks up any Darkness they've placed. The user releases all the Darknes
 
 ![](../../assets/playable/mineminenomi/abilities/kurouzu.png){ .entry-move-icon loading=lazy } *Active*
 
-Creates a strong gravitational force, that pulls the opponent towards the user.
+Creates a strong gravitational force, that pulls the opponent toward the user.
 
 <div class="entry-stats" markdown="1">
 

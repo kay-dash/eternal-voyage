@@ -100,6 +100,14 @@ Choose Skypiean for running speed and the largest Dial damage bonus. Breath Gale
 
 The user is light on their feet and runs faster. The higher in the sky the stronger it gets
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Speed | +20% |
+
+</div>
+
 
 <!-- move racenomi:breath_gale -->
 
@@ -157,7 +165,8 @@ The user hits a bit harder and takes blows better. The higher in the sky the str
 
 | Stat | Value |
 | --- | --- |
-| Base damage | 1 HP |
+| Damage | +1 HP |
+| Toughness | +1 |
 
 </div>
 
@@ -240,7 +249,7 @@ The user reads the one they look at with their Mantra. For a while they see wher
 
 ![](../../assets/playable/racenomi/gui/icons/shandia.png){ .entry-move-icon }
 
-Choose Shandia for a winged melee fighter with tougher armour and the War Cry and Berserker branch.
+Choose Shandia for a winged melee fighter with tougher armor and the War Cry and Berserker branch.
 
 
 <!-- move racenomi:shandia_body -->

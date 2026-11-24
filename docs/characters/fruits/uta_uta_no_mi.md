@@ -148,7 +148,7 @@ In Uta World, the user heals the ally looked at, or the user with no ally in sig
 
 ![](../../assets/playable/inomissing/abilities/knight_form.png){ .entry-move-icon loading=lazy } *Active · Transformation*
 
-In Uta World, the user puts on golden armour with a lance and a shield, becoming tougher and hitting harder and from further away
+In Uta World, the user puts on golden armor with a lance and a shield, becoming tougher and hitting harder and from further away
 
 <div class="entry-stats" markdown="1">
 
@@ -165,8 +165,8 @@ In Uta World, the user puts on golden armour with a lance and a shield, becoming
 
 | Stat | Value |
 | --- | --- |
-| Armour | +12 |
-| Armour toughness | +4 |
+| Armor | +12 |
+| Armor toughness | +4 |
 | Punch damage | +6 HP |
 
 </div>

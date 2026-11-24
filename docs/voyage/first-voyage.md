@@ -23,11 +23,11 @@ To start together, invite a friend with `/starter invite <player>`. The invitati
 
 ## Pack for a landing
 
-Everyone should carry food, armour, a way back to the ship, and the weapon or tool their moves require. Carry a spare boat for landing and keep a way to check the [local weather](../world/weather.md). Agree where to regroup if the crew gets separated.
+Everyone should carry food, armor, a way back to the ship, and the weapon or tool their moves require. Carry a spare boat for landing and keep a way to check the [local weather](../world/weather.md). Agree where to regroup if the crew gets separated.
 
 | Role | What to bring |
 | --- | --- |
-| Front line | Armour, food, and the weapon that matches your style. A Brawler can keep an empty slot ready for bare-handed moves. |
+| Front line | Armor, food, and the weapon that matches your style. A Brawler can keep an empty slot ready for bare-handed moves. |
 | Ranged support | A suitable firearm and ammunition, or a Clima-Tact for Art of Weather. Carry a backup for close quarters. |
 | Ship and shore support | Navigation tools, extra supplies, and hull-repair materials if you’re the Carpenter. A Doctor can bring healing tools while another player watches for threats. |
 

@@ -9,9 +9,10 @@ import subprocess
 import tomllib
 from zipfile import ZipFile
 from bloodline_reference import bloodline_reference
+from player_language import american_english
 from trade_reference import profession_reference
 from mod_cards import FEATURED, ICON_TEXTURES, MOD_CARDS, MOD_SECTIONS, RELATED_MODS
-from playable_reference import REPLACED_MOVES, playable_reference
+from playable_reference import mod_metadata, REPLACED_MOVES, playable_reference
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -83,7 +84,8 @@ def read(path):
 def write(relative_path, lines):
     path = DOCS / relative_path
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(GENERATED + "\n\n" + "\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    path.write_text(american_english(GENERATED + "\n\n" + "\n".join(lines).rstrip() + "\n"),
+                    encoding="utf-8")
 
 
 def clean(value):
@@ -136,6 +138,8 @@ def player_settings(data, filename):
             for key in ("Inventory Fruit Limit", "Unable to pickup Devil Fruit as a fruit user"):
                 fruit_rules.pop(key, None)
         abilities.get("Haki", {}).pop("Haoshoku Haki Unlock Logic", None)
+    elif filename == "conflict.toml":
+        data.pop("flag-window-seconds", None)
     elif filename.startswith("inocruise-"):
         for section in ("seaStorm", "seaKing"):
             data.pop(section, None)
@@ -461,7 +465,8 @@ def mod_navigation():
     start, end = "<!-- featured mods -->", "<!-- end featured mods -->"
     before, rest = text.split(start, 1)
     _, after = rest.split(end, 1)
-    home.write_text(before + start + "\n\n" + "\n".join(mod_grid(FEATURED, "")) + "\n" + end + after, encoding="utf-8")
+    home.write_text(american_english(before + start + "\n\n" + "\n".join(mod_grid(FEATURED, "")) + "\n" + end + after),
+                    encoding="utf-8")
     config = ROOT / "zensical.toml"
     start, end = "  # Mod directory", "  # End mod directory"
     before, _, tail = read(config).partition(start)
@@ -514,8 +519,7 @@ def shipped_content_reference(javap=None):
     archives = {}
     for path in sorted((PACK / "mods").glob("*.jar")):
         with ZipFile(path) as archive:
-            metadata = tomllib.loads(archive.read("META-INF/mods.toml").decode("utf-8-sig"))
-            archives[metadata["mods"][0]["modId"]] = path
+            archives[mod_metadata(archive)["modId"]] = path
     if set(archives) != set(MOD_CARDS):
         raise ValueError(f"Update the mod cards for these IDs: {set(archives) ^ set(MOD_CARDS)}")
     for modid in ("mineminenomi", "akuma", "inofruits", "inomissing"):
@@ -550,8 +554,7 @@ def shipped_content_reference(javap=None):
                    if (m := re.search(r"<!-- fruit ([\w:]+) -->", read(p)))}
     for modid, jar in archives.items():
         with ZipFile(jar) as archive:
-            metadata = tomllib.loads(archive.read("META-INF/mods.toml").decode("utf-8-sig"))
-            primary = metadata["mods"][0]
+            primary = mod_metadata(archive)
             modname, description, guides = MOD_CARDS[modid]
             mod_icon(archives, modid, primary.get("logoFile"))
             version = primary["version"]

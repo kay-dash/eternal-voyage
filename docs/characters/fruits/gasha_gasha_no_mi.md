@@ -198,7 +198,7 @@ The user's arms get bigger with scrap and Busoshoku Haki, increasing their punch
 | Stat | Value |
 | --- | --- |
 | Punch damage | +12 HP |
-| Armour | +8 |
+| Armor | +8 |
 
 </div>
 

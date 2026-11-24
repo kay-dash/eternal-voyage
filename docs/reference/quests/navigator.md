@@ -42,7 +42,7 @@ Reach Navigator level 5.
 
 ## Journeyman Navigator
 
-Chart the seas, build a barometer and let the Log Pose recognise twenty-five islands.
+Chart the seas, build a barometer and let the Log Pose recognize twenty-five islands.
 
 Reach Navigator level 25 and complete the tasks below.
 
@@ -53,7 +53,7 @@ Reach Navigator level 25 and complete the tasks below.
 - Reach Navigator level 25
 - Make a Barometer
 - Make a Sea Chart
-- Have your Log Pose recognise 25 islands
+- Have your Log Pose recognize 25 islands
 
 **Rewards**
 

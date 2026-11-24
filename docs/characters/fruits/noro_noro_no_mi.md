@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -111,7 +113,16 @@ Reverses the Noroma rays to give the user four levels of Speed. The faster the u
 
 ![](../../assets/playable/awakenawakennomi/abilities/noro/reverse_slow_smash.png){ .entry-move-icon loading=lazy } *Passive*
 
-Running into enemies at high speed damages them
+Running into enemies at high speed damages them, once each per Reverse Slow
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Hits per enemy | 1 |
+| Damage by stored attacks | 20 / 40 / 70 / 120 HP |
+
+</div>
 
 
 <!-- move awakenawakennomi:noroma_field -->

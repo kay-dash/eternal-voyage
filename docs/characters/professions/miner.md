@@ -6,7 +6,7 @@
 
 Use a pickaxe of the correct tier. Mining ore awards trade XP, and some ordinary rock can produce extra finds when your level is high enough. **Silk Touch** skips the trade XP and finds. Start with common ores, then use the tables to choose what to mine for a particular material.
 
-Give Kairoseki and Pure Iron Ore to the [Blacksmith](blacksmith.md) or save Kairoseki for [ship coating](../../voyage/shipbuilding.md#kairoseki-coating). Use the Masonry to refine ore and fragments and cut stone. Ask an [Inventor](inventor.md) for an **Enhanced Pick-axe**. Use caution around Explosive Rocks. Mining them and breaking Dials with a pickaxe can yield specialised fragments.
+Give Kairoseki and Pure Iron Ore to the [Blacksmith](blacksmith.md) or save Kairoseki for [ship coating](../../voyage/shipbuilding.md#kairoseki-coating). Use the Masonry to refine ore and fragments and cut stone. Ask an [Inventor](inventor.md) for an **Enhanced Pick-axe**. Use caution around Explosive Rocks. Mining them and breaking Dials with a pickaxe can yield specialized fragments.
 
 ## Combat techniques
 

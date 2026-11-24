@@ -41,7 +41,7 @@ An eligible crew adds **0.25** to the fruitless **cap multiplier**, taking it fr
 
 ## Individual move damage
 
-The pack applies the move’s listed adjustment to the incoming ability damage before the usual bonuses. Then the Doriki curve scales the move. These examples isolate the direct damage of the named hit. Armour, Haki, move phases, explosions and other effects can change what actually lands.
+The pack applies the move’s listed adjustment to the incoming ability damage before the usual bonuses. Then the Doriki curve scales the move. These examples isolate the direct damage of the named hit. Armor, Haki, move phases, explosions and other effects can change what actually lands.
 
 | Move | Base projectile hit | Pack adjustment | Through 10,000 Doriki | At 30,000 | At 50,000 |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -55,8 +55,21 @@ For other examples, **Anaconda Press** has a **2.70×** per-move factor, **Hurri
 
 NPCs receive **half of the increase above 1.00×** for a boosted move. For example, a **2.70×** player factor becomes **1.85×** for an NPC. Factors below 1.00× are applied in full. NPCs have their own [regional stats](../world/encounter-stats.md).
 
-## Defence, size and Logia
+## Haki techniques and body size
 
-- **Player defence.** The configured cap on combined protection in the post-armour layer is 80%. For a hit with 50 HP remaining after armour, the capped layer by itself can reduce it to 10 HP. Guards, dodges, invulnerability and special move rules can affect whether a hit reaches that layer.
-- **Size.** A larger body can multiply melee damage and the damage of size-sensitive moves. It can also give you more reach.
+Haki Realm attacks that follow body size gain reach across areas, lines, and targeted attacks. A **size-4** body reaches about **twice as far** under the shared size rule. Individual attacks can have their own reach calculations. Galaxy Impact’s blast and crater also grow. Pure Haki techniques, including 27 Conqueror’s, Observation, and guard moves, keep their usual reach.
+
+| Technique | Standard body | Size 4 |
+| --- | ---: | ---: |
+| Ryuo Spear | 14 blocks | 30 blocks |
+| Kingly Fist | 12 blocks | 30 blocks |
+| Punch of a King | 8 blocks | 16 blocks |
+| Black Fist Barrage | 4 blocks | 8 blocks |
+
+<a id="defence-size-and-logia"></a>
+
+## Defense, size and Logia
+
+- **Player defense.** The configured cap on combined protection in the post-armor layer is 80%. For a hit with 50 HP remaining after armor, the capped layer by itself can reduce it to 10 HP. Guards, dodges, invulnerability and special move rules can affect whether a hit reaches that layer.
+- **Size.** A larger body can multiply melee damage and the damage of size-sensitive moves. Eligible attacks follow a square-root damage curve up to **3×**.
 - **Logia.** Hostile Mine Mine no Mi mobs in **late Paradise, the New World, the Red Line, and the Nether** can bypass Logia intangibility on eligible attacks. The [Devil Fruits guide](devil-fruits.md) covers the broader fruit rules.

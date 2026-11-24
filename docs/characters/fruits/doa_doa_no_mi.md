@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -136,4 +138,4 @@ The user turns into a door, blocking physical attacks and swallowing incoming pr
 
 ![](../../assets/playable/awakenawakennomi/abilities/doa/backdoor.png){ .entry-move-icon loading=lazy } *Passive*
 
-Door Door aimed at an enemy opens the door behind them instead of through a wall. The user's next blow on them within a few seconds opens a door in their body, dealing damage that ignores armour.
+Door Door aimed at an enemy opens the door behind them instead of through a wall. The user's next blow on them within a few seconds opens a door in their body, dealing damage that ignores armor.

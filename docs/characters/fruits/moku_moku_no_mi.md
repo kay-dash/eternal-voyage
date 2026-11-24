@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -161,7 +163,7 @@ Allows the user to fly
 
 ![](../../assets/playable/mineminenomi/abilities/white_pull.png){ .entry-move-icon loading=lazy } *Active*
 
-Pulls all nearby entities surrounded by smoke towards the user.
+Pulls all nearby entities surrounded by smoke toward the user.
 
 <div class="entry-stats" markdown="1">
 
@@ -247,10 +249,10 @@ Fills the sky with white smoke that marks and blinds everyone caught inside Enem
 
 | Stat | Value |
 | --- | --- |
-| Zone cooldown | 45 s (900 ticks) |
+| Zone cooldown | 120 s (2400 ticks) |
 | Choke min damage | 6 HP |
-| Choke max damage | 20 HP |
-| Cooldown | 45 s (900 ticks) |
+| Choke max damage | 14 HP |
+| Cooldown | 120 s (2400 ticks) |
 
 </div>
 

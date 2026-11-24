@@ -80,7 +80,7 @@ Strong opponents feed the curse. Easy prey does not.
 
 ## Raging Curse
 
-Carry a cursed blade at level 2 or higher that recognises you as bearer.
+Carry a cursed blade at level 2 or higher that recognizes you as bearer.
 
 Actual curse level determines completion, not a quest kill counter. You may use any curse type.
 
@@ -98,7 +98,7 @@ Actual curse level determines completion, not a quest kill counter. You may use 
 
 ## Demonic Blade
 
-Carry a cursed blade at level 3 or higher that recognises you as bearer.
+Carry a cursed blade at level 3 or higher that recognizes you as bearer.
 
 Actual curse level determines completion, not a quest kill counter. You may use any curse type.
 
@@ -122,7 +122,7 @@ Origins: wield Sandai Kitetsu or Nidai Kitetsu (lore curse), or let the SAME swo
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Misfortune curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Misfortune curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -144,7 +144,7 @@ Origins: wield Enma (lore curse), or a failed Black Blade forging ritual has a 1
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Devouring curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Devouring curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -166,7 +166,7 @@ Origin: with the same sword, complete 3 massacres on different in-game days. Eac
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Bloodthirst curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Bloodthirst curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -188,7 +188,7 @@ Origin: use the same sword to avenge yourself against 3 different killers. Each 
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Vengeance curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Vengeance curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -210,7 +210,7 @@ Origin: kill 40 frozen creatures with the same sword. Strays and creatures froze
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Frostbite curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Frostbite curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -232,7 +232,7 @@ Origin: kill 1 Warden with the sword. The actual Madness curse, not merely a War
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Madness curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Madness curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -254,7 +254,7 @@ Origin: accumulate 50,000,000 Belly of blood money on the same sword by killing 
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Greed curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Greed curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -276,7 +276,7 @@ Origin: kill 20 Phantoms with the same sword.
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Nightmare curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Nightmare curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -298,7 +298,7 @@ Origin: in 3 thunderstorms on different in-game days, sneak and use the sword un
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Thunder curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Thunder curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -320,7 +320,7 @@ Origin: kill 30 creatures in the Nether using the sword while YOU are on fire.
 
 Use an eligible sword, build your strength, and follow the origin described above. A new curse cannot form while all available places are occupied.
 
-Carry a blade with the Hellfire curse. This quest recognises possession, not proof that you personally performed its origin. The blade is not consumed.
+Carry a blade with the Hellfire curse. This quest recognizes possession, not proof that you personally performed its origin. The blade is not consumed.
 
 **Prerequisites (all of)** — [Three Paths of Steel](special_weapons.md#q-1a15037751d1c7b9)
 
@@ -582,7 +582,7 @@ Use the actual infusion procedure when ready: drop the weapon and supported frui
 
 ## Steel Comes Alive
 
-Carry an actually infused weapon. Affinity alone is not an infusion. Its stored fruit must be recognised by Infusion.
+Carry an actually infused weapon. Affinity alone is not an infusion. Its stored fruit must be recognized by Infusion.
 
 Existing infused weapons also count. The quest never consumes your weapon.
 

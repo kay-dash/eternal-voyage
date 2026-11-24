@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -142,6 +144,7 @@ Punches the target so their cells grow out of control, dealing damage based on t
 | Stat | Value |
 | --- | --- |
 | Min damage | 40 HP |
+| Max damage | 100 HP |
 | Cooldown | 30 s (600 ticks) |
 
 </div>

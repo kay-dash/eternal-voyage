@@ -49,7 +49,7 @@ Transforms the user into a dachshund hybrid, a small dog man that bites and bark
 | --- | --- |
 | Movement speed | +10% of base |
 | Punch damage | +7 HP |
-| Armour | +6 |
+| Armor | +6 |
 
 </div>
 
@@ -78,7 +78,7 @@ Transforms the user into a dachshund, a long dog on short legs that fits through
 | --- | --- |
 | Movement speed | +50% of base |
 | Punch damage | +5 HP |
-| Armour | +3 |
+| Armor | +3 |
 
 </div>
 

@@ -31,7 +31,7 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 ![](../../assets/playable/inomissing/abilities/toge_stinger_finger.png){ .entry-move-icon loading=lazy } *Active*
 
-The user stretches their fingers into long spikes and slashes the enemies in front twice, against a wall the spikes dig a passage through it. Both hands turn into one big spike each and stab the enemy in front again and again. Spikes get stuck in wool, carpets and leather armour and the user can't move for a moment.
+The user stretches their fingers into long spikes and slashes the enemies in front twice, against a wall the spikes dig a passage through it. Both hands turn into one big spike each and stab the enemy in front again and again. Spikes get stuck in wool, carpets and leather armor and the user can't move for a moment.
 
 <div class="entry-stats" markdown="1">
 

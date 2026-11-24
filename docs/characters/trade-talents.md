@@ -2,7 +2,7 @@
 
 # Trade talents
 
-[Profession catalogue](professions/index.md)
+[Profession catalog](professions/index.md)
 
 Each trade has its own talent web. Start at an entry node and work through connected talents. Equip any unlocked combat techniques from the **Profession** tab of the ability screen.
 

@@ -40,6 +40,14 @@ Fish-Men breathe underwater and train Fishman Karate. Their standard body size s
 
 The user swims fast and breathes and sees under water
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Swim speed | +200% |
+
+</div>
+
 
 <!-- move mineminenomi:kachiage_haisoku -->
 
@@ -100,7 +108,7 @@ Spits water with enough force to push away any enemy in front of the user.
 
 ![](../../assets/playable/mineminenomi/abilities/mizu_shuryudan.png){ .entry-move-icon loading=lazy } *Active*
 
-Launches multiple bubbles in the direction the user is looking, these bubbles will linger around until an enemy comes close to them at which point they'll start targeting the enemy and move towards them.
+Launches multiple bubbles in the direction the user is looking, these bubbles will linger around until an enemy comes close to them at which point they'll start targeting the enemy and move toward them.
 
 <div class="entry-stats" markdown="1">
 
@@ -257,6 +265,7 @@ The user hits harder, and a bare-fisted blow now and then leaves a bleeding woun
 | Added melee damage | 3 HP |
 | Bleed chance on an eligible hit | 5% |
 | Bleed | 3 s (60 ticks) |
+| Bare-handed damage | +3 HP |
 
 </div>
 
@@ -278,7 +287,7 @@ The user is a master of Fishman Karate: sturdier than other fishmen, and their b
 | Stat | Value |
 | --- | --- |
 | Base damage | 2 HP |
-| Armour toughness | +1 |
+| Armor toughness | +1 |
 | Bare-handed damage | +2 HP |
 | Bare-handed attack speed | +25% of base |
 
@@ -347,7 +356,7 @@ The user is the biggest of the fishmen, sturdier and harder to bring down
 
 | Stat | Value |
 | --- | --- |
-| Armour toughness | +2 |
+| Armor toughness | +2 |
 | Maximum health from passive | +4 HP |
 
 </div>

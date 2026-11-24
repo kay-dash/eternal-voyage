@@ -200,7 +200,7 @@ The user forms a long golden blade on their arm and slashes all the enemies in f
 
 <!-- move inomissing:golden_armour -->
 
-## Golden Armour
+## Golden Armor
 
 ![](../../assets/playable/inomissing/abilities/golden_armour.png){ .entry-move-icon loading=lazy } *Active · Transformation*
 
@@ -221,8 +221,8 @@ The user covers their whole body with gold, becoming much tougher and harder to 
 
 | Stat | Value |
 | --- | --- |
-| Armour | +14 |
-| Armour toughness | +6 |
+| Armor | +14 |
+| Armor toughness | +6 |
 | Punch damage | +4 HP |
 
 </div>

@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -143,70 +147,6 @@ Allows other players to ride on your back.
 | --- | --- |
 | Doriki | 40,000 |
 | Active time with the fruit | About 24 hours (1,728,000 ticks) |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_bison_heavy_point -->
-
-### Awaken Bison Heavy Point { #awakening-awaken-bison-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ushi/bison/awaken_bison_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened bison hybrid, which focuses on strength and charging.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Maximum health | +15% |
-| Armour | +12 |
-| Punch damage | +12 HP |
-| Jump | +6 |
-| Toughness | +5 |
-| Step height | +1 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_bison_walk_point -->
-
-### Awaken Bison Walk Point { #awakening-awaken-bison-walk-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ushi/bison/awaken_bison_walk_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened bison, which focuses on speed
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +180% of base |
-| Armour | +24 |
-| Punch damage | +7.5 HP |
-| Jump | +1.2 |
-| Step height | +1 blocks |
-| Toughness | +4 |
 
 </div>
 

@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -87,7 +89,7 @@ The user launches a compressed sandstorm at the opponent, which sends them flyin
 
 ![](../../assets/playable/mineminenomi/abilities/grande_sables.png){ .entry-move-icon loading=lazy } *Active*
 
-Surrounds the user into a sand tornado, increasing their speed and pulling all nearby entities towards it damaging them. While in a desert the cooldown of this ability is reduced by %s.
+Surrounds the user into a sand tornado, increasing their speed and pulling all nearby entities toward it damaging them. While in a desert the cooldown of this ability is reduced by %s.
 
 Creates a local sandstorm for 15 seconds.
 
@@ -283,7 +285,7 @@ Dries out the ground for a huge area around the user, turning it into the user's
 | Stat | Value |
 | --- | --- |
 | Cooldown | 60 s (1200 ticks) |
-| Min cooldown | 22.5 s (450 ticks) |
+| Min cooldown | 45 s (900 ticks) |
 
 </div>
 

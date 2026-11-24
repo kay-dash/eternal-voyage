@@ -49,7 +49,7 @@ Transforms the user into a pachycephalosaurus hybrid, which is fast, jumps high 
 | --- | --- |
 | Movement speed | +17% of base |
 | Punch damage | +10 HP |
-| Armour | +15 |
+| Armor | +15 |
 | Toughness | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1.6 |
@@ -81,7 +81,7 @@ Transforms the user into a pachycephalosaurus, a big and strong dinosaur that ru
 | --- | --- |
 | Movement speed | +15% of base |
 | Punch damage | +13 HP |
-| Armour | +17 |
+| Armor | +17 |
 | Toughness | +4 |
 | Step height | +1 blocks |
 | Jump | +0.5 |

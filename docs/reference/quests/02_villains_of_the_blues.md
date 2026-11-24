@@ -193,13 +193,13 @@ Requires any 4 of: Axe-Hand Morgan, Kuro of a Hundred Plans, The Nyaban Brothers
 
 Gol D. Roger was born and executed in Loguetown. Luffy stood on the same platform and grinned at the sword.
 
-Land on a harbour town in your home Blue.
+Land on a harbor town in your home Blue.
 
 **Prerequisites (all of)** — [Strongest of Your Blue](02_villains_of_the_blues.md#q-497f71c2917c479e)
 
 **Tasks**
 
-- Land on a harbour town in your home Blue
+- Land on a harbor town in your home Blue
 
 **Rewards**
 

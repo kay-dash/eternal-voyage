@@ -49,7 +49,7 @@ Transforms the user into a cheetah hybrid, very fast and light with sharp claws.
 | --- | --- |
 | Movement speed | +60% of base |
 | Punch damage | +6 HP |
-| Armour | +6 |
+| Armor | +6 |
 | Jump | +1.2 |
 
 </div>
@@ -79,7 +79,7 @@ Transforms the user into a cheetah, the fastest runner of all with a keen nose.
 | --- | --- |
 | Movement speed | +150% of base |
 | Punch damage | +5 HP |
-| Armour | +3 |
+| Armor | +3 |
 | Step height | +1 blocks |
 | Jump | +1.5 |
 

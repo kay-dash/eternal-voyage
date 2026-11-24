@@ -44,7 +44,7 @@ Unlock Undertow.
 
 ## Mermaid Cove
 
-Ten thousand metres down, under a bubble the size of a country, the Ryugu Kingdom keeps a cove for its mermaids.
+Ten thousand meters down, under a bubble the size of a country, the Ryugu Kingdom keeps a cove for its mermaids.
 
 Reach Fish-Man Island.
 

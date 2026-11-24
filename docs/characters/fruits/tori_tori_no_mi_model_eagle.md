@@ -50,7 +50,7 @@ Transforms the user into an eagle hybrid, heavy and tough, which can fly and sti
 | Movement speed | +10% of base |
 | Maximum health | +30% |
 | Punch damage | +8 HP |
-| Armour | +7 |
+| Armor | +7 |
 | Step height | +0.5 blocks |
 | Jump | +1.3 |
 | Toughness | +3 |
@@ -83,7 +83,7 @@ Transforms the user into a great eagle, which flies and can carry off its prey i
 | Movement speed | +25% of base |
 | Maximum health | +20% |
 | Punch damage | +7 HP |
-| Armour | +4 |
+| Armor | +4 |
 | Step height | +1 blocks |
 | Jump | +1 |
 | Toughness | +2 |

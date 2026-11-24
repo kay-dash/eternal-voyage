@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -72,7 +74,7 @@ Using gravity, the user pulls one (or rarely two) meteorites down on their enemi
 
 ![](../../assets/playable/mineminenomi/abilities/moko.png){ .entry-move-icon loading=lazy } *Active*
 
-Sends a wave of gravitational waves towards the enemies, slowing them down.
+Sends a wave of gravitational waves toward the enemies, slowing them down.
 
 <div class="entry-stats" markdown="1">
 
@@ -128,7 +130,7 @@ Creates an area in which entities cannot move. Creates an area which pushed away
 
 ![](../../assets/playable/mineminenomi/abilities/gravi_pull.png){ .entry-move-icon loading=lazy } *Active*
 
-Pulls all enemies in a radius towards the user.
+Pulls all enemies in a radius toward the user.
 
 <div class="entry-stats" markdown="1">
 

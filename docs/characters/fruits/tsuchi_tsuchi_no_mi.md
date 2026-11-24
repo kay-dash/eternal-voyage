@@ -155,7 +155,7 @@ The user covers themselves in earth, becoming much harder to hurt but much slowe
 | --- | --- |
 | Movement speed | -20% of base |
 | Punch damage | +6 HP |
-| Armour | +7 |
+| Armor | +7 |
 | Toughness | +3 |
 | Maximum health | +30% |
 
@@ -168,7 +168,7 @@ The user covers themselves in earth, becoming much harder to hurt but much slowe
 
 ![](../../assets/playable/inofruits/abilities/ryusa.png){ .entry-move-icon loading=lazy } *Active*
 
-Turns the ground where the user looks into quicksand, enemies caught in it are slowed, damaged and dragged towards the middle. The quicksand is wider, lasts longer, grinds harder and swallows faster.
+Turns the ground where the user looks into quicksand, enemies caught in it are slowed, damaged and dragged toward the middle. The quicksand is wider, lasts longer, grinds harder and swallows faster.
 
 <div class="entry-stats" markdown="1">
 

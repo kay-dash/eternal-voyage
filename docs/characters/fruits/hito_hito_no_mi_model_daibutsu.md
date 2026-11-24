@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -76,39 +80,6 @@ Launches a golden shock wave forward when punching an enemy or the air, hurting 
 </div>
 
 
-<!-- move awakenawakennomi:awaken_daibutsu_point -->
-
-### Awaken Daibutsu Point { #awakening-awaken-daibutsu-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/hito/awaken_daibutsu_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened golden Buddha, which focuses on raw power.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +100% of base |
-| Punch damage | +25 HP |
-| Armour | +32 |
-| Armour toughness | +12 |
-| Maximum health | +40% |
-| Step height | +2 blocks |
-| Toughness | +8 |
-
-</div>
-
-
 <!-- move awakenawakennomi:nyorai_shinsho -->
 
 ### Nyorai Shinshō { #awakening-nyorai-shinsho }
@@ -134,7 +105,7 @@ Drops a giant Buddha palm from the sky onto the aimed spot, crushing everything 
 
 ![](../../assets/playable/awakenawakennomi/abilities/hito/sanctuary.png){ .entry-move-icon loading=lazy } *Active*
 
-Every hit aimed at an ally nearby hits the user instead. The hit stays the same kind so the user's armour still protects them. It breaks after the user took enough damage.
+Every hit aimed at an ally nearby hits the user instead. The hit stays the same kind so the user's armor still protects them. It breaks after the user took enough damage.
 
 <div class="entry-stats" markdown="1">
 

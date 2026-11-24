@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -167,72 +171,6 @@ Allows other players to ride on your back.
 </div>
 
 
-<!-- move awakenawakennomi:awaken_mammoth_heavy_point -->
-
-### Awaken Mammoth Heavy Point { #awakening-awaken-mammoth-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/zou/mammoth/awaken_mammoth_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened mammoth hybrid, which focuses on strength.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +40% of base |
-| Armour | +25 |
-| Punch damage | +18 HP |
-| Maximum health | +25% |
-| Toughness | +8 |
-| Jump | +2 |
-| Step height | +1 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_mammoth_guard_point -->
-
-### Awaken Mammoth Guard Point { #awakening-awaken-mammoth-guard-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/zou/mammoth/awaken_mammoth_guard_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened mammoth, which focuses on defense.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +20% of base |
-| Maximum health | +40% |
-| Armour | +40 |
-| Punch damage | +15 HP |
-| Step height | +1 blocks |
-| Toughness | +10 |
-| Jump | +1.5 |
-
-</div>
-
-
 <!-- move awakenawakennomi:drought_calamity -->
 
 ### Drought Calamity { #awakening-drought-calamity }
@@ -257,7 +195,7 @@ Stomps the ground so hard all the water in the area dries up, leaving a wastelan
 
 ![](../../assets/playable/awakenawakennomi/abilities/zou/mammoth/drought_siphon.png){ .entry-move-icon loading=lazy } *Active*
 
-The mammoth raises its trunk and sucks the water out of every enemy around it, healing as much as they lose. Enemies that are wet from water or rain lose twice as much and are left dried out and slowed.
+The mammoth raises its trunk and sucks the water out of every enemy around it, healing from up to three of them. Enemies that are wet from water or rain lose twice as much and are left dried out and slowed.
 
 <div class="entry-stats" markdown="1">
 
@@ -267,6 +205,7 @@ The mammoth raises its trunk and sucks the water out of every enemy around it, h
 | Max cooldown | 45 s (900 ticks) |
 | Min cooldown | 15 s (300 ticks) |
 | Cooldown | 45 s (900 ticks) |
+| Enemies that provide healing | First 3 hit |
 
 </div>
 

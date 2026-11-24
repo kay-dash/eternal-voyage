@@ -146,7 +146,7 @@ The user pours a wide stream of molten metal where they are looking. Enemies in 
 
 ![](../../assets/playable/inomissing/abilities/metal_casing.png){ .entry-move-icon loading=lazy } *Active*
 
-The user pours molten metal over the enemy they are looking at. It burns them and sets around them, and they can't move or attack. The casing lasts less on players and bosses, and breaks if it takes enough damage. The metal armour of the enemy the user is looking at heats up. Each piece of iron, chain, gold or netherite burns them every second, and the steam blinds them for a moment.
+The user pours molten metal over the enemy they are looking at. It burns them and sets around them, and they can't move or attack. The casing lasts less on players and bosses, and breaks if it takes enough damage. The metal armor of the enemy the user is looking at heats up. Each piece of iron, chain, gold or netherite burns them every second, and the steam blinds them for a moment.
 
 <div class="entry-stats" markdown="1">
 
@@ -182,8 +182,8 @@ The user covers their whole body with the metal of their furnace. They become mu
 
 | Stat | Value |
 | --- | --- |
-| Armour | +12 |
-| Armour toughness | +4 |
+| Armor | +12 |
+| Armor toughness | +4 |
 | Punch damage | +3 HP |
 
 </div>
@@ -213,7 +213,7 @@ With at least 32 ingots in the furnace, the user's body swells. They are bigger,
 | Stat | Value |
 | --- | --- |
 | Maximum health | +50% |
-| Armour | +6 |
+| Armor | +6 |
 | Punch damage | +6 HP |
 
 </div>

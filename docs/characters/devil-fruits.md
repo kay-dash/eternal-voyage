@@ -6,7 +6,7 @@ Look for [fruit boxes](fruit-boxes.md) in [regional treasure](../world/loot.md#t
 
 **Uneaten fruits rot after seven real days**, including time when the server is offline. Chests and handoffs keep the original timer. You get warnings with **24 hours**, **1 hour**, and **5 minutes** left while carrying it. A rotten fruit returns to the pool, so decide promptly whether to eat it, trade it, or pass it to a crewmate. Holding the fruit in your other hand when you use **Juno’s Blessing** adds 24 hours, up to seven days remaining. The timer excludes eaten fruits, SMILEs, and fruits already bound to Infusion weapons.
 
-Browse the [Devil Fruit catalogue](fruits/index.md) by fruit type. Each fruit’s page shows its moves, stats, and awakening moveset where available.
+Browse the [Devil Fruit catalog](fruits/index.md) by fruit type. Each fruit’s page shows its moves, stats, and awakening moveset where available.
 
 ## Fruit mastery
 
@@ -16,7 +16,22 @@ Mastery gates later moves, with fruit-specific starter pairs in the [core settin
 
 ## Awakening
 
-For fruits that can awaken, reach **40,000 Doriki** plus **1,728,000 online ticks** with that fruit, roughly 24 hours at 20 ticks per second. Time stops counting after 6,000 ticks without moving, roughly five minutes. Watch for chat progress at 50%, 75%, and 90%. Open your fruit’s page in the [catalogue](fruits/index.md) to see its awakening and move stats.
+For fruits that can awaken, reach **40,000 Doriki** plus **1,728,000 online ticks** with that fruit, roughly 24 hours at 20 ticks per second. Time stops counting after 6,000 ticks without moving, roughly five minutes. Watch for chat progress at 50%, 75%, and 90%. Open your fruit’s page in the [catalog](fruits/index.md) to see its awakening and move stats.
+
+### What changes after awakening
+
+Once your fruit awakens, **its original Devil Fruit attacks deal 1.5× damage**, including hits, projectiles, and explosions. This stacks with the move’s pack modifier, Doriki, and applicable body-size scaling. For example, a 12 HP damage line shows a 6 HP awakening bonus where the tooltip supports it. The awakening’s dedicated moves already use their listed damage. Gear Fifth’s Dawn moves also have their own values. Haki, racial abilities, Rokushiki, fighting styles, and moves from other fruits keep their usual damage.
+
+| Zoan form stat | Once your fruit awakens |
+| --- | --- |
+| Strength, armor, armor toughness, and maximum health from the form | Positive form bonuses are **1.5×** their ordinary amounts. |
+| Minimum armor and toughness bonuses | **+4 armor** and **+2 toughness**. |
+| Regeneration | **+0.5** from the awakened form. |
+| Weaknesses from the form | The penalty is halved. |
+
+Use the **same Point form** on your hotbar. It gains awakening smoke and its stronger stats. Existing form-specific moves still work, and an awakened technique checks the normal form when it requires that form. The automatic form upgrade applies to player Zoans. SMILE forms and NPC forms retain their ordinary stats.
+
+Awakened Kame Guard keeps its stronger crouched shell and faster ice slide. Awakened Phoenix and Pteranodon keep faster flight. The awakened human form of Hito Hito no Mi, Gear Fifth, Gigant, and Deka remain separate forms. For Missing Missing no Mi fruits, the current build may show ordinary values in tooltips where the awakening bonus applies.
 
 ## Fruit lives
 

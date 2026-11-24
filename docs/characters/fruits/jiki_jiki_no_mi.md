@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -164,7 +166,7 @@ Displays the total value of maginetic items in the user's inventory
 
 ![](../../assets/playable/mineminenomi/abilities/genocide_raid.png){ .entry-move-icon loading=lazy } *Active*
 
-Uses %s magnetic items and sends them towards the target, spiriling around it and dealing damage over time.
+Uses %s magnetic items and sends them toward the target, spiriling around it and dealing damage over time.
 
 <div class="entry-stats" markdown="1">
 

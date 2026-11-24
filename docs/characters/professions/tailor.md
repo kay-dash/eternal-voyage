@@ -8,15 +8,15 @@ Use the Sewing Table to make clothing, uniforms, masks, crew flags, and boat sai
 
 ## Outfit the crew
 
-Flags start at level 1 for [island claims](../../world/conflict.md#claim-an-island). The Boat Sail, Fine Sail and Master’s Sail unlock at **12, 28 and 44**. Fit one to a [Carpenter’s boat](carpenter.md) at the Upgrade Bench.
+Flags start at level 1. [Island halls](../../world/conflict.md#read-the-hall-flag) raise the holder’s large flag automatically. The Boat Sail, Fine Sail and Master’s Sail unlock at **12, 28 and 44**. Fit one to a [Carpenter’s boat](carpenter.md) at the Upgrade Bench.
 
-Eternal Voyage adds **Fur Lining** and **Linen Lining** at level **10**, and **All-Weather Lining** at **50**. First make the lining at the Sewing Table, then combine it with the armour piece. Two suitable lined pieces give a step of protection. See the [armour lining guide](../../world/weather.md#armour-linings).
+Eternal Voyage adds **Fur Lining** and **Linen Lining** at level **10**, and **All-Weather Lining** at **50**. First make the lining at the Sewing Table, then combine it with the armor piece. Two suitable lined pieces give a step of protection. See the [armor lining guide](../../world/weather.md#armor-linings).
 
 ## Combat techniques
 
 | Technique | Effect | Cooldown | Base damage |
 | --- | --- | ---: | ---: |
-| Patch Up | Repairs 30% of the wear on each piece of armour you are wearing. | 20 s | — |
+| Patch Up | Repairs 30% of the wear on each piece of armor you are wearing. | 20 s | — |
 | Thread Bind | Holds a target within 10 blocks for up to 3 seconds. | 12 s | 30 HP |
 | Needle Rain | Hits enemies up to 6 blocks in front of you. | 9 s | 25 HP |
 
@@ -189,7 +189,7 @@ Spend your talent points in the profession book. Techniques open in the **Profes
 | Needle Rain | Ability | A fan of needles that hits the foes in front of you | Fighting Tailor 4 |
 | Wide cloth 3 | Small | 3% more chance that a working of your own materials gives twice as many | Saved scraps 1, Fighting Tailor 5 |
 | Fighting Tailor 5 | Small | Your Tailor abilities hit 5% harder | Wide cloth 3, Patch Up |
-| Patch Up | Ability | Each piece of armour you wear gets 30% of its wear back | Fighting Tailor 5 |
+| Patch Up | Ability | Each piece of armor you wear gets 30% of its wear back | Fighting Tailor 5 |
 
 
 ## Quest chapter

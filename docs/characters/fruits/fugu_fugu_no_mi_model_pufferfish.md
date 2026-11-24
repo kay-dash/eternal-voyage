@@ -49,7 +49,7 @@ Transforms the user into a pufferfish, which focuses on defense, good underwater
 | --- | --- |
 | Movement speed | -30% of base |
 | Step height | +0.3 blocks |
-| Armour | +3 |
+| Armor | +3 |
 | Toughness | +1 |
 | Punch damage | +2 HP |
 
@@ -79,7 +79,7 @@ Covers the user's chest, arms and legs in spiky pufferfish skin
 | Stat | Value |
 | --- | --- |
 | Movement speed | -35% of base |
-| Armour | +6 |
+| Armor | +6 |
 | Toughness | +2 |
 | Punch damage | +4 HP |
 

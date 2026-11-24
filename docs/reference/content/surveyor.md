@@ -10,7 +10,7 @@
 
 Discovery and map sharing for crews.
 
-Installed build `1.1.2+1.20`. [Browse all mods](index.md).
+Installed build `1.2.4+1.20`. [Browse all mods](index.md).
 
 ## Pack guides
 

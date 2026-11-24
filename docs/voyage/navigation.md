@@ -13,6 +13,20 @@ Your **Antique Atlas** automatically shares maps with your crewmates. Use `/surv
 
 **Cruise’s Log Pose** is the Navigator’s tool for finding an island of a chosen kind. Crouch-use it to take a fresh bearing from where you stand. A Navigator can calibrate an **Eternal Pose** to the island they are on for a permanent bearing. Use the One Piece World Log Pose to check island mission and discovery credit.
 
+## Dead Reckoning
+
+Hold a **Compass** or **Recovery Compass** to show the compass strip under the default visibility setting. It shows your heading and nearby Atlas markers, so you can turn toward a landmark without keeping the map open. Press **C** by default, or use **Toggle Compass Visibility** in Controls if you use a different binding.
+
+See [Dead Reckoning’s compass guide](https://modrinth.com/mod/dead-reckoning/version/1.6.3%2B1.20.1).
+
+Use the One Piece World Log Pose to set story destinations and follow their island routes. Use the Atlas and compass strip for bearings to your own marks and for navigating back to shore.
+
+## Calling your crew
+
+Use a **Transponder Snail** for voice calls through Simple Voice Chat. Find a Den Den Mushi, craft it into a Transponder Snail, and use the snail’s dialing screen to call a crewmate. A **Visual Transponder Snail** supports video calls. If audio does not come through, check that you are connected to the server’s voice chat.
+
+[Transponder Snails guide](https://modrinth.com/mod/transponder-snails) · [Items and recipes](../reference/content/transpondersnails.md).
+
 ## Crossing between seas
 
 | If you are going… | Head for |
@@ -24,7 +38,7 @@ Your **Antique Atlas** automatically shares maps with your crewmates. Use `/surv
 
 ## Returning to your ship
 
-See [logging out on a moving ship](shipbuilding.md#logging-out-on-a-moving-ship) for stand-ins and emergency Drift Planks, or [bottling a ship](shipbuilding.md#bottle-your-ship) to carry it to another harbour.
+See [logging out on a moving ship](shipbuilding.md#logging-out-on-a-moving-ship) for stand-ins and emergency Drift Planks, or [bottling a ship](shipbuilding.md#bottle-your-ship) to carry it to another harbor.
 
 ## Fast travel
 

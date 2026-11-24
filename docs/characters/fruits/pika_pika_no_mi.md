@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -33,7 +35,7 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 ![](../../assets/playable/mineminenomi/abilities/yata_no_kagami.png){ .entry-move-icon loading=lazy } *Active*
 
-The user forms light between his hands, and reflects it off any surface he wishes, instantly teleporting it towards where the light hit.
+The user forms light between his hands, and reflects it off any surface he wishes, instantly teleporting it toward where the light hit.
 
 <div class="entry-stats" markdown="1">
 
@@ -205,8 +207,8 @@ Creates a dome where it is always bright daylight, even at night or deep undergr
 
 | Stat | Value |
 | --- | --- |
-| Zone cooldown | 45 s (900 ticks) |
-| Cooldown | 45 s (900 ticks) |
+| Zone cooldown | 90 s (1800 ticks) |
+| Cooldown | 90 s (1800 ticks) |
 
 </div>
 

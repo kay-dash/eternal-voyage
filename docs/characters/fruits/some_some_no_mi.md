@@ -85,7 +85,7 @@ The user takes on the colors of what's behind them, only works while standing st
 
 ![](../../assets/playable/inofruits/abilities/ikusa_gesho.png){ .entry-move-icon loading=lazy } *Active*
 
-Paints the user for battle, giving a different bonus for each of the 16 colors. White gives +2 toughness Orange makes the user immune to fire Magenta gives +0.3 knockback resistance Light Blue gives +30% jump height Yellow gives +4 armour Lime stops the user from getting hungry Pink gives +4 max health Gray gives +8 fall resistance Light Gray gives haste Cyan gives +20% attack speed Purple gives +2 luck Blue gives +15% movement speed Brown gives +0.3 friction Green doubles the natural regeneration Red gives +2 punch damage Black gives night vision
+Paints the user for battle, giving a different bonus for each of the 16 colors. White gives +2 toughness Orange makes the user immune to fire Magenta gives +0.3 knockback resistance Light Blue gives +30% jump height Yellow gives +4 armor Lime stops the user from getting hungry Pink gives +4 max health Gray gives +8 fall resistance Light Gray gives haste Cyan gives +20% attack speed Purple gives +2 luck Blue gives +15% movement speed Brown gives +0.3 friction Green doubles the natural regeneration Red gives +2 punch damage Black gives night vision
 
 <div class="entry-stats" markdown="1">
 

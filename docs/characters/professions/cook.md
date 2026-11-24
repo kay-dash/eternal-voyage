@@ -4,7 +4,7 @@
 
 [All professions](index.md)
 
-Use the Kitchen to turn ingredients from the [Fisher](fisher.md), [Hunter](hunter.md), and [Farmer](farmer.md) into food. Place the required ingredients in the Kitchen and collect the output to earn Cook XP. Make Flour from two wheat at a crafting table. At Cook 1, use Flour and the [Inventor’s](inventor.md) Crystallised Salt for Hardtack Rations.
+Use the Kitchen to turn ingredients from the [Fisher](fisher.md), [Hunter](hunter.md), and [Farmer](farmer.md) into food. Place the required ingredients in the Kitchen and collect the output to earn Cook XP. Make Flour from two wheat at a crafting table. At Cook 1, use Flour and the [Inventor’s](inventor.md) Crystallized Salt for Hardtack Rations.
 
 ## Cook for the job ahead
 
@@ -12,7 +12,7 @@ Check the dish tooltip before leaving port. **Appetite** increases XP in the tra
 
 **Quality** depends on the relative sizes of fish and the quality of produce. A score of **50%** makes a Fine dish and **80%** makes a Superb one. Normal, Fine and Superb produce contribute **25%, 65% and 90%** respectively. Big fish can carry the quality even when the rest of the ingredients are ordinary. Use the larger catches and better produce for meals the crew wants to save.
 
-Sell meals to the Travelling Cook and bring your best food to village cooking contests.
+Sell meals to the Traveling Cook and bring your best food to village cooking contests.
 
 ## Meal effects
 
@@ -75,8 +75,8 @@ Craft the workstation at a crafting table.
 
 | Makes | Level | Yield | XP | Ingredients |
 | --- | --- | --- | --- | --- |
-| Broiled Killifish | 1 | 1 | 12 | Forked-Tail Killifish, Bamboo or Stick, Crystallised Salt |
-| Hardtack Ration | 1 | 1 | 12 | 2 × Flour, Crystallised Salt |
+| Broiled Killifish | 1 | 1 | 12 | Forked-Tail Killifish, Bamboo or Stick, Crystallized Salt |
+| Hardtack Ration | 1 | 1 | 12 | 2 × Flour, Crystallized Salt |
 | Angel Omelette | 3 | 1 | 16 | 2 × Mystery Egg, 2 × Red Fruit |
 | Rice Cracker | 6 | 1 | 22 | 2 × Ancient Rice, Brown Fruit |
 | Wild Grass Pasta | 8 | 1 | 26 | 2 × Any Small Flowers, 3 × Bitter Grass |
@@ -101,7 +101,7 @@ Craft the workstation at a crafting table.
 | Delicacy Assortment | 45 | 1 | 100 | 3 × Sea King Scale, Great Terigius, Rock Lizard, 3 × Cactus Flower |
 | Sky Island Lunch | 46 | 1 | 102 | Giant Sky Fish, 2 × Sky Fish, 2 × Golden Fruit, 2 × Ancient Rice |
 | Meat-Lover's Delight | 47 | 1 | 104 | 2 × Sea King Fin, Seagull, 3 × Horrific Pear, 2 × Golden Egg |
-| Dinosaur Steak | 48 | 1 | 106 | 2 × Great Terigius, 2 × Crystallised Salt |
+| Dinosaur Steak | 48 | 1 | 106 | 2 × Great Terigius, 2 × Crystallized Salt |
 | Roasted Meat Festival | 49 | 1 | 108 | 2 × Sea King Head Crest, Red-Eyed Spotted Frog, Beat Alligator, 3 × Golden Matsutake |
 | Pirate's Lunch | 50 | 1 | 110 | Beat Alligator, 2 × Rock Lizard, 2 × Tempest Mouse, Ancient Rice |
 

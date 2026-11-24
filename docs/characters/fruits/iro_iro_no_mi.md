@@ -31,7 +31,7 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 ![](../../assets/playable/inomissing/abilities/camouflapaint.png){ .entry-move-icon loading=lazy } *Active*
 
-The user sprays themselves and their allies around with paint the colours of what is behind them, so nobody sees them for a while. Their crew, the creatures that serve them and their own beasts are painted, an ally player only if they sneak. Hitting or being hit washes the paint off. Observation Haki sees through it. Use it again to wash all the paint off, the cooldown is only for the time spent
+The user sprays themselves and their allies around with paint the colors of what is behind them, so nobody sees them for a while. Their crew, the creatures that serve them and their own beasts are painted, an ally player only if they sneak. Hitting or being hit washes the paint off. Observation Haki sees through it. Use it again to wash all the paint off, the cooldown is only for the time spent
 
 <div class="entry-stats" markdown="1">
 
@@ -85,7 +85,7 @@ The user paints a crude double of themselves that stands still. Monsters around 
 
 ![](../../assets/playable/inomissing/abilities/hade_iro.png){ .entry-move-icon loading=lazy } *Active*
 
-The user sprays a bright colour on the one they look at. For a while it glows through walls for the user and their allies, and it cannot hide or turn unseen The user paints the creature they look at in the colours of another side. The creatures around attack it for a while. Not on players nor bosses
+The user sprays a bright color on the one they look at. For a while it glows through walls for the user and their allies, and it cannot hide or turn unseen The user paints the creature they look at in the colors of another side. The creatures around attack it for a while. Not on players nor bosses
 
 <div class="entry-stats" markdown="1">
 

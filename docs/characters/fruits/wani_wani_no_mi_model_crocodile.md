@@ -49,7 +49,7 @@ Transforms the user into a crocodile, which is slow and armored on land but twic
 | --- | --- |
 | Movement speed | +10% of base |
 | Punch damage | +10 HP |
-| Armour | +9 |
+| Armor | +9 |
 | Toughness | +2.5 |
 
 </div>
@@ -79,7 +79,7 @@ Transforms the user into a crocodile hybrid with plates and long jaws, still goo
 | --- | --- |
 | Movement speed | +15% of base |
 | Punch damage | +7 HP |
-| Armour | +7 |
+| Armor | +7 |
 | Step height | +0.5 blocks |
 | Toughness | +2 |
 

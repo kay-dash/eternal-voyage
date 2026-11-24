@@ -83,11 +83,11 @@ A wall of hard biscuit rises in front of the user and stops enemies and projecti
 
 <!-- move inomissing:bisu_armour -->
 
-## Biscuit Armour
+## Biscuit Armor
 
 ![](../../assets/playable/inomissing/abilities/bisu_armour.png){ .entry-move-icon loading=lazy } *Active*
 
-The user wears a giant biscuit soldier that takes the damage for them. When the armour breaks the user comes out unharmed. Using it again adds a pair of arms with swords, up to 6 arms, and each pair makes the user hit harder. Using it with 6 arms leaves the armour. In water or rain the armour gets soft and breaks twice as fast.
+The user wears a giant biscuit soldier that takes the damage for them. When the armor breaks the user comes out unharmed. Using it again adds a pair of arms with swords, up to 6 arms, and each pair makes the user hit harder. Using it with 6 arms leaves the armor. In water or rain the armor gets soft and breaks twice as fast.
 
 <div class="entry-stats" markdown="1">
 
@@ -106,7 +106,7 @@ The user wears a giant biscuit soldier that takes the damage for them. When the 
 | Stat | Value |
 | --- | --- |
 | Punch damage | +6 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Step height | +1 blocks |
 
 </div>
@@ -118,7 +118,7 @@ The user wears a giant biscuit soldier that takes the damage for them. When the 
 
 ![](../../assets/playable/inomissing/abilities/bisu_pretzel.png){ .entry-move-icon loading=lazy } *Active*
 
-Inside the biscuit armour the user dashes forward with two spinning swords, hitting every enemy on the way and throwing them aside.
+Inside the biscuit armor the user dashes forward with two spinning swords, hitting every enemy on the way and throwing them aside.
 
 <div class="entry-stats" markdown="1">
 

@@ -49,7 +49,7 @@ Transforms the user into a unicorn, which focuses on speed and can carry allies.
 | --- | --- |
 | Movement speed | +70% of base |
 | Maximum health | +25% |
-| Armour | +4 |
+| Armor | +4 |
 | Jump | +1.5 |
 | Step height | +1 blocks |
 | Toughness | +2 |
@@ -82,7 +82,7 @@ Transforms the user into a unicorn hybrid, which focuses on strength and the hor
 | Movement speed | +15% of base |
 | Maximum health | +50% |
 | Punch damage | +10 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Step height | +0.5 blocks |
 | Toughness | +4 |
 

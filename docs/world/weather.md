@@ -43,15 +43,17 @@ The [Art of Weather moveset](../characters/styles/art_of_weather.md) has the bal
 
 ## Island climate and body temperature
 
-Pack for the island you’re approaching. Jungle islands can have local showers and volcanic islands can have ash. The open sea is generally neutral and the Calm Belt is warm. Desert and volcanic islands tend to be hot, while winter islands are cold or icy. Snow, wet clothes, elevation, and nearby fire can change how quickly your temperature moves. Watch the temperature indicator and find shelter or equip lined armour before extremes start to hurt.
+Pack for the island you’re approaching. Jungle islands can have local showers and volcanic islands can have ash. The open sea is generally neutral and the Calm Belt is warm. Desert and volcanic islands tend to be hot, while winter islands are cold or icy. Snow, wet clothes, elevation, and nearby fire can change how quickly your temperature moves. Watch the temperature indicator and find shelter or equip lined armor before extremes start to hurt.
 
 ### Fruits, races and traits
 
 The companion recognizes **Mera Mera, Magu Magu, Netsu Netsu, Gutsu Gutsu, and Atsu Atsu** as heat fruits, and **Hie Hie and Yuki Yuki** as cold fruits. Its configured aura range is **16 blocks**. Lunarians and the configured Lunarian lineage are protected against the hot extreme. Polar Bear Mink race or lineage, the listed wool and snow lineages, and Warm Blood protect against the icy extreme. **Chilly** makes cold harsher and **Dry Skin** makes heat harsher.
 
-### Armour linings
+<a id="armour-linings"></a>
 
-Use a Tailoring recipe to make the lining, then craft it with the armour piece. Two suitable lined pieces give a step of temperature protection.
+### Armor linings
+
+Use a Tailoring recipe to make the lining, then craft it with the armor piece. Two suitable lined pieces give a step of temperature protection.
 
 | Lining | Tailor level | Materials | Protection |
 | --- | ---: | --- | --- |

@@ -56,9 +56,13 @@ Browse the mods in Eternal Voyage. Each page has its in-game content and links t
 
 [![](../../assets/mods/vs_eureka.png){ loading=lazy } **Eureka! Ships!** <span>Build and steer block-built ships with Valkyrien Skies.</span>](../../reference/content/vs_eureka.md)
 
+[![](../../assets/mods/smallships.png){ loading=lazy } **Small Ships** <span>Launch crafted sailing ships with cargo, sails, and ship cannons.</span>](../../reference/content/smallships.md)
+
+[![](../../assets/mods/mmnm_small_ships.png){ loading=lazy } **Mine Mine no Mi Small Ships** <span>Crew ownership and Jolly Roger sails for Small Ships.</span>](../../reference/content/mmnm_small_ships.md)
+
 [![](../../assets/mods/ship_in_a_bottle.png){ loading=lazy } **Ship In A Bottle** <span>Pack an assembled ship for transport and launch it again at open water.</span>](../../reference/content/ship_in_a_bottle.md)
 
-[![](../../assets/mods/srs.png){ loading=lazy } **Ship Retrieval Service** <span>Name your ship and use equipped harbours to call it to a dock.</span>](../../reference/content/srs.md)
+[![](../../assets/mods/srs.png){ loading=lazy } **Ship Retrieval Service** <span>Name your ship and use equipped harbors to call it to a dock.</span>](../../reference/content/srs.md)
 
 [![](../../assets/mods/valkib.png){ loading=lazy } **Valkyrien Icebreakers** <span>Fit an Ice Breaker to the bow for travel through surface ice.</span>](../../reference/content/valkib.md)
 
@@ -80,7 +84,7 @@ Browse the mods in Eternal Voyage. Each page has its in-game content and links t
 
 [![](../../assets/mods/weather2.png){ loading=lazy } **Weather2** <span>Local storms, wind, hail, cyclones and forecasts that vary across the seas.</span>](../../reference/content/weather2.md)
 
-[![](../../assets/mods/toughasnails.png){ loading=lazy } **Tough As Nails** <span>Body temperature, climate hazards and armour materials for hot and cold voyages.</span>](../../reference/content/toughasnails.md)
+[![](../../assets/mods/toughasnails.png){ loading=lazy } **Tough As Nails** <span>Body temperature, climate hazards and armor materials for hot and cold voyages.</span>](../../reference/content/toughasnails.md)
 
 [![](../../assets/mods/corpse.png){ loading=lazy } **Corpse** <span>Death storage and recovery of dropped equipment.</span>](../../reference/content/corpse.md)
 
@@ -91,6 +95,8 @@ Browse the mods in Eternal Voyage. Each page has its in-game content and links t
 [![](../../assets/mods/antique_atlas.png){ loading=lazy } **Antique Atlas** <span>Map landfalls, terrain, routes and waypoints while you explore.</span>](../../reference/content/antique_atlas.md)
 
 [![](../../assets/mods/aa4_atlas.png){ loading=lazy } **AA4 Atlas** <span>Atlas display support for voyagers using Antique Atlas.</span>](../../reference/content/aa4_atlas.md)
+
+[![](../../assets/mods/dead_reckoning.png){ loading=lazy } **Dead Reckoning** <span>Show compass bearings and Atlas markers while you sail.</span>](../../reference/content/dead_reckoning.md)
 
 [![](../../assets/mods/surveyor.png){ loading=lazy } **Surveyor Map Framework** <span>Discovery and map sharing for crews.</span>](../../reference/content/surveyor.md)
 

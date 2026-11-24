@@ -196,7 +196,7 @@ Creates a tornado where the user is looking, which moves wherever they look next
 
 ![](../../assets/playable/inofruits/abilities/kyuin.png){ .entry-move-icon loading=lazy } *Active*
 
-The user reverses the air in front of them, dragging every enemy in a wide cone towards the user for a moment.
+The user reverses the air in front of them, dragging every enemy in a wide cone toward the user for a moment.
 
 <div class="entry-stats" markdown="1">
 

@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -159,67 +163,6 @@ Shoots out a barrage of elliptic air projectiles using the user's wings.
 | --- | --- |
 | Doriki | 40,000 |
 | Active time with the fruit | About 24 hours (1,728,000 ticks) |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_pteranodon_assault_point -->
-
-### Awaken Pteranodon Assault Point { #awakening-awaken-pteranodon-assault-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ryu/pteranodon/awaken_pteranodon_assault_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened pteranodon hybrid, which focuses on attacking.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +100% of base |
-| Punch damage | +14 HP |
-| Armour | +16 |
-| Toughness | +4 |
-| Step height | +1 blocks |
-| Jump | +2 |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_pteranodon_fly_point -->
-
-### Awaken Pteranodon Fly Point { #awakening-awaken-pteranodon-fly-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ryu/pteranodon/awaken_pteranodon_fly_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened pteranodon, which focuses on flying.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Armour | +4 |
-| Punch damage | +30 HP |
-| Toughness | +4 |
 
 </div>
 

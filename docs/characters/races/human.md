@@ -182,6 +182,14 @@ Hardens the user's body to protect themselves, but they're unable to move   HEAV
 
 The user has no body bonus as the other races have, but grows faster: more Doriki and more Haki experience from all they do
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Doriki and Haki gained | +25% |
+
+</div>
+
 ### Hidden Modified Human { #human-hidden-modified }
 
 ![](../../assets/mods/racenomi.png){ .entry-move-icon }
@@ -192,7 +200,7 @@ Play twenty hours as a Hidden Modified Human and reach 5,000 Doriki to wake the 
 
 ![](../../assets/playable/racenomi/gui/icons/modified_human.png){ .entry-move-icon }
 
-Equip a Raid Suit with the Germa 66 Ration Box. Sneak and use it to pick the suit colour. Suit-specific moves require the corresponding suit.
+Equip a Raid Suit with the Germa 66 Ration Box. Sneak and use it to pick the suit color. Suit-specific moves require the corresponding suit.
 
 
 <!-- move racenomi:modified_body -->
@@ -203,6 +211,17 @@ Equip a Raid Suit with the Germa 66 Ration Box. Sneak and use it to pick the sui
 
 The body of the user was changed before birth, a skin hard as a shell against bullets and blades, wounds that close fast and more strength and speed than a man With no emotions nothing plays on their mind, love and gloom do not take and the Haki of kings knocks them out half as long
 
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Projectile and cutting damage taken | -25% |
+| Health healed each 2 seconds | +1 HP |
+| Bare-handed damage | +2 HP |
+| Speed | +10% |
+
+</div>
+
 
 <!-- move racenomi:black_bug -->
 
@@ -210,7 +229,7 @@ The body of the user was changed before birth, a skin hard as a shell against bu
 
 ![](../../assets/playable/racenomi/abilities/black_bug.png){ .entry-move-icon loading=lazy } *Active*
 
-In the red, blue or green suit the user gathers then rushes ahead through every enemy on the way, each is hit harder for each other colour of suit that just struck it
+In the red, blue or green suit the user gathers then rushes ahead through every enemy on the way, each is hit harder for each other color of suit that just struck it
 
 <div class="entry-stats" markdown="1">
 
@@ -218,6 +237,7 @@ In the red, blue or green suit the user gathers then rushes ahead through every 
 | --- | --- |
 | Base damage | 18 HP |
 | Cooldown | 15 s (300 ticks) |
+| Damage for each other color that struck it | +50% |
 
 </div>
 
@@ -245,7 +265,7 @@ The cape of the suit spreads into a shield in front of the user, for a moment it
 
 ![](../../assets/playable/racenomi/abilities/dengeki_kick.png){ .entry-move-icon loading=lazy } *Active*
 
-In the Dengeki Blue suit the user leaps on the enemy they look at as fast as lightning and kicks it, the kick throws it far and paralyses it a moment
+In the Dengeki Blue suit the user leaps on the enemy they look at as fast as lightning and kicks it, the kick throws it far and paralyzes it a moment
 
 <div class="entry-stats" markdown="1">
 
@@ -299,7 +319,7 @@ In the Dengeki Blue suit the user runs ahead in a zigzag like a lightning bolt a
 
 ![](../../assets/playable/racenomi/abilities/henry_cracker.png){ .entry-move-icon loading=lazy } *Active*
 
-In the Dengeki Blue suit the user flies up and darts from side to side in a storm of electricity that strikes and paralyses every enemy around
+In the Dengeki Blue suit the user flies up and darts from side to side in a storm of electricity that strikes and paralyzes every enemy around
 
 <div class="entry-stats" markdown="1">
 
@@ -317,7 +337,7 @@ In the Dengeki Blue suit the user flies up and darts from side to side in a stor
 
 ![](../../assets/playable/racenomi/abilities/henry_needle.png){ .entry-move-icon loading=lazy } *Active*
 
-In the Dengeki Blue suit the user throws a needle of electricity from the hand, it flies fast and far, hits hard and paralyses the target a while
+In the Dengeki Blue suit the user throws a needle of electricity from the hand, it flies fast and far, hits hard and paralyzes the target a while
 
 <div class="entry-stats" markdown="1">
 
@@ -379,6 +399,7 @@ In the Poison Pink suit the user draws all the poison and bad effects out of the
 | Stat | Value |
 | --- | --- |
 | Cooldown | 15 s (300 ticks) |
+| Health healed | +8 HP |
 
 </div>
 
@@ -396,6 +417,7 @@ In the Poison Pink suit the user breathes out a mist of poison all around, the e
 | Stat | Value |
 | --- | --- |
 | Cooldown | 25 s (500 ticks) |
+| Health healed each second | +1 HP |
 
 </div>
 
@@ -416,6 +438,15 @@ In the Poison Pink suit the bare hand blows of the user poison what they hit
 ![](../../assets/playable/racenomi/abilities/raid_suit.png){ .entry-move-icon loading=lazy } *Passive*
 
 While the user wears a Raid Suit its cloth bears fire, its boots land any fall and make the blows hit harder The suits are in the Germa 66 ration box, only a modified human can open it, and a suit gives its own techniques for as long as it is worn
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Fire damage taken | -50% |
+| Bare-handed damage | +4 HP |
+
+</div>
 
 
 <!-- move racenomi:silent_steps -->
@@ -502,6 +533,7 @@ In the Stealth Black suit the user vanishes with all they hold, the first blow t
 | Stat | Value |
 | --- | --- |
 | Cooldown | 20 s (400 ticks) |
+| First blow damage | +100% |
 
 </div>
 

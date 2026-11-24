@@ -49,7 +49,7 @@ Transforms the user into an onyudo hybrid, a tall and strong warrior monk with a
 | --- | --- |
 | Movement speed | +5% of base |
 | Punch damage | +11 HP |
-| Armour | +14 |
+| Armor | +14 |
 | Toughness | +4 |
 | Step height | +1 blocks |
 
@@ -80,7 +80,7 @@ Transforms the user into an onyudo, a giant warrior monk as tall as 8 blocks, ve
 | --- | --- |
 | Movement speed | +10% of base |
 | Punch damage | +15 HP |
-| Armour | +20 |
+| Armor | +20 |
 | Toughness | +8 |
 | Step height | +2 blocks |
 

@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -129,70 +133,6 @@ Allows other players to ride on your back.
 </div>
 
 
-<!-- move awakenawakennomi:awaken_allosaurus_heavy_point -->
-
-### Awaken Allosaurus Heavy Point { #awakening-awaken-allosaurus-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ryu/allosaurus/awaken_allosaurus_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened allosaurus hybrid, which focuses on strength
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +200% of base |
-| Punch damage | +18 HP |
-| Armour | +20 |
-| Step height | +1 blocks |
-| Jump | +4 |
-| Toughness | +5 |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_allosaurus_walk_point -->
-
-### Awaken Allosaurus Walk Point { #awakening-awaken-allosaurus-walk-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/ryu/allosaurus/awaken_allosaurus_walk_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened allosaurus, which focuses on speed
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +30% of base |
-| Armour | +30 |
-| Punch damage | +35 HP |
-| Step height | +2 blocks |
-| Jump | +2.4 |
-| Toughness | +6 |
-
-</div>
-
-
 <!-- move awakenawakennomi:ancient_spine_saw -->
 
 ### Ancient Spine Saw { #awakening-ancient-spine-saw }
@@ -200,6 +140,14 @@ Transforms the user into an awakened allosaurus, which focuses on speed
 ![](../../assets/playable/awakenawakennomi/abilities/ryu/allosaurus/ancient_spine_saw.png){ .entry-move-icon loading=lazy } *Active*
 
 The user rolls forward along its spined back, cutting everything in its path.
+
+<div class="entry-stats" markdown="1">
+
+| Stat | Value |
+| --- | --- |
+| Hits per enemy | 1 |
+
+</div>
 
 
 <!-- move awakenawakennomi:apex_pursuit -->

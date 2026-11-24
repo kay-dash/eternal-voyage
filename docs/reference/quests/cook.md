@@ -42,9 +42,9 @@ Reach Cook level 5.
 
 ## Journeyman Cook
 
-The Baratie serves anyone who pays and feeds anyone who cannot. Cook something superb in its honour.
+The Baratie serves anyone who pays and feeds anyone who cannot. Cook something superb in its honor.
 
-Reach Cook level 25, Cook a dish of Superb quality, Prepare a Sashimi Assortment and land on a harbour town in East Blue.
+Reach Cook level 25, Cook a dish of Superb quality, Prepare a Sashimi Assortment and land on a harbor town in East Blue.
 
 **Prerequisites (all of)** — [Apprentice Cook](cook.md#q-16d9384fcd7cad0e)
 
@@ -53,7 +53,7 @@ Reach Cook level 25, Cook a dish of Superb quality, Prepare a Sashimi Assortment
 - Reach Cook level 25
 - Cook a dish of Superb quality
 - Prepare a Sashimi Assortment
-- Land on a harbour town in East Blue
+- Land on a harbor town in East Blue
 
 **Rewards**
 

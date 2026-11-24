@@ -21,11 +21,11 @@ Each row gives the mastery shown in the branch. Techniques can also have Doriki 
 | 20 | Fork · Option 2 | Coated Body | Blows on your hardened body hurt the striker for a tenth of the blow. |
 | 24 | Technique | Iron Palm Thrust | A hardened palm thrust that launches the foe and everyone behind them. |
 | 28 | Technique | Full Body Hardening | Mine Mine no Mi's Full Body Hardening. |
-| 32 | Passive | Battle-Hardened | +2 armour toughness while hardened. |
+| 32 | Passive | Battle-Hardened | +2 armor toughness while hardened. |
 | 36 | Technique | Cannonball Barrage | Hurl hardened cannonballs by hand, six in a spread, each landing like a shell. |
 | 40 | Fork · Option 1 | Shockwave Punch | A hardened bare-handed blow sends its shockwave on through the line behind the foe, half as hard (once every 3 seconds). |
 | 40 | Fork · Option 2 | Immovable | Hardened, nothing knocks you back or stuns you. |
-| 44 | Technique | Core Hardening | Harden to the core for 8 seconds: your blows go through armour and the foe's Hardening. |
+| 44 | Technique | Core Hardening | Harden to the core for 8 seconds: your blows go through armor and the foe's Hardening. |
 | 48 | Passive | Unbreakable Skin | Hardened, the first hit of each fight deals half. |
 | 52 | Technique | Iron Hide | For 6 seconds arrows, bullets and small shots bounce off you, and big ones deal half. |
 | 60 | Keystone · Option 1 | Iron Body | You can't be knocked back or staggered. You can never sidestep a blow. |
@@ -50,9 +50,9 @@ Each row gives the mastery shown in the branch. Techniques can also have Doriki 
 | 36 | Technique | Black Crescent | A wide coated crescent, flying far and through everyone in its path. |
 | 40 | Fork · Option 1 | Black Blade Bond | A blade you coat long enough works its way to a Black Blade. |
 | 40 | Fork · Option 2 | Marksman's Will | Coated arrows and bullets hit 15% harder and fly straighter. |
-| 44 | Technique | Haki Sniping | One long coated shot that goes through armour. |
+| 44 | Technique | Haki Sniping | One long coated shot that goes through armor. |
 | 48 | Passive | Coated Edge III | Coated weapons hit another 6% harder. |
-| 52 | Technique | Piercing Dash | Dash through the foe in one coated stroke that reaches past armour and a Logia body. |
+| 52 | Technique | Piercing Dash | Dash through the foe in one coated stroke that reaches past armor and a Logia body. |
 | 60 | Keystone · Option 1 | Sword of the King | Coated blades hit 25% harder, and if you have Conqueror's it coats the blade too, overwhelming weaker fruit users. Bare-handed blows carry no Armament. |
 | 60 | Keystone · Option 2 | Arsenal of Will | Anything you throw or fire is coated. Coated blades hit 10% softer. |
 | 60 | Title | Imbuing at its Peak |  |
@@ -65,7 +65,7 @@ Each row gives the mastery shown in the branch. Techniques can also have Doriki 
 | 3 | Passive | Haki Flow | Your Haki bar refills 10% faster. |
 | 6 | Passive | Ryuo Pressure | Ryuo moves hit 5% harder. |
 | 9 | Technique | Emission | Mine Mine no Mi's Emission. |
-| 12 | Technique | Ryuo Palm | A palm strike that hurts inside, past part of the armour. |
+| 12 | Technique | Ryuo Palm | A palm strike that hurts inside, past part of the armor. |
 | 15 | Passive | Hold Breaker | Haki breaks Devil Fruit holds twice as fast. |
 | 20 | Fork · Option 1 | Ryuo Flow | Ryuo flows into whatever you strike: blows pass guards and Logia bodies. |
 | 20 | Fork · Option 2 | Ryuo Shot | A Ryuo blow that strikes from a distance. |
@@ -154,7 +154,7 @@ Each row gives the mastery shown in the branch. Techniques can also have Doriki 
 | 40 | Fork · Option 2 | Clash Foresight | Read a Conqueror's clash before it starts: you push 10% harder in contests of wills, and Conqueror's-coated blows deal you 15% less. • beaten:shanks |
 | 44 | Technique | Foretold Escape | When a killing blow is coming, you're already out of its way (once a minute). |
 | 48 | Passive | Fate Weaver | Counters hit another 20% harder. |
-| 52 | Technique | Strike First | For 4 seconds you move before the foe can: blows thrown at you up close are cancelled by yours. |
+| 52 | Technique | Strike First | For 4 seconds you move before the foe can: blows thrown at you up close are canceled by yours. |
 | 60 | Keystone · Option 1 | Fixed Future | Future Sight never turns off, costs no Haki and nothing clouds it (keep it on your ability bar). The rest of your Haki refills half as fast. |
 | 60 | Keystone · Option 2 | Fate Breaker | Your counters can't be dodged. You can't sidestep. |
 | 60 | Title | Foresight at its Peak |  |

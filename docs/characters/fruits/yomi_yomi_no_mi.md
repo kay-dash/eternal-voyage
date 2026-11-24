@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -136,7 +138,7 @@ The cold of the underworld surrounds the user, chilling the souls of every enemy
 
 ![](../../assets/playable/awakenawakennomi/abilities/yomi/soul_reap.png){ .entry-move-icon loading=lazy } *Active*
 
-The user's soul dashes forward through every enemy in its way, cutting their souls and not their bodies. Armour does nothing against it and enemies with a cut soul have a lot less max health for a while.
+The user's soul dashes forward through every enemy in its way, cutting their souls and not their bodies. Armor does nothing against it and enemies with a cut soul have a lot less max health for a while.
 
 <div class="entry-stats" markdown="1">
 

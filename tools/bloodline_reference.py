@@ -119,7 +119,7 @@ def bloodline_reference(config, akuma_traits, grafts, docs, write):
         rows.extend([("[Celestial Dragon Blood](celestial_dragon.md)", f"{celestial_odds:.1%} Akuma", "World Nobles"),
                      ("[Heavenly Demon](heavenly_demon.md)", "Earned in play", "Donquixote Doflamingo")])
     if rows:
-        index.extend(["## Bloodline catalogue", "", "Each percentage applies to the named birth roll. "
+        index.extend(['<a id="bloodline-catalogue"></a>', "", "## Bloodline catalogue", "", "Each percentage applies to the named birth roll. "
                       "An already assigned Akuma bloodline carries through to your character stats.", "",
                       "| Bloodline | How to get it | Known carriers |", "| --- | --- | --- |",
                       *(f"| {name} | {odds} | {examples} |" for name, odds, examples in rows), ""])

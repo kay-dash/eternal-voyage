@@ -23,6 +23,8 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -51,7 +53,7 @@ Launches a dragon made out of liquid poison at the opponent
 
 ![](../../assets/playable/mineminenomi/abilities/chloro_ball.png){ .entry-move-icon loading=lazy } *Active*
 
-The user spits a bubble made of poison towards the enemy, which also leaves poison on the ground.
+The user spits a bubble made of poison toward the enemy, which also leaves poison on the ground.
 
 <div class="entry-stats" markdown="1">
 
@@ -193,9 +195,9 @@ Fires a bunch of venom hydras one after another from different spots, poisoning 
 
 | Stat | Value |
 | --- | --- |
-| Cooldown | 15 s (300 ticks) |
-| Base damage | 40 HP |
-| Demon damage | 80 HP |
+| Cooldown | 45 s (900 ticks) |
+| Base damage | 30 HP |
+| Demon damage | 40 HP |
 
 </div>
 

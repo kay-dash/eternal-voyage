@@ -59,7 +59,7 @@ Installed build `0.8.0`. [Browse all mods](index.md).
 | Net Throw | `inocruise:net_throw` | With a bug net in hand throw a net at an enemy. It wraps them for 3 seconds and slows the enemies by them. A player or a boss is held half as long |
 | No tune is on you | `inocruise:needs_tune` |  |
 | Nothing you wear is worn | `inocruise:needs_worn` |  |
-| Patch Up | `inocruise:patch_up` | Mend what you wear on the spot. Each piece of armour on you gets 30% of its wear back |
+| Patch Up | `inocruise:patch_up` | Mend what you wear on the spot. Each piece of armor on you gets 30% of its wear back |
 | Pick Strike | `inocruise:pick_strike` | With a pickaxe in hand strike the enemy you look at. It hurts them a lot and holds them for 1 second. A player or a boss is held half as long |
 | Quick Repair | `inocruise:quick_repair` | Patch the hull you ride or the one you look at within 5 blocks. It gets 2 timbers back. No plank is used |
 | Reap | `inocruise:reap` | With a hoe in hand sweep wide before you. Every enemy in front of you within 4 blocks is hit |
@@ -69,7 +69,7 @@ Installed build `0.8.0`. [Browse all mods](index.md).
 | Snap Trap | `inocruise:snap_trap` | Lay a trap at your feet for 30 seconds. The first enemy to step on it is hurt and held for 4 seconds |
 | Sour Note | `inocruise:sour_note` | Play a note so wrong it hurts. Every enemy in front of you within 7 blocks is hit and thrown back |
 | Spice Cloud | `inocruise:spice_cloud` | Throw a pouch of spice. It bursts where it lands. Every enemy within 3 blocks is hurt and blinded and slowed for 3 seconds and loses you. A player or a boss half as long |
-| Sunder | `inocruise:sunder` | With a forged weapon in hand strike the enemy you look at where his armour is weak. He is hurt and loses 30% of his armour for 6 seconds. A player or a boss half as long |
+| Sunder | `inocruise:sunder` | With a forged weapon in hand strike the enemy you look at where his armor is weak. He is hurt and loses 30% of his armor for 6 seconds. A player or a boss half as long |
 | Tempered Guard | `inocruise:tempered_guard` | With a forged weapon in hand brace yourself. For 6 seconds you take 30% less damage |
 | There is no enemy in sight | `inocruise:needs_target` |  |
 | There is no hull to mend here | `inocruise:needs_hull` |  |
@@ -290,8 +290,8 @@ Installed build `0.8.0`. [Browse all mods](index.md).
 | Thrown Spice | `inocruise:thrown_spice` |  |
 | Thunder Spider | `inocruise:thunder_spider` |  |
 | Tournament Judge | `inocruise:tournament_judge` |  |
-| Travelling Cook | `inocruise:travelling_cook` |  |
-| Travelling Musician | `inocruise:travelling_musician` |  |
+| Traveling Cook | `inocruise:travelling_cook` |  |
+| Traveling Musician | `inocruise:travelling_musician` |  |
 | Tree Frog | `inocruise:tree_frog` |  |
 | Umbrella Frog | `inocruise:umbrella_frog` |  |
 | Veteran Bounty Hunter | `inocruise:veteran_bounty_hunter` |  |
@@ -360,7 +360,7 @@ Installed build `0.8.0`. [Browse all mods](index.md).
 | Crossbone Butterfly | `inocruise:crossbone_butterfly` |  |
 | Crossbone Butterfly Spawn Egg | `inocruise:crossbone_butterfly_spawn_egg` |  |
 | Cruise Guide | `inocruise:cruise_guide` |  |
-| Crystallised Salt | `inocruise:crystallised_salt` |  |
+| Crystallized Salt | `inocruise:crystallised_salt` |  |
 | Cutie Piranha | `inocruise:cutie_piranha` |  |
 | Deckhand Spawn Egg | `inocruise:deckhand_spawn_egg` |  |
 | Delicacy Assortment | `inocruise:delicacy_assortment` |  |
@@ -597,8 +597,8 @@ Installed build `0.8.0`. [Browse all mods](index.md).
 | Torn Old Map | `inocruise:torn_old_map` |  |
 | Torn Rumor Map | `inocruise:torn_rumor_map` |  |
 | Tournament Judge Spawn Egg | `inocruise:tournament_judge_spawn_egg` |  |
-| Travelling Cook Spawn Egg | `inocruise:travelling_cook_spawn_egg` |  |
-| Travelling Musician Spawn Egg | `inocruise:travelling_musician_spawn_egg` |  |
+| Traveling Cook Spawn Egg | `inocruise:travelling_cook_spawn_egg` |  |
+| Traveling Musician Spawn Egg | `inocruise:travelling_musician_spawn_egg` |  |
 | Treasure Pargai | `inocruise:treasure_pargai` |  |
 | Tree Frog | `inocruise:tree_frog` |  |
 | Tree Frog Spawn Egg | `inocruise:tree_frog_spawn_egg` |  |

@@ -23,6 +23,10 @@ See [damage calculations](../combat-stats.md#damage-from-doriki).
 
 [Jump to awakening](#awakening)
 
+After awakening, this fruit’s original damaging moves deal **1.5× damage**. The awakening techniques below have their own values.
+
+Keep using your normal combat forms after awakening. See the [awakened Zoan form stats](../devil-fruits.md#what-changes-after-awakening) for the upgrade.
+
 !!! note "Reading the stats"
     Listed base damage is for the named part of the move. Pack and Doriki multipliers are shown separately. Times assume 20 ticks per second.
 
@@ -141,67 +145,6 @@ While playing dead the user focuses all of their power into regeneration.
 | --- | --- |
 | Doriki | 40,000 |
 | Active time with the fruit | About 24 hours (1,728,000 ticks) |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_axolotl_heavy_point -->
-
-### Awaken Axolotl Heavy Point { #awakening-awaken-axolotl-heavy-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/sara/axolotl/awaken_axolotl_heavy_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened axolotl hybrid, which focuses on strength and regeneration
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +180% of base |
-| Armour | +30 |
-| Punch damage | +10 HP |
-| Jump | +3 |
-| Toughness | +5 |
-| Step height | +2 blocks |
-
-</div>
-
-
-<!-- move awakenawakennomi:awaken_axolotl_walk_point -->
-
-### Awaken Axolotl Walk Point { #awakening-awaken-axolotl-walk-point }
-
-![](../../assets/playable/awakenawakennomi/abilities/sara/axolotl/awaken_axolotl_walk_point.png){ .entry-move-icon loading=lazy } *Active · Transformation*
-
-Transforms the user into an awakened axolotl, which focuses on speed and swimming.
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Cooldown | 0.5 s (10 ticks) |
-
-</div>
-
-**Stats while transformed**
-
-<div class="entry-stats" markdown="1">
-
-| Stat | Value |
-| --- | --- |
-| Movement speed | +180% of base |
-| Jump | +2.4 |
-| Step height | +1 blocks |
 
 </div>
 

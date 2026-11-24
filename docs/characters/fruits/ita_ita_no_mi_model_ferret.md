@@ -49,7 +49,7 @@ Transforms the user into a ferret, which focuses on speed and staying low to the
 | --- | --- |
 | Movement speed | +55% of base |
 | Punch damage | +4 HP |
-| Armour | +3 |
+| Armor | +3 |
 | Step height | +0.5 blocks |
 | Jump | +1.8 |
 | Toughness | +1 |
@@ -81,7 +81,7 @@ Transforms the user into a ferret hybrid, which focuses on speed and claw attack
 | --- | --- |
 | Movement speed | +34% of base |
 | Punch damage | +6 HP |
-| Armour | +5 |
+| Armor | +5 |
 | Step height | +0.5 blocks |
 | Jump | +1.4 |
 | Toughness | +1.5 |

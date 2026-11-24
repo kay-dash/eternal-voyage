@@ -10,7 +10,7 @@
 
 Awakened techniques and forms for Devil Fruit users.
 
-Installed build `3.0.3`. [Browse all mods](index.md).
+Installed build `4.0.0`. [Browse all mods](index.md).
 
 ## Pack guides
 

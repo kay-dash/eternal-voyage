@@ -6,7 +6,7 @@ Start here if this is your first time on Eternal Voyage. Follow the main route f
 | --- | --- |
 | [Getting Started](first-voyage.md) | Join the server, create a character, choose two professions, and meet your crew. |
 | [Your first island](first-island.md) | Claim the Rookie Crate, make landfall, finish local jobs, and take on Higuma. |
-| [Build and captain a ship](shipbuilding.md) | Assemble a hull, learn the helm, and practise docking. Learn how to bottle a ship or safely leave one behind. |
+| [Build and captain a ship](shipbuilding.md) | Assemble a hull, learn the helm, and practice docking. Learn how to bottle a ship or safely leave one behind. |
 | [Sail to the next island](navigation.md) | Choose a Log Pose heading, share maps, and land together. |
 | [Grow stronger in the Blues](progression.md) | Earn Doriki, level your trades, fight the first bosses, and advance your faction. |
 | [Towns and island claims](../world/conflict.md) | Make friends in port or take and defend a home island for your crew. |

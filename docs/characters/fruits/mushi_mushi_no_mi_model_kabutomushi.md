@@ -50,7 +50,7 @@ Transforms the user into a rhinoceros beetle hybrid, with a horn, a hard shell, 
 | Movement speed | +15% of base |
 | Maximum health | +20% |
 | Punch damage | +6 HP |
-| Armour | +8 |
+| Armor | +8 |
 | Toughness | +4 |
 | Step height | +0.5 blocks |
 | Jump | +1 |
@@ -83,7 +83,7 @@ Transforms the user into a big rhinoceros beetle with a thick shell. It can fly 
 | Movement speed | +10% of base |
 | Maximum health | +30% |
 | Punch damage | +5 HP |
-| Armour | +12 |
+| Armor | +12 |
 | Toughness | +6 |
 | Step height | +1 blocks |
 | Jump | +0.5 |

@@ -2,6 +2,25 @@
 
 Use a regular boat for scouting or short landings. Build an **Eureka! ship** when your crew needs room for people, cargo, and a long crossing. A block-built hull is the ship you can coat, bottle, and leave a stand-in aboard.
 
+## Small Ships
+
+Small Ships are built at a **Dockyard** and launched as complete vessels. Put the Dockyard on the waterfront with clear water ahead, select a design, and supply its materials. A Dockyard recipe uses **string, paper, string** on top, **iron ingot, crafting table, white wool** in the middle, and **lead, barrel, lead** on the bottom.
+
+| Ship | Planks | White wool | String | Hardware | Build time |
+| --- | ---: | ---: | ---: | --- | ---: |
+| Dhow | 96 | 48 | 48 | — | 2 min |
+| Galley | 96 | 24 | 12 | 18 iron nuggets | 2 min |
+| Drakkar | 96 | 24 | 12 | 36 iron nuggets | 2 min |
+| Caravel | 120 | 48 | 24 | 30 iron nuggets | 2 min 15 s |
+| Cog | 192 | 24 | 12 | 48 iron nuggets | 3 min |
+| Brigg | 240 | 48 | 24 | 8 iron ingots | 3 min 30 s |
+| Galleon | 336 | 72 | 36 | 12 iron ingots | 4 min 30 s |
+| Striker | 4 | 12 | 12 | 4 iron blocks, 8 iron nuggets, 4 Flame Dials | 1 min |
+
+Use **Toggle Sail**, **Higher Sail**, **Lower Sail**, and **Open Ship Inventory** in Controls. You can check each design’s wind and equipment bonuses in the Dockyard. A **Cog** takes up to four cannons, a **Brigg** up to six, and a **Galley** up to two. A **Drakkar** can hang up to ten shields and cut through regular ice. Galleys and Drakkars can row with sails furled when the wind is poor. Fit Ship Cannons to available slots, carry ammunition, and use the cannon aim and fire controls.
+
+The first player to board an unclaimed vessel sets its ownership. The sail can display the crew’s Jolly Roger. Right-click the vessel with **Dense Kairoseki** to apply coating, as with a regular boat. For a ship you need to bottle or leave a stand-in aboard, build the Eureka hull below.
+
 ## Build and assemble
 
 1. Build a small wooden hull near the shoreline. Keep the hull separate from the dock and any temporary supports. Eureka assembles connected blocks, so remove any block bridge to the shore before you press **Assemble**.
@@ -17,7 +36,7 @@ The [Eureka Helm guide](https://valkyrienskies.org/wiki/Ship_Helm) shows the men
 | --- | --- |
 | Crew travel | A clear deck, rails, a place to get in from water, and supplies where the crew can find them. |
 | Heavy hulls | More Floaters if it rides too low. Use Ballast when you need to lower it. |
-| Stopping and docking | An **Eureka Anchor** for keeping the ship in place. Practise stopping in open water before approaching a dock or riding a current. |
+| Stopping and docking | An **Eureka Anchor** for keeping the ship in place. Practice stopping in open water before approaching a dock or riding a current. |
 | Frozen water | Fit a **Valkyrien Icebreakers Ice Breaker** at the bow for surface ice. Craft it with one iron block and four iron bars. |
 | Calm Belt or Fish-Man Island | Fully coat the assembled ship. See [Kairoseki coating](#kairoseki-coating) below. |
 
@@ -43,7 +62,7 @@ If the ship is gone, you may come back adrift. **Keep walking toward land or ano
 
 ## Bottle your ship
 
-1. Craft a **Big Bottle** from **7 glass blocks and 1 Heart of the Sea**. Put glass across the top and bottom rows and in the middle-right slot, with the Heart of the Sea in the centre.
+1. Craft a **Big Bottle** from **7 glass blocks and 1 Heart of the Sea**. Put glass across the top and bottom rows and in the middle-right slot, with the Heart of the Sea in the center.
 2. Stop the assembled ship and get everyone ashore. Hold the Big Bottle and **right-click a ship block while standing normally**. The bottle takes **30 experience levels** in Survival.
 3. Carry the **Ship In A Bottle** to its destination. **Right-click open water without sneaking** to launch it. Leave enough clear space in and above the water for the full hull. Set the bottle down while sneaking if you want it as a display.
 4. Check the helm and confirm any coating before attempting a gated crossing.
@@ -52,8 +71,8 @@ If the ship is gone, you may come back adrift. **Keep walking toward land or ano
 
 ## Naming and retrieving ships
 
-Use a **Ship Namer** on the assembled hull so you can identify it later. At an equipped harbour, a **Hub Controller** manages docking slots. To pair your ship, right-click its mounted **Ship Anchor** with a **Hub Linker**, then right-click the harbour’s **Hub Extension** for the slot. When you have permission, call the ship back from the paired dock. Keep the landing space clear. The Ship Anchor for a retrieval hub is a different block from the Eureka Anchor you use to hold a ship in place.
+Use a **Ship Namer** on the assembled hull so you can identify it later. At an equipped harbor, a **Hub Controller** manages docking slots. To pair your ship, right-click its mounted **Ship Anchor** with a **Hub Linker**, then right-click the harbor’s **Hub Extension** for the slot. When you have permission, call the ship back from the paired dock. Keep the landing space clear. The Ship Anchor for a retrieval hub is a different block from the Eureka Anchor you use to hold a ship in place.
 
-[Ship Retrieval Service’s guide](https://www.curseforge.com/minecraft/mc-mods/vs-ship-retrieval-service) explains the harbour equipment.
+[Ship Retrieval Service’s guide](https://www.curseforge.com/minecraft/mc-mods/vs-ship-retrieval-service) explains the harbor equipment.
 
 Next, [chart the next island and make landfall](navigation.md).

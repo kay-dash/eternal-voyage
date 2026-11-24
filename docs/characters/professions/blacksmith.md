@@ -4,7 +4,7 @@
 
 [All professions](index.md)
 
-Turn iron, Kairoseki, and materials from the [Miner](miner.md) into weapons and ammunition at the Forge. Start with a Katana, Spear or Bullets when your crew needs them. Forging pays the XP listed for the recipe, and the weapon records its maker. When the travelling Wano swordsmith asks for a forged Katana or Broadsword, bring one made at the Forge. Its forging bonuses carry over when it is turned into a named blade.
+Turn iron, Kairoseki, and materials from the [Miner](miner.md) into weapons and ammunition at the Forge. Start with a Katana, Spear or Bullets when your crew needs them. Forging pays the XP listed for the recipe, and the weapon records its maker. When the traveling Wano swordsmith asks for a forged Katana or Broadsword, bring one made at the Forge. Its forging bonuses carry over when it is turned into a named blade.
 
 Eternal Voyage uses the Forge for the Mine Mine no Mi recipes listed below. Later recipes cover Kairoseki ammunition and restraints, the Kuro Kabuto and Soul Solid. Tempering and Keen Edge can add enchantments to what you make. The [special weapons guide](../fighting-styles.md#blades-wills-and-haki) explains further paths for eligible weapons.
 
@@ -15,7 +15,7 @@ Equip a forged weapon for these abilities.
 | Technique | Effect | Cooldown | Base damage | Reach |
 | --- | --- | ---: | ---: | ---: |
 | Hammer Blow | Delivers a heavy strike and knocks the target back. | 10 s | 60 HP | 4 blocks |
-| Sunder | Weakens armour by 30% for 6 seconds, or 3 seconds on players and bosses. | 14 s | 35 HP | 4 blocks |
+| Sunder | Weakens armor by 30% for 6 seconds, or 3 seconds on players and bosses. | 14 s | 35 HP | 4 blocks |
 | Tempered Guard | Reduces incoming damage by 30% for 6 seconds. | 20 s | — | Self |
 
 <!-- Pack profession tables -->
@@ -75,7 +75,7 @@ Spend your talent points in the profession book. Techniques open in the **Profes
 | Bellows boy 1 | Small · Start | You earn 5% more Blacksmith XP | Tempering |
 | Tempering | Major | What you forge comes with Unbreaking I | Bellows boy 1, Bellows boy 2 |
 | Bellows boy 2 | Small | You earn 5% more Blacksmith XP | Tempering, Keen Edge |
-| Keen Edge | Major | A weapon you forge comes with Sharpness I and an armour with Protection I | Bellows boy 2, Scrap heap 1, Bellows boy 3, Wide mould 1, Scrap heap 4, Scrap heap 5 |
+| Keen Edge | Major | A weapon you forge comes with Sharpness I and an armor with Protection I | Bellows boy 2, Scrap heap 1, Bellows boy 3, Wide mold 1, Scrap heap 4, Scrap heap 5 |
 | Scrap heap 1 | Small | 2% more of your forgings give an ingredient back | Keen Edge, Scrap |
 | Scrap | Major | 25% of your forgings give an ingredient back | Scrap heap 1, Scrap heap 2 |
 | Scrap heap 2 | Small | 2% more of your forgings give an ingredient back | Scrap, Scrap heap 3 |
@@ -84,18 +84,18 @@ Spend your talent points in the profession book. Techniques open in the **Profes
 | Smith's Notes | Major | You earn 15% more Blacksmith XP | Bellows boy 3, Bellows boy 4 |
 | Bellows boy 4 | Small | You earn 5% more Blacksmith XP | Smith's Notes, Bellows boy 5 |
 | Bellows boy 5 | Small | You earn 5% more Blacksmith XP | Bellows boy 4 |
-| Wide mould 1 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Keen Edge, Hammer Blow |
-| Scrap heap 4 | Small | 2% more of your forgings give an ingredient back | Keen Edge, Full Mould |
+| Wide mold 1 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Keen Edge, Hammer Blow |
+| Scrap heap 4 | Small | 2% more of your forgings give an ingredient back | Keen Edge, Full Mold |
 | Scrap heap 5 | Small | 2% more of your forgings give an ingredient back | Keen Edge, Honed Edge |
-| Fine Temper | Major | What you forge comes with Unbreaking II | Wide mould 2, Fighting Blacksmith 1, Hot Iron |
-| Full Mould | Major | 20% chance that a forging of bullets or balls gives twice as many | Scrap heap 4, Wide mould 3, Hammer Blow, Honed Edge |
-| Honed Edge | Major | A weapon you forge comes with Sharpness II and an armour with Protection II | Scrap heap 5, Wide mould 4, Full Mould |
-| Wide mould 2 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Hammer Blow, Fine Temper |
-| Wide mould 3 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Full Mould, Hot Iron |
-| Wide mould 4 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Honed Edge, Sunder |
-| Hammer Blow | Ability | Needs a forged weapon. A great blow that throws a foe back | Wide mould 1, Wide mould 2, Full Mould |
-| Hot Iron | Major | A weapon you forge comes with Fire Aspect I | Wide mould 3, Fighting Blacksmith 2, Fine Temper, Sunder |
-| Sunder | Ability | Needs a forged weapon. A blow that takes 30% of a foe's armour for 6 seconds | Wide mould 4, Fighting Blacksmith 3, Hot Iron |
+| Fine Temper | Major | What you forge comes with Unbreaking II | Wide mold 2, Fighting Blacksmith 1, Hot Iron |
+| Full Mold | Major | 20% chance that a forging of bullets or balls gives twice as many | Scrap heap 4, Wide mold 3, Hammer Blow, Honed Edge |
+| Honed Edge | Major | A weapon you forge comes with Sharpness II and an armor with Protection II | Scrap heap 5, Wide mold 4, Full Mold |
+| Wide mold 2 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Hammer Blow, Fine Temper |
+| Wide mold 3 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Full Mold, Hot Iron |
+| Wide mold 4 | Small | 3% more chance that a forging of bullets or balls gives twice as many | Honed Edge, Sunder |
+| Hammer Blow | Ability | Needs a forged weapon. A great blow that throws a foe back | Wide mold 1, Wide mold 2, Full Mold |
+| Hot Iron | Major | A weapon you forge comes with Fire Aspect I | Wide mold 3, Fighting Blacksmith 2, Fine Temper, Sunder |
+| Sunder | Ability | Needs a forged weapon. A blow that takes 30% of a foe's armor for 6 seconds | Wide mold 4, Fighting Blacksmith 3, Hot Iron |
 | Fighting Blacksmith 1 | Small | Your Blacksmith abilities hit 5% harder | Fine Temper, Fighting Blacksmith 4 |
 | Fighting Blacksmith 2 | Small | Your Blacksmith abilities hit 5% harder | Hot Iron, Tempered Guard |
 | Fighting Blacksmith 3 | Small | Your Blacksmith abilities hit 5% harder | Sunder, Fighting Blacksmith 5 |
