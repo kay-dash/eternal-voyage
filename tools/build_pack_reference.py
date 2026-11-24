@@ -9,6 +9,7 @@ import subprocess
 import tomllib
 from zipfile import ZipFile
 from bloodline_reference import bloodline_reference
+from trade_reference import profession_reference
 from mod_cards import FEATURED, ICON_TEXTURES, MOD_CARDS, MOD_SECTIONS, RELATED_MODS
 from playable_reference import REPLACED_MOVES, playable_reference
 
@@ -666,33 +667,6 @@ def add_fruit_pools(data, tier, fruit_data, fruit_removals):
                 fruit_data[tier][key] = entry.get("weight", 1)
 
 
-def trade_talent_reference():
-    with ZipFile(next((PACK / "mods").glob("inocruise-*.jar"))) as archive:
-        lang = json.loads(archive.read("assets/inocruise/lang/en_us.json"))
-        webs = {Path(p).stem: json.loads(archive.read(p)) for p in archive.namelist()
-                if p.startswith("data/inocruise/talent_webs/") and p.endswith(".json")}
-    lines = ["# Trade talents", "", "[Choosing and training professions](factions-and-trades.md)", "",
-             "Find the entry nodes and the adjacent nodes for each trade. Values are the raw talent modifiers "
-             "from the shipped Cruise data. For example, a value of 0.05 in a percent-based description is 5%."]
-    for trade, web in sorted(webs.items()):
-        title = lang.get(f"profession.inocruise.{trade}", trade.title())
-        neighbors = defaultdict(list)
-        for a, b in web["links"]:
-            neighbors[a].append(b)
-            neighbors[b].append(a)
-        lines.extend(["", f"## {title}", "", f"[{title} quest chapter](../reference/quests/{trade}.md)"])
-        rows = []
-        for node_id, node in web["nodes"].items():
-            key = f"talent.inocruise.{trade}.{node['bonus']}"
-            name = lang.get(key, node_id.replace("_", " ").title())
-            desc = lang.get(f"{key}.desc", "")
-            kind = node["kind"].title() + (" · Entry" if node_id in web["starts"] else "")
-            rows.append((label(name), inline_code(node_id), kind, node["value"],
-                         label(desc), ", ".join(map(inline_code, neighbors[node_id]))))
-        lines.extend(table(("Talent", "Node", "Kind", "Value", "Effect", "Adjacent nodes"), rows))
-    write("characters/trade-talents.md", lines)
-
-
 def haki_tree_reference(javap):
     jar = next((PACK / "mods").glob("hakirealm-*.jar"))
     bytecode = subprocess.check_output(
@@ -784,8 +758,8 @@ def main():
                         base["Doriki Limit"], base["Haki Exp Limit"])
     quest_reference()
     datapack_reference()
+    profession_reference(PACK, DOCS, unavailable_content(), table, label, write)
     shipped_content_reference(args.javap)
-    trade_talent_reference()
     if args.javap:
         haki_tree_reference(args.javap)
 

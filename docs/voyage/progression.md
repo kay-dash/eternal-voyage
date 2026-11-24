@@ -18,7 +18,7 @@ Do work the trade recognises. A Farmer can grow the ship’s food, a Cook can tu
 
 Reach **level 1** in your first trade to open the second slot. Put at least one of your two trades to use on the kinds of trips you make often. A crew can divide up jobs while each player keeps their own trade progress.
 
-[Profession activities](../characters/factions-and-trades.md#professions) · [Trade talents](../characters/trade-talents.md).
+[Profession catalogue](../characters/professions/index.md) · [Trade talents](../characters/trade-talents.md).
 
 ## Advance your faction
 

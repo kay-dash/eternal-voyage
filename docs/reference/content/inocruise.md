@@ -14,6 +14,7 @@ Installed build `0.8.0`. [Browse all mods](index.md).
 
 ## Pack guides
 
+- [Professions](../../characters/professions/index.md)
 - [Factions and professions](../../characters/factions-and-trades.md)
 - [Trade talents](../../characters/trade-talents.md)
 - [Towns and island claims](../../world/conflict.md)

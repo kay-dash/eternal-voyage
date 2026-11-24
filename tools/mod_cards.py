@@ -16,7 +16,7 @@ MOD_SECTIONS = {
         "blackhaki": ("Black Blades & Fists", "Develop cursed blades, forge a Black Blade or progress with Black Fists.", ("reference/quests/special_weapons.md", "characters/fighting-styles.md")),
         "infusion": ("Infusion no Mi", "Bind a Devil Fruit to compatible equipment and develop its companion powers.", ("reference/quests/special_weapons.md", "characters/devil-fruits.md")),
         "devilfruitlives": ("Devil Fruit Lives", "A lives mechanic for Devil Fruit powers.", ("characters/devil-fruits.md", "world/survival.md")),
-        "inocruise": ("Cruise Cruise no Mi", "Fourteen trades, talent trees, shipbuilding, settlements, events and trade routes.", ("characters/factions-and-trades.md", "characters/trade-talents.md", "world/conflict.md", "world/weather.md")),
+        "inocruise": ("Cruise Cruise no Mi", "Fourteen trades, talent trees, shipbuilding, settlements, events and trade routes.", ("characters/professions/index.md", "characters/factions-and-trades.md", "characters/trade-talents.md", "world/conflict.md", "world/weather.md")),
     },
     "Exploration, sailing and encounters": {
         "ompworld": ("One Piece World", "The Blues, Grand Line, Red Line, island routes, currents and Log Pose progression.", ("voyage/navigation.md", "voyage/gates.md")),

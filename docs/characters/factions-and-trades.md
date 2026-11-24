@@ -22,26 +22,44 @@ Check your faction finale for fruit rewards and use the chat menu or `/fruitrewa
 
 Choose **two trades** on the server. Your second slot opens when your first trade reaches **level 1**. Profession XP is retained on death. Spread trades across your crew so you can share tools, gear, food and boat upgrades.
 
-The FTB quest book gives every trade a chapter with its own level, crafting, gathering and travel objectives.
+Open the **Professions** tab in the character book. Choose a trade to see its unlocks and recipes. The **Guide** plank opens its Cruise Guide chapter. Fishers and Hunters can open the Bestiary from here, and Navigators can open the Log Book. Each trade guide below also links to its quest chapter.
 
 | Profession | Activities and equipment |
 | --- | --- |
-| [Blacksmith](../reference/quests/blacksmith.md) | Forge and improve weapons. Follow the quest’s forged-item milestones. |
-| [Carpenter](../reference/quests/carpenter.md) | Make boats and ship fittings. A Carpenter can also mend a Cruise hull afloat. |
-| [Chemist](../reference/quests/chemist.md) | Compound materials, powders and specialist recipes. |
-| [Cook](../reference/quests/cook.md) | Prepare dishes and level up through food milestones. |
-| [Farmer](../reference/quests/farmer.md) | Grow crops and specialize in harvests. |
-| [Fisher](../reference/quests/fisher.md) | Fish, discover catches, and pursue Calm Belt Sea Kings beginning at level 44. |
-| [Hunter](../reference/quests/hunter.md) | Track game and progress through creature hunts. |
-| [Inventor](../reference/quests/inventor.md) | Craft devices and advanced dials. |
-| [Lumberjack](../reference/quests/lumberjack.md) | Work different woods and harvest materials for other trades. |
-| [Merchant](../reference/quests/merchant.md) | Trade, take orders and build a commerce route. |
-| [Miner](../reference/quests/miner.md) | Prospect, mine metals, and follow rare-resource milestones. |
-| [Musician](../reference/quests/musician.md) | Play instruments to develop songs and support abilities. |
-| [Navigator](../reference/quests/navigator.md) | Make navigation tools and charts, check the weather, and develop open-water abilities. |
-| [Tailor](../reference/quests/tailor.md) | Sew equipment and flags. At level 10 craft heat or cold linings, and at 50 craft [All-Weather Lining](../world/weather.md#armour-linings). |
+| [Blacksmith](professions/blacksmith.md) | Forge and improve weapons. Follow the quest’s forged-item milestones. |
+| [Carpenter](professions/carpenter.md) | Make boats and ship fittings. A Carpenter can also mend a Cruise hull afloat. |
+| [Chemist](professions/chemist.md) | Compound materials, powders and specialist recipes. |
+| [Cook](professions/cook.md) | Prepare dishes and level up through food milestones. |
+| [Farmer](professions/farmer.md) | Grow crops and specialize in harvests. |
+| [Fisher](professions/fisher.md) | Fish, discover catches, and pursue Calm Belt Sea Kings beginning at level 44. |
+| [Hunter](professions/hunter.md) | Track game and progress through creature hunts. |
+| [Inventor](professions/inventor.md) | Craft devices and advanced dials. |
+| [Lumberjack](professions/lumberjack.md) | Work different woods and harvest materials for other trades. |
+| [Merchant](professions/merchant.md) | Trade, take orders and build a commerce route. |
+| [Miner](professions/miner.md) | Prospect, mine metals, and follow rare-resource milestones. |
+| [Musician](professions/musician.md) | Play instruments to develop songs and support abilities. |
+| [Navigator](professions/navigator.md) | Make navigation tools and charts, check the weather, and develop open-water abilities. |
+| [Tailor](professions/tailor.md) | Sew equipment and flags. At level 10 craft heat or cold linings, and at 50 craft [All-Weather Lining](../world/weather.md#armour-linings). |
 
-Cruise’s Log Book tracks profession progress and the game exposes its talents alongside the trade. Every supplied profession curve has base XP **20** and exponent **1.25**. Use the [Trade talents](trade-talents.md) tables for entry nodes, effects and connected nodes, and the [Cruise content index](../reference/content/inocruise.md) for items, recipes, creature entries and trade-specific datapack IDs.
+### Experience and talents
+
+Every trade starts at **level 1** and reaches **level 100**. Advancing costs **20 × current level¹·²⁵ XP** before rounding. Workstation XP is listed for every recipe in the guides. Away from a bench, you earn XP by doing the trade’s work. The Bestiary and Log Book also reward collection milestones.
+
+You gain a **talent point every five levels** in each trade. Open **Talents** from its page or press **J** with default controls. Spend points on a starting node or one adjacent to a talent you already own. The technique nodes grant moves you can equip from the **Profession** ability tab. A Chemist’s **Potion of Second Thoughts** refunds all the points in one trade. See [Trade talents](trade-talents.md) to jump to any web.
+
+A meal’s **Appetite** boosts one trade for ten minutes. A Musician’s **Craftsman’s Song** boosts every trade and can stack with Appetite. Sleeping at a town inn grants **Rested**, a 10% trade XP bonus until next dusk.
+
+### Crew trade pairs
+
+Work within **16 blocks** of a crewmate with the paired trade for a **15%** bonus.
+
+| Pair | What improves |
+| --- | --- |
+| Fisher + Cook | Dishes last longer. |
+| Farmer + Cook | The Cook earns more XP. |
+| Miner + Blacksmith | More scrap is recovered. |
+| Hunter + Chemist | Remedies last longer. |
+| Carpenter + Navigator | Cruise boats sail faster. |
 
 ### Rumble Ball and dial recipes
 

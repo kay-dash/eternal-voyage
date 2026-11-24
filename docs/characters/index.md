@@ -14,4 +14,5 @@ Your race, faction, and fighting style open chapters in the quest book. Your cho
 - [Fighting style catalogue](styles/index.md) for move stats and training
 - [Schools and martial arts](schools.md)
 - [Factions and professions](factions-and-trades.md)
+- [Profession catalogue](professions/index.md) for all 14 trades, recipes, and progression
 - [Trade talents](trade-talents.md)
