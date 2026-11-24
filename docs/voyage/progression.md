@@ -36,4 +36,6 @@ Before switching sides, check the [faction rules](../characters/factions-and-tra
 
 At a friendly town, trade and pick up errands, or help defend it for prosperity. If your crew wants its own claim, look for an unheld island with a hall and defeat its defenders. Your flag goes up as soon as the island is taken. The [town and conquest guide](../world/conflict.md) walks through both.
 
+Keep a Transponder Snail with you after you claim an island. Its [raid alert](../world/conflict.md#raid-alerts) can reach you while you’re out at sea. Use your crew’s snail numbers to coordinate who can get back to defend.
+
 When your crew is ready, [cross Reverse Mountain into Paradise](paradise.md).

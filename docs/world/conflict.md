@@ -30,7 +30,11 @@ A spruce pole at the hall’s center shows the island’s holder. It flies the c
 
 Flags are visible up to **160 blocks** away, including Cruise town flags. The hall pole and banner resist breaking and explosions. Any section displaced by an ability returns within about **two seconds**, and flags yield no items. Existing halls gain their pole when a player approaches. Older hand-placed banners serve as decoration.
 
-Held islands can face raids. The supplied normal raid window is **20 to 30 in-game days**, with a **five-minute** defense window. Failed defenses lower the hold score. The flag comes down if that score reaches zero.
+### Raid alerts
+
+Raids on claimed islands are announced in chat before they begin. The normal raid interval is **20 to 30 in-game days**. When one starts, the online holders get a chat message with the attacked island and its hall coordinates, even while they’re away. If you’re carrying a **Transponder Snail or Den Den Mushi** in your inventory, you also hear it ring and see a **“Puru puru…”** alert above your hotbar. The ring is automatic.
+
+Use the coordinates to head back to the hall, and [call your crew](../voyage/navigation.md#calling-your-crew) to coordinate the defense. You have **five minutes** to defeat every raider. Failed defenses lower the hold score. The flag comes down if that score reaches zero.
 
 The starting hold score is **three**. The configured retake window is **five to ten in-game days**. The hall has a four-block clear radius for fighting. The wider build-protection radius is set to **64 blocks** in the shipped world rules.
 

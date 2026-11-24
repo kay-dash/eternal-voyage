@@ -23,7 +23,7 @@ To start together, invite a friend with `/starter invite <player>`. The invitati
 
 ## Pack for a landing
 
-Everyone should carry food, armor, a way back to the ship, and the weapon or tool their moves require. Carry a spare boat for landing and keep a way to check the [local weather](../world/weather.md). Agree where to regroup if the crew gets separated.
+Everyone should carry food, armor, a way back to the ship, and the weapon or tool their moves require. Carry a spare boat for landing and keep a way to check the [local weather](../world/weather.md). Before the crew starts splitting up between ship and shore, [make Transponder Snails and swap their numbers](navigation.md#calling-your-crew). Agree where to regroup if the crew gets separated.
 
 | Role | What to bring |
 | --- | --- |

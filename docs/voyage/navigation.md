@@ -23,7 +23,11 @@ Use the One Piece World Log Pose to set story destinations and follow their isla
 
 ## Calling your crew
 
-Use a **Transponder Snail** for voice calls through Simple Voice Chat. Find a Den Den Mushi, craft it into a Transponder Snail, and use the snail’s dialing screen to call a crewmate. A **Visual Transponder Snail** supports video calls. If audio does not come through, check that you are connected to the server’s voice chat.
+Use **Transponder Snails** to talk when you’re out of local voice range. Set up a snail for the ship and one for the shore party before you split up.
+
+1. Craft a **Transponder Snail** from a Den Den Mushi, a Rotary Dial, a Microphone Capsule, and Wire.
+2. Swap snail numbers before leaving port. Right-click the snail to open its dialer, then enter the other snail’s number and call. Your crewmate answers on their end. Both players need to be connected to Simple Voice Chat for audio. Use **Visual Transponder Snails** for video.
+3. Once your crew holds an island, keep a snail in your inventory while away from home. It also rings automatically when a [raid begins on your island](../world/conflict.md#raid-alerts).
 
 [Transponder Snails guide](https://modrinth.com/mod/transponder-snails) · [Items and recipes](../reference/content/transpondersnails.md).
 
