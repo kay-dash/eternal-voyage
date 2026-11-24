@@ -1,0 +1,126 @@
+[project]
+site_name = "Eternal Voyage"
+site_description = "Player guides and pack rules for Eternal Voyage, a Minecraft Forge 1.20.1 modpack."
+docs_dir = "docs"
+site_dir = "site"
+extra_css = ["stylesheets/voyage.css"]
+
+nav = [
+  { "Home" = "index.md" },
+  { "The Voyage" = [
+    "voyage/index.md",
+    { "Getting Started" = "voyage/first-voyage.md" },
+    { "Your first island" = "voyage/first-island.md" },
+    { "Build and captain a ship" = "voyage/shipbuilding.md" },
+    { "Sail to the next island" = "voyage/navigation.md" },
+    { "Grow stronger in the Blues" = "voyage/progression.md" },
+    { "Towns and island claims" = "world/conflict.md" },
+    { "Reach the Grand Line" = "voyage/paradise.md" },
+    { "Skypiea" = "voyage/special-destinations.md" },
+    { "Impel Down" = "voyage/impel-down.md" },
+    { "Reach the New World" = "voyage/new-world.md" },
+    { "Gate of Hell and the final voyage" = "voyage/gates.md" },
+    { "The quest book" = "voyage/quest-book.md" },
+  ] },
+  { "Characters" = [
+    "characters/index.md",
+    { "Races and lineage" = "characters/races-and-styles.md" },
+    { "Race guide" = "characters/races/index.md" },
+    { "Fighting styles" = [
+      "characters/styles/index.md",
+      { "Training and special weapons" = "characters/fighting-styles.md" },
+      { "Core styles" = [
+        { "Art of Weather" = "characters/styles/art_of_weather.md" },
+        { "Black Leg" = "characters/styles/black_leg.md" },
+        { "Brawler" = "characters/styles/brawler.md" },
+        { "Doctor" = "characters/styles/doctor.md" },
+        { "Nitoryu" = "characters/styles/nitoryu.md" },
+        { "Okama Kenpo" = "characters/styles/okama_kenpo.md" },
+        { "Sniper" = "characters/styles/sniper.md" },
+        { "Swordsman" = "characters/styles/swordsman.md" },
+      ] },
+      { "Weapon arts" = [
+        { "Axe" = "characters/styles/axe.md" },
+        { "Bisento" = "characters/styles/bisento.md" },
+        { "Bludgeon" = "characters/styles/bludgeon.md" },
+        { "Twin Barrel" = "characters/styles/twin_barrel.md" },
+      ] },
+    ] },
+    { "Schools and martial arts" = "characters/schools.md" },
+    { "Doriki and Haki" = "characters/haki.md" },
+    { "Bloodlines" = "characters/bloodlines/index.md" },
+    { "Willpower" = "characters/willpower.md" },
+    { "Combat stats and Doriki scaling" = "characters/combat-stats.md" },
+    { "Haki tree techniques" = "characters/haki-tree.md" },
+    { "Devil Fruits and awakenings" = "characters/devil-fruits.md" },
+    { "Devil Fruit catalogue" = "characters/fruits/index.md" },
+    { "Devil Fruit box contents" = "characters/fruit-boxes.md" },
+    { "Factions and professions" = "characters/factions-and-trades.md" },
+    { "Trade talents" = "characters/trade-talents.md" },
+  ] },
+  { "World Systems" = [
+    "world/index.md",
+    { "Weather and climate" = "world/weather.md" },
+    { "Survival at sea" = "world/survival.md" },
+    { "Loot and encounters" = "world/loot.md" },
+    { "Encounter stats" = "world/encounter-stats.md" },
+  ] },
+  { "Reference" = [
+    "reference/index.md",
+    { "Pack rules" = "reference/pack-changes.md" },
+    { "Playable content" = "reference/playable/index.md" },
+    { "Quest chapter reference" = "reference/quests/index.md" },
+    { "World Economy News" = "reference/mod-roles.md" },
+    { "Pack settings" = [
+      "reference/settings/index.md",
+      { "Core powers and progression" = "reference/settings/core.md" },
+      { "Bosses and prison guards" = "reference/settings/encounters.md" },
+      { "Seas, travel and world rules" = "reference/settings/world.md" },
+      { "Weather, survival and encounters" = "reference/settings/survival.md" },
+      { "Companion and Cruise settings" = "reference/settings/integration.md" },
+      { "Move damage multipliers" = "reference/settings/move-damage.md" },
+    ] },
+    { "Datapack overrides" = "reference/datapack/index.md" },
+    { "Mod guides" = "reference/content/index.md" },
+    { "Mod inventory" = "reference/mods.md" },
+    { "Troubleshooting" = "reference/troubleshooting.md" },
+  ] },
+  { "Changelog" = "changelog.md" },
+]
+
+[project.theme]
+variant = "classic"
+language = "en"
+features = [
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.sections",
+  "navigation.tabs",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+]
+
+[project.theme.icon]
+logo = "lucide/compass"
+
+[project.theme.font]
+text = "Source Sans 3"
+code = "IBM Plex Mono"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to light mode"

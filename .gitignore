@@ -1,0 +1,6 @@
+/pack/
+/.venv/
+/site/
+/.cache/
+/.zensical/
+__pycache__/
